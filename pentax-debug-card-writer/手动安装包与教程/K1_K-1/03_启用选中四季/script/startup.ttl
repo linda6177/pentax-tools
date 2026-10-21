@@ -1,0 +1,11 @@
+fileopen h 'C:\script\K1_ENABLE_15_BEGIN.txt' 0
+filewriteln h 'K1_ENABLE_15_BEGIN'
+fileclose h
+sendln 'app_debug CustomImage ForcedActivationSpring'
+sendln 'app_debug CustomImage ForcedActivationKaten'
+sendln 'app_debug CustomImage ForcedActivationAutumn'
+sendln 'app_debug CustomImage ForcedActivationWinter'
+fileopen h 'C:\script\K1_ENABLE_15_RETURNED.txt' 0
+filewriteln h 'K1_ENABLE_15_COMMANDS_RETURNED_CHECK_CAMERA'
+fileclose h
+end

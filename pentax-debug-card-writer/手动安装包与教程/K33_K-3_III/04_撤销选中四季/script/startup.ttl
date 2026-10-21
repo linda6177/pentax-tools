@@ -1,0 +1,11 @@
+fileopen h 'C:\script\K33_CLEAR_15_BEGIN.txt' 0
+filewriteln h 'K33_CLEAR_15_BEGIN'
+fileclose h
+sendln 'app_debug CustomImage ClearForcedActivationHarubeni'
+sendln 'app_debug CustomImage ClearForcedActivationKaten'
+sendln 'app_debug CustomImage ClearForcedActivationKyushu'
+sendln 'app_debug CustomImage ClearForcedActivationFuyuno'
+fileopen h 'C:\script\K33_CLEAR_15_RETURNED.txt' 0
+filewriteln h 'K33_CLEAR_15_COMMANDS_RETURNED_CHECK_CAMERA'
+fileclose h
+end

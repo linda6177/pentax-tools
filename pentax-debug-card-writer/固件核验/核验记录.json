@@ -1,0 +1,99 @@
+{
+  "scope": "K-70、KP 工程模式入口文件名核验",
+  "date": "2026-10-21",
+  "method": "下载官方固件包 → 严格 LZ 解码 → 定位 ROM 元数据记录 → 按 C:\\%08ld.%03ld 规则生成文件名",
+  "camera_accessed": false,
+  "card_accessed": false,
+  "records": {
+    "K-70": {
+      "firmware": "v1.16 / v1.15 / v1.11",
+      "zip": "k70_v116.zip",
+      "zip_sha256": "72399a22a6ddff1b3dee0627867941af1af5285cf7424e9d8cd825c412f8d68c",
+      "inner": "fwdc234b.bin",
+      "inner_size": 18880016,
+      "decoded_size": 19922928,
+      "decoded_sha256": "d87c588f36926bbbf5126b9a1a050404e2579818618c47351d753a17d47de7ca",
+      "record_offset": "0x12FFF00",
+      "mirror_offset": "0x2FFF00",
+      "cpu": 586,
+      "public": 78370,
+      "version_bytes": "10 01 0B 14",
+      "derived": "00078370.586",
+      "cross_versions": {
+        "v1.16": "586/78370",
+        "v1.15": "586/78370",
+        "v1.11": "586/78370"
+      },
+      "public_old_value": "00077770.524",
+      "public_old_present_in_image": false,
+      "commands": [
+        "OPEN_DEBUG_MENU",
+        "SCRIPT_EN_MODE EN",
+        "SCRIPT_EN_MODE DIS",
+        "DEBUG_MODE EN",
+        "DEBUG_MODE DIS"
+      ],
+      "develop_key_present": true,
+      "forced_activation_present": false
+    },
+    "KP": {
+      "firmware": "v1.31 / v1.10",
+      "zip": "kp_v131.zip",
+      "zip_sha256": "7dec150401f63faf84f7bb8365c7b1f2ca6747b3c62eaac5b063397dca344be6",
+      "inner": "fwdc232b.bin",
+      "inner_sha256": "6c3cb0301b4d06b315f39c934d7b0b1dd963e1960861bb3a628008fb69734bb3",
+      "inner_size": 18880016,
+      "decoded_size": 19922920,
+      "decoded_sha256": "26f7fefb6322337ee1f94a541c93d9e924a905190ab0c745f3eab41a043c581a",
+      "record_offset": "0x12FFF00",
+      "mirror_offset": "0x2FFF00",
+      "cpu": 581,
+      "public": 78380,
+      "version_bytes": "1F 01 0B 14",
+      "derived": "00078380.581",
+      "cross_versions": {
+        "v1.31": "581/78380",
+        "v1.10": "581/78380"
+      },
+      "public_old_value": "00078389.581",
+      "public_old_present_in_image": false,
+      "commands": [
+        "OPEN_DEBUG_MENU",
+        "SCRIPT_EN_MODE EN",
+        "SCRIPT_EN_MODE DIS",
+        "DEBUG_MODE EN",
+        "DEBUG_MODE DIS"
+      ],
+      "develop_key_present": true,
+      "forced_activation_present": false
+    }
+  },
+  "crosscheck_models": {
+    "K-1": {
+      "record": "562/77970",
+      "public_filename": "00077970.562",
+      "match": true
+    },
+    "K-1 II": {
+      "record": "597/78400",
+      "public_filename": "00078400.597",
+      "match": true
+    },
+    "K-3 III": {
+      "record": "582/78420",
+      "public_filename": "00078420.582",
+      "match": true
+    },
+    "KF": {
+      "record": "619/78520",
+      "public_filename": "00078520.619",
+      "match": true
+    }
+  },
+  "limitations": [
+    "没有在实机上确认工程菜单是否真的出现。",
+    "文件名来自固件镜像内的 ROM 元数据；若某固件版本不是这种记录格式，本方法不适用（例如 K33 早期镜像）。",
+    "公开来源的旧文件名在对应镜像中不存在，因此只能作为备用方案。",
+    "四季滤镜（ForcedActivation）命令字符串在这两份固件中均不存在，不能据此启用四季功能。"
+  ]
+}

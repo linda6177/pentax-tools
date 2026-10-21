@@ -1,0 +1,23 @@
+{
+  "static_checks_passed": true,
+  "original_apk": "D:\\Download\\OPPO\\Image Sync.apk",
+  "input_sha256": "00756f0c0474c7f6ac0271b817effadf15e92362d49eab9d86cd0d6bba639442",
+  "output_apk": "D:\\Desktop\\ImageSync_Modern\\dist\\ImageSync-Modern-2.1.32.apk",
+  "apk_sha256": "c88aaa3f76c074162fb0f6e6c342fe1450432df9aaa04b5e7bfd4cc36b351972",
+  "original_entries_checked_unchanged": 2858,
+  "new_dex_bytes": 406076,
+  "modern_classes_defined": 359,
+  "expected_screens_present": true,
+  "static_link_classes_checked": 375,
+  "static_link_sdk_members_checked": 2834,
+  "static_link_unresolved": 0,
+  "infrared_permission_declared": true,
+  "vibration_permission_declared": true,
+  "activities_original_preserved": true,
+  "launcher": "com.ricohimaging.imagesync.ModernHomeAct",
+  "zipalign_16k": true,
+  "v1_v2_v3_verified": true,
+  "device_tested": false,
+  "camera_tested": false,
+  "warning": "Signing certificate changed: uninstall the official app before installing; camera behaviour must still be validated on hardware."
+}

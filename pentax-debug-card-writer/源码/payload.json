@@ -1,0 +1,2046 @@
+{
+  "version": "1.3",
+  "date": "2026-10-21",
+  "models": [
+    {
+      "model": "ist D",
+      "kind": "button",
+      "status": "按键教程",
+      "files": [],
+      "note": "原名称带 *；Windows 文件夹名不能包含星号，故目录使用 ist。原始实测汇报明确确认 ist D 与 K100D 的 1.00 固件；其他型号来自系列教程，不能据此保证全部固件。",
+      "folder": "A_已知进入方法\\ist D工程模式",
+      "sources": [
+        "https://www.pentaxforums.com/forums/114-maintenance-repair-articles/274811-debug-focus-adjustment-various-pentax-models.html",
+        "https://www.pentaxforums.com/forums/attachments/38-photographic-technique/43943d1253930833-getting-started-infrared-pentax-istdl2infrared.pdf",
+        "https://www.pentaxforums.com/forums/62-do-yourself/461454-tutorial-enter-debug-menu-pentax-k10d-converting-sdm-lenses-screwdrive.html"
+      ],
+      "tutorial": "ist D 工程模式\n状态：按键教程\n\n适用性与核查说明\n原名称带 *；Windows 文件夹名不能包含星号，故目录使用 ist。原始实测汇报明确确认 ist D 与 K100D 的 1.00 固件；其他型号来自系列教程，不能据此保证全部固件。\n\n无需工模文件。\n1. 关闭相机。\n2. 同时按住 AE-L 和 INFO，打开电源。\n3. 在约 5 秒内依次按 MENU、MENU、INFO。\n4. 若先显示 DEBUG 画面而不是菜单，再按 MENU。\n5. 将 DEBUG MODE 从 DIS/OFF 改成 EN/ON，按 OK 确认。\n退出：重复上述按键过程，将开关改回 DIS/OFF，确认后关机。\n\n资料来源\nhttps://www.pentaxforums.com/forums/114-maintenance-repair-articles/274811-debug-focus-adjustment-various-pentax-models.html\nhttps://www.pentaxforums.com/forums/attachments/38-photographic-technique/43943d1253930833-getting-started-infrared-pentax-istdl2infrared.pdf\nhttps://www.pentaxforums.com/forums/62-do-yourself/461454-tutorial-enter-debug-menu-pentax-k10d-converting-sdm-lenses-screwdrive.html\n检索日期：2026-10-02；未实机验证。\n",
+      "display": "*ist D",
+      "variants": []
+    },
+    {
+      "model": "ist DS",
+      "kind": "button",
+      "status": "按键教程",
+      "files": [],
+      "note": "原名称带 *；Windows 文件夹名不能包含星号，故目录使用 ist。原始实测汇报明确确认 ist D 与 K100D 的 1.00 固件；其他型号来自系列教程，不能据此保证全部固件。",
+      "folder": "A_已知进入方法\\ist DS工程模式",
+      "sources": [
+        "https://www.pentaxforums.com/forums/114-maintenance-repair-articles/274811-debug-focus-adjustment-various-pentax-models.html",
+        "https://www.pentaxforums.com/forums/attachments/38-photographic-technique/43943d1253930833-getting-started-infrared-pentax-istdl2infrared.pdf",
+        "https://www.pentaxforums.com/forums/62-do-yourself/461454-tutorial-enter-debug-menu-pentax-k10d-converting-sdm-lenses-screwdrive.html"
+      ],
+      "tutorial": "ist DS 工程模式\n状态：按键教程\n\n适用性与核查说明\n原名称带 *；Windows 文件夹名不能包含星号，故目录使用 ist。原始实测汇报明确确认 ist D 与 K100D 的 1.00 固件；其他型号来自系列教程，不能据此保证全部固件。\n\n无需工模文件。\n1. 关闭相机。\n2. 同时按住 AE-L 和 INFO，打开电源。\n3. 在约 5 秒内依次按 MENU、MENU、INFO。\n4. 若先显示 DEBUG 画面而不是菜单，再按 MENU。\n5. 将 DEBUG MODE 从 DIS/OFF 改成 EN/ON，按 OK 确认。\n退出：重复上述按键过程，将开关改回 DIS/OFF，确认后关机。\n\n资料来源\nhttps://www.pentaxforums.com/forums/114-maintenance-repair-articles/274811-debug-focus-adjustment-various-pentax-models.html\nhttps://www.pentaxforums.com/forums/attachments/38-photographic-technique/43943d1253930833-getting-started-infrared-pentax-istdl2infrared.pdf\nhttps://www.pentaxforums.com/forums/62-do-yourself/461454-tutorial-enter-debug-menu-pentax-k10d-converting-sdm-lenses-screwdrive.html\n检索日期：2026-10-02；未实机验证。\n",
+      "display": "*ist DS",
+      "variants": []
+    },
+    {
+      "model": "ist DS2",
+      "kind": "button",
+      "status": "按键教程",
+      "files": [],
+      "note": "原名称带 *；Windows 文件夹名不能包含星号，故目录使用 ist。原始实测汇报明确确认 ist D 与 K100D 的 1.00 固件；其他型号来自系列教程，不能据此保证全部固件。",
+      "folder": "A_已知进入方法\\ist DS2工程模式",
+      "sources": [
+        "https://www.pentaxforums.com/forums/114-maintenance-repair-articles/274811-debug-focus-adjustment-various-pentax-models.html",
+        "https://www.pentaxforums.com/forums/attachments/38-photographic-technique/43943d1253930833-getting-started-infrared-pentax-istdl2infrared.pdf",
+        "https://www.pentaxforums.com/forums/62-do-yourself/461454-tutorial-enter-debug-menu-pentax-k10d-converting-sdm-lenses-screwdrive.html"
+      ],
+      "tutorial": "ist DS2 工程模式\n状态：按键教程\n\n适用性与核查说明\n原名称带 *；Windows 文件夹名不能包含星号，故目录使用 ist。原始实测汇报明确确认 ist D 与 K100D 的 1.00 固件；其他型号来自系列教程，不能据此保证全部固件。\n\n无需工模文件。\n1. 关闭相机。\n2. 同时按住 AE-L 和 INFO，打开电源。\n3. 在约 5 秒内依次按 MENU、MENU、INFO。\n4. 若先显示 DEBUG 画面而不是菜单，再按 MENU。\n5. 将 DEBUG MODE 从 DIS/OFF 改成 EN/ON，按 OK 确认。\n退出：重复上述按键过程，将开关改回 DIS/OFF，确认后关机。\n\n资料来源\nhttps://www.pentaxforums.com/forums/114-maintenance-repair-articles/274811-debug-focus-adjustment-various-pentax-models.html\nhttps://www.pentaxforums.com/forums/attachments/38-photographic-technique/43943d1253930833-getting-started-infrared-pentax-istdl2infrared.pdf\nhttps://www.pentaxforums.com/forums/62-do-yourself/461454-tutorial-enter-debug-menu-pentax-k10d-converting-sdm-lenses-screwdrive.html\n检索日期：2026-10-02；未实机验证。\n",
+      "display": "*ist DS2",
+      "variants": []
+    },
+    {
+      "model": "ist DL",
+      "kind": "button",
+      "status": "按键教程",
+      "files": [],
+      "note": "原名称带 *；Windows 文件夹名不能包含星号，故目录使用 ist。原始实测汇报明确确认 ist D 与 K100D 的 1.00 固件；其他型号来自系列教程，不能据此保证全部固件。",
+      "folder": "A_已知进入方法\\ist DL工程模式",
+      "sources": [
+        "https://www.pentaxforums.com/forums/114-maintenance-repair-articles/274811-debug-focus-adjustment-various-pentax-models.html",
+        "https://www.pentaxforums.com/forums/attachments/38-photographic-technique/43943d1253930833-getting-started-infrared-pentax-istdl2infrared.pdf",
+        "https://www.pentaxforums.com/forums/62-do-yourself/461454-tutorial-enter-debug-menu-pentax-k10d-converting-sdm-lenses-screwdrive.html"
+      ],
+      "tutorial": "ist DL 工程模式\n状态：按键教程\n\n适用性与核查说明\n原名称带 *；Windows 文件夹名不能包含星号，故目录使用 ist。原始实测汇报明确确认 ist D 与 K100D 的 1.00 固件；其他型号来自系列教程，不能据此保证全部固件。\n\n无需工模文件。\n1. 关闭相机。\n2. 同时按住 AE-L 和 INFO，打开电源。\n3. 在约 5 秒内依次按 MENU、MENU、INFO。\n4. 若先显示 DEBUG 画面而不是菜单，再按 MENU。\n5. 将 DEBUG MODE 从 DIS/OFF 改成 EN/ON，按 OK 确认。\n退出：重复上述按键过程，将开关改回 DIS/OFF，确认后关机。\n\n资料来源\nhttps://www.pentaxforums.com/forums/114-maintenance-repair-articles/274811-debug-focus-adjustment-various-pentax-models.html\nhttps://www.pentaxforums.com/forums/attachments/38-photographic-technique/43943d1253930833-getting-started-infrared-pentax-istdl2infrared.pdf\nhttps://www.pentaxforums.com/forums/62-do-yourself/461454-tutorial-enter-debug-menu-pentax-k10d-converting-sdm-lenses-screwdrive.html\n检索日期：2026-10-02；未实机验证。\n",
+      "display": "*ist DL",
+      "variants": []
+    },
+    {
+      "model": "ist DL2",
+      "kind": "button",
+      "status": "按键教程",
+      "files": [],
+      "note": "原名称带 *；Windows 文件夹名不能包含星号，故目录使用 ist。原始实测汇报明确确认 ist D 与 K100D 的 1.00 固件；其他型号来自系列教程，不能据此保证全部固件。",
+      "folder": "A_已知进入方法\\ist DL2工程模式",
+      "sources": [
+        "https://www.pentaxforums.com/forums/114-maintenance-repair-articles/274811-debug-focus-adjustment-various-pentax-models.html",
+        "https://www.pentaxforums.com/forums/attachments/38-photographic-technique/43943d1253930833-getting-started-infrared-pentax-istdl2infrared.pdf",
+        "https://www.pentaxforums.com/forums/62-do-yourself/461454-tutorial-enter-debug-menu-pentax-k10d-converting-sdm-lenses-screwdrive.html"
+      ],
+      "tutorial": "ist DL2 工程模式\n状态：按键教程\n\n适用性与核查说明\n原名称带 *；Windows 文件夹名不能包含星号，故目录使用 ist。原始实测汇报明确确认 ist D 与 K100D 的 1.00 固件；其他型号来自系列教程，不能据此保证全部固件。\n\n无需工模文件。\n1. 关闭相机。\n2. 同时按住 AE-L 和 INFO，打开电源。\n3. 在约 5 秒内依次按 MENU、MENU、INFO。\n4. 若先显示 DEBUG 画面而不是菜单，再按 MENU。\n5. 将 DEBUG MODE 从 DIS/OFF 改成 EN/ON，按 OK 确认。\n退出：重复上述按键过程，将开关改回 DIS/OFF，确认后关机。\n\n资料来源\nhttps://www.pentaxforums.com/forums/114-maintenance-repair-articles/274811-debug-focus-adjustment-various-pentax-models.html\nhttps://www.pentaxforums.com/forums/attachments/38-photographic-technique/43943d1253930833-getting-started-infrared-pentax-istdl2infrared.pdf\nhttps://www.pentaxforums.com/forums/62-do-yourself/461454-tutorial-enter-debug-menu-pentax-k10d-converting-sdm-lenses-screwdrive.html\n检索日期：2026-10-02；未实机验证。\n",
+      "display": "*ist DL2",
+      "variants": []
+    },
+    {
+      "model": "K100D",
+      "kind": "button",
+      "status": "按键教程",
+      "files": [],
+      "note": "原始实测汇报明确确认 ist D 与 K100D 的 1.00 固件；其他型号来自系列教程，不能据此保证全部固件。",
+      "folder": "A_已知进入方法\\K100D工程模式",
+      "sources": [
+        "https://www.pentaxforums.com/forums/114-maintenance-repair-articles/274811-debug-focus-adjustment-various-pentax-models.html",
+        "https://www.pentaxforums.com/forums/attachments/38-photographic-technique/43943d1253930833-getting-started-infrared-pentax-istdl2infrared.pdf",
+        "https://www.pentaxforums.com/forums/62-do-yourself/461454-tutorial-enter-debug-menu-pentax-k10d-converting-sdm-lenses-screwdrive.html"
+      ],
+      "tutorial": "K100D 工程模式\n状态：按键教程\n\n适用性与核查说明\n原始实测汇报明确确认 ist D 与 K100D 的 1.00 固件；其他型号来自系列教程，不能据此保证全部固件。\n\n无需工模文件。\n1. 关闭相机。\n2. 同时按住 AE-L 和 INFO，打开电源。\n3. 在约 5 秒内依次按 MENU、MENU、INFO。\n4. 若先显示 DEBUG 画面而不是菜单，再按 MENU。\n5. 将 DEBUG MODE 从 DIS/OFF 改成 EN/ON，按 OK 确认。\n退出：重复上述按键过程，将开关改回 DIS/OFF，确认后关机。\n\n资料来源\nhttps://www.pentaxforums.com/forums/114-maintenance-repair-articles/274811-debug-focus-adjustment-various-pentax-models.html\nhttps://www.pentaxforums.com/forums/attachments/38-photographic-technique/43943d1253930833-getting-started-infrared-pentax-istdl2infrared.pdf\nhttps://www.pentaxforums.com/forums/62-do-yourself/461454-tutorial-enter-debug-menu-pentax-k10d-converting-sdm-lenses-screwdrive.html\n检索日期：2026-10-02；未实机验证。\n",
+      "display": "K100D",
+      "variants": []
+    },
+    {
+      "model": "K110D",
+      "kind": "button",
+      "status": "按键教程",
+      "files": [],
+      "note": "原始实测汇报明确确认 ist D 与 K100D 的 1.00 固件；其他型号来自系列教程，不能据此保证全部固件。",
+      "folder": "A_已知进入方法\\K110D工程模式",
+      "sources": [
+        "https://www.pentaxforums.com/forums/114-maintenance-repair-articles/274811-debug-focus-adjustment-various-pentax-models.html",
+        "https://www.pentaxforums.com/forums/attachments/38-photographic-technique/43943d1253930833-getting-started-infrared-pentax-istdl2infrared.pdf",
+        "https://www.pentaxforums.com/forums/62-do-yourself/461454-tutorial-enter-debug-menu-pentax-k10d-converting-sdm-lenses-screwdrive.html"
+      ],
+      "tutorial": "K110D 工程模式\n状态：按键教程\n\n适用性与核查说明\n原始实测汇报明确确认 ist D 与 K100D 的 1.00 固件；其他型号来自系列教程，不能据此保证全部固件。\n\n无需工模文件。\n1. 关闭相机。\n2. 同时按住 AE-L 和 INFO，打开电源。\n3. 在约 5 秒内依次按 MENU、MENU、INFO。\n4. 若先显示 DEBUG 画面而不是菜单，再按 MENU。\n5. 将 DEBUG MODE 从 DIS/OFF 改成 EN/ON，按 OK 确认。\n退出：重复上述按键过程，将开关改回 DIS/OFF，确认后关机。\n\n资料来源\nhttps://www.pentaxforums.com/forums/114-maintenance-repair-articles/274811-debug-focus-adjustment-various-pentax-models.html\nhttps://www.pentaxforums.com/forums/attachments/38-photographic-technique/43943d1253930833-getting-started-infrared-pentax-istdl2infrared.pdf\nhttps://www.pentaxforums.com/forums/62-do-yourself/461454-tutorial-enter-debug-menu-pentax-k10d-converting-sdm-lenses-screwdrive.html\n检索日期：2026-10-02；未实机验证。\n",
+      "display": "K110D",
+      "variants": []
+    },
+    {
+      "model": "K100D Super",
+      "kind": "single",
+      "status": "公开内容重建文件",
+      "files": [
+        "MODSET.459"
+      ],
+      "note": "不能套用普通 K100D 的纯按键方法。",
+      "folder": "A_已知进入方法\\K100D Super工程模式",
+      "sources": [
+        "https://www.pentaxforums.com/forums/10-pentax-slr-lens-discussion/208353-how-deactivate-sdm-allow-screw-drive-autofocus-da-16-50mm-f-2-8-a-31.html",
+        "https://www.pentaxforums.com/forums/62-do-yourself/461454-tutorial-enter-debug-menu-pentax-k10d-converting-sdm-lenses-screwdrive.html"
+      ],
+      "tutorial": "K100D Super 工程模式\n状态：公开内容重建文件\n\n适用性与核查说明\n不能套用普通 K100D 的纯按键方法。\n\n文件：MODSET.459\n文件来源：依据下列公开说明重建，并非下载 ZIP 的逐字节副本。\n1. 关机，将本目录“工模文件”中的文件复制到存储卡根目录。\n2. 卡门保持打开，按住 MENU 开机。\n3. 显示 Development / Debug 菜单后，按需要把 DEBUG MODE 由 DIS 改为 EN，并确认。\n4. 退出时将 DEBUG MODE 改回 DIS/OFF，确认；关机取卡，删除触发文件后正常开机。\n完整的通用准备和退出说明见根目录“00_先读我.txt”。\n\n资料来源\nhttps://www.pentaxforums.com/forums/10-pentax-slr-lens-discussion/208353-how-deactivate-sdm-allow-screw-drive-autofocus-da-16-50mm-f-2-8-a-31.html\nhttps://www.pentaxforums.com/forums/62-do-yourself/461454-tutorial-enter-debug-menu-pentax-k10d-converting-sdm-lenses-screwdrive.html\n检索日期：2026-10-02；未实机验证。\n",
+      "display": "K100D Super",
+      "variants": [
+        {
+          "label": "标准方案",
+          "files": {
+            "MODSET.459": "W09QRU5fREVCVUdfTUVOVV0NCg=="
+          }
+        }
+      ]
+    },
+    {
+      "model": "K20D",
+      "kind": "single",
+      "status": "公开内容重建文件",
+      "files": [
+        "MODSET.442"
+      ],
+      "note": "早期资料明确列出 v1.03。",
+      "folder": "A_已知进入方法\\K20D工程模式",
+      "sources": [
+        "https://www.pentax-hack.info/documents/debug.html"
+      ],
+      "tutorial": "K20D 工程模式\n状态：公开内容重建文件\n\n适用性与核查说明\n早期资料明确列出 v1.03。\n\n文件：MODSET.442\n文件来源：依据下列公开说明重建，并非下载 ZIP 的逐字节副本。\n1. 关机，将本目录“工模文件”中的文件复制到存储卡根目录。\n2. 插卡后保持卡门打开开机；早期教程另提按住 MENU 开机。\n3. 显示 Development / Debug 菜单后，按需要把 DEBUG MODE 由 DIS 改为 EN，并确认。\n4. 退出时将 DEBUG MODE 改回 DIS/OFF，确认；关机取卡，删除触发文件后正常开机。\n完整的通用准备和退出说明见根目录“00_先读我.txt”。\n\n资料来源\nhttps://www.pentax-hack.info/documents/debug.html\n检索日期：2026-10-02；未实机验证。\n",
+      "display": "K20D",
+      "variants": [
+        {
+          "label": "标准方案",
+          "files": {
+            "MODSET.442": "W09QRU5fREVCVUdfTUVOVV0NCg=="
+          }
+        }
+      ]
+    },
+    {
+      "model": "K200D",
+      "kind": "single",
+      "status": "公开内容重建文件",
+      "files": [
+        "MODSET.445"
+      ],
+      "note": "早期资料写 v1.00.00.03。",
+      "folder": "A_已知进入方法\\K200D工程模式",
+      "sources": [
+        "https://www.pentax-hack.info/documents/debug.html"
+      ],
+      "tutorial": "K200D 工程模式\n状态：公开内容重建文件\n\n适用性与核查说明\n早期资料写 v1.00.00.03。\n\n文件：MODSET.445\n文件来源：依据下列公开说明重建，并非下载 ZIP 的逐字节副本。\n1. 关机，将本目录“工模文件”中的文件复制到存储卡根目录。\n2. 插卡后保持卡门打开开机；若未进入，依早期教程按住 MENU 开机。\n3. 显示 Development / Debug 菜单后，按需要把 DEBUG MODE 由 DIS 改为 EN，并确认。\n4. 退出时将 DEBUG MODE 改回 DIS/OFF，确认；关机取卡，删除触发文件后正常开机。\n完整的通用准备和退出说明见根目录“00_先读我.txt”。\n\n资料来源\nhttps://www.pentax-hack.info/documents/debug.html\n检索日期：2026-10-02；未实机验证。\n",
+      "display": "K200D",
+      "variants": [
+        {
+          "label": "标准方案",
+          "files": {
+            "MODSET.445": "W09QRU5fREVCVUdfTUVOVV0NCg=="
+          }
+        }
+      ]
+    },
+    {
+      "model": "K-m",
+      "kind": "single",
+      "status": "公开内容重建文件",
+      "files": [
+        "MODSET.464"
+      ],
+      "note": "早期资料列 v1.10；勿因地区别名就混用 K2000 文件。",
+      "folder": "A_已知进入方法\\K-m工程模式",
+      "sources": [
+        "https://www.pentax-hack.info/documents/debug.html"
+      ],
+      "tutorial": "K-m 工程模式\n状态：公开内容重建文件\n\n适用性与核查说明\n早期资料列 v1.10；勿因地区别名就混用 K2000 文件。\n\n文件：MODSET.464\n文件来源：依据下列公开说明重建，并非下载 ZIP 的逐字节副本。\n1. 关机，将本目录“工模文件”中的文件复制到存储卡根目录。\n2. 插卡后按住 Delete（删除）开机。\n3. 显示 Development / Debug 菜单后，按需要把 DEBUG MODE 由 DIS 改为 EN，并确认。\n4. 退出时将 DEBUG MODE 改回 DIS/OFF，确认；关机取卡，删除触发文件后正常开机。\n完整的通用准备和退出说明见根目录“00_先读我.txt”。\n\n资料来源\nhttps://www.pentax-hack.info/documents/debug.html\n检索日期：2026-10-02；未实机验证。\n",
+      "display": "K-m",
+      "variants": [
+        {
+          "label": "标准方案",
+          "files": {
+            "MODSET.464": "W09QRU5fREVCVUdfTUVOVV0NCg=="
+          }
+        }
+      ]
+    },
+    {
+      "model": "K2000",
+      "kind": "single",
+      "status": "公开内容重建文件",
+      "files": [
+        "MODSET.482"
+      ],
+      "note": "K-m 的地区型号；早期资料列 v1.10，文件名与 K-m 不同。",
+      "folder": "A_已知进入方法\\K2000工程模式",
+      "sources": [
+        "https://www.pentax-hack.info/documents/debug.html"
+      ],
+      "tutorial": "K2000 工程模式\n状态：公开内容重建文件\n\n适用性与核查说明\nK-m 的地区型号；早期资料列 v1.10，文件名与 K-m 不同。\n\n文件：MODSET.482\n文件来源：依据下列公开说明重建，并非下载 ZIP 的逐字节副本。\n1. 关机，将本目录“工模文件”中的文件复制到存储卡根目录。\n2. 插卡后按住 Delete（删除）开机。\n3. 显示 Development / Debug 菜单后，按需要把 DEBUG MODE 由 DIS 改为 EN，并确认。\n4. 退出时将 DEBUG MODE 改回 DIS/OFF，确认；关机取卡，删除触发文件后正常开机。\n完整的通用准备和退出说明见根目录“00_先读我.txt”。\n\n资料来源\nhttps://www.pentax-hack.info/documents/debug.html\n检索日期：2026-10-02；未实机验证。\n",
+      "display": "K2000",
+      "variants": [
+        {
+          "label": "标准方案",
+          "files": {
+            "MODSET.482": "W09QRU5fREVCVUdfTUVOVV0NCg=="
+          }
+        }
+      ]
+    },
+    {
+      "model": "K-x",
+      "kind": "single",
+      "status": "公开内容重建文件",
+      "files": [
+        "MODSET.492"
+      ],
+      "note": "原始说明针对固件 1.00；其他版本适用性未保证。",
+      "folder": "A_已知进入方法\\K-x工程模式",
+      "sources": [
+        "https://ricehigh.blogspot.com/2010/01/k-x-debug-mode-tutorial-af-adjustment.html"
+      ],
+      "tutorial": "K-x 工程模式\n状态：公开内容重建文件\n\n适用性与核查说明\n原始说明针对固件 1.00；其他版本适用性未保证。\n\n文件：MODSET.492\n文件来源：依据下列公开说明重建，并非下载 ZIP 的逐字节副本。\n1. 关机，将本目录“工模文件”中的文件复制到存储卡根目录。\n2. 按住 +/-（Av，曝光补偿）按钮开机。\n3. 显示 Development / Debug 菜单后，按需要把 DEBUG MODE 由 DIS 改为 EN，并确认。\n4. 退出时将 DEBUG MODE 改回 DIS/OFF，确认；关机取卡，删除触发文件后正常开机。\n完整的通用准备和退出说明见根目录“00_先读我.txt”。\n\n资料来源\nhttps://ricehigh.blogspot.com/2010/01/k-x-debug-mode-tutorial-af-adjustment.html\n检索日期：2026-10-02；未实机验证。\n",
+      "display": "K-x",
+      "variants": [
+        {
+          "label": "标准方案",
+          "files": {
+            "MODSET.492": "W09QRU5fREVCVUdfTUVOVV0NCg=="
+          }
+        }
+      ]
+    },
+    {
+      "model": "K-7",
+      "kind": "single",
+      "status": "公开内容重建文件",
+      "files": [
+        "MODSET.474"
+      ],
+      "note": "早期资料明确列 v1.01。",
+      "folder": "A_已知进入方法\\K-7工程模式",
+      "sources": [
+        "https://www.pentax-hack.info/documents/debug.html"
+      ],
+      "tutorial": "K-7 工程模式\n状态：公开内容重建文件\n\n适用性与核查说明\n早期资料明确列 v1.01。\n\n文件：MODSET.474\n文件来源：依据下列公开说明重建，并非下载 ZIP 的逐字节副本。\n1. 关机，将本目录“工模文件”中的文件复制到存储卡根目录。\n2. 插卡后保持卡门打开开机；早期教程另提按住 MENU 开机。\n3. 显示 Development / Debug 菜单后，按需要把 DEBUG MODE 由 DIS 改为 EN，并确认。\n4. 退出时将 DEBUG MODE 改回 DIS/OFF，确认；关机取卡，删除触发文件后正常开机。\n完整的通用准备和退出说明见根目录“00_先读我.txt”。\n\n资料来源\nhttps://www.pentax-hack.info/documents/debug.html\n检索日期：2026-10-02；未实机验证。\n",
+      "display": "K-7",
+      "variants": [
+        {
+          "label": "标准方案",
+          "files": {
+            "MODSET.474": "W09QRU5fREVCVUdfTUVOVV0NCg=="
+          }
+        }
+      ]
+    },
+    {
+      "model": "645D",
+      "kind": "single",
+      "status": "公开内容重建文件",
+      "files": [
+        "MODSET.487"
+      ],
+      "note": "中画幅数码单反；使用单个 MODSET 文件。",
+      "folder": "A_已知进入方法\\645D工程模式",
+      "sources": [
+        "https://www.pentaxforums.com/forums/48-pentax-medium-format/424806-there-pentax-645d-z-debug-mode.html"
+      ],
+      "tutorial": "645D 工程模式\n状态：公开内容重建文件\n\n适用性与核查说明\n中画幅数码单反；使用单个 MODSET 文件。\n\n文件：MODSET.487\n文件来源：依据下列公开说明重建，并非下载 ZIP 的逐字节副本。\n1. 关机，将本目录“工模文件”中的文件复制到存储卡根目录。\n2. 插卡后保持卡门打开开机。\n3. 显示 Development / Debug 菜单后，按需要把 DEBUG MODE 由 DIS 改为 EN，并确认。\n4. 退出时将 DEBUG MODE 改回 DIS/OFF，确认；关机取卡，删除触发文件后正常开机。\n完整的通用准备和退出说明见根目录“00_先读我.txt”。\n\n资料来源\nhttps://www.pentaxforums.com/forums/48-pentax-medium-format/424806-there-pentax-645d-z-debug-mode.html\n检索日期：2026-10-02；未实机验证。\n",
+      "display": "645D",
+      "variants": [
+        {
+          "label": "标准方案",
+          "files": {
+            "MODSET.487": "W09QRU5fREVCVUdfTUVOVV0NCg=="
+          }
+        }
+      ]
+    },
+    {
+      "model": "K10D",
+      "kind": "special",
+      "status": "按固件分方案重建文件",
+      "files": [
+        "MODSET.421",
+        "MODSET.TXT",
+        "MODSET"
+      ],
+      "note": "按固件选择：v1.10 用 MODSET.421；v1.20–1.30 用 MODSET.TXT；v1.31 教程报告 MODSET 或 MODSET.TXT。v1.00 未单独核实。只复制对应方案，不要混用。",
+      "folder": "A_已知进入方法\\K10D工程模式",
+      "sources": [
+        "https://www.pentax-hack.info/documents/debug.html",
+        "https://www.pentaxforums.com/forums/62-do-yourself/461454-tutorial-enter-debug-menu-pentax-k10d-converting-sdm-lenses-screwdrive.html"
+      ],
+      "tutorial": "K10D：按固件选择一个子目录\n1. 将对应方案的工模文件复制到卡根目录。\n2. 卡门打开后开机；老版本教程也提到按住 MENU 开机。\n3. DEBUG MODE：DIS 改 EN，确认。\n4. 退出时改回 DIS，确认后关机，删除卡上的触发文件。\nv1.31 若方案1不能进入，关机后删除卡上 MODSET，再换方案2；不要同时放两套。\n资料均由公开命令重建，未实机验证。\nhttps://www.pentaxforums.com/forums/62-do-yourself/461454-tutorial-enter-debug-menu-pentax-k10d-converting-sdm-lenses-screwdrive.html\nhttps://www.pentax-hack.info/documents/debug.html",
+      "display": "K10D",
+      "variants": [
+        {
+          "label": "v1.10",
+          "files": {
+            "MODSET.421": "W09QRU5fREVCVUdfTUVOVV0NCg=="
+          }
+        },
+        {
+          "label": "v1.20-v1.30",
+          "files": {
+            "MODSET.TXT": "W09QRU5fREVCVUdfTUVOVV0NCg=="
+          }
+        },
+        {
+          "label": "v1.31_方案1",
+          "files": {
+            "MODSET": "W09QRU5fREVCVUdfTUVOVV0NCg=="
+          }
+        },
+        {
+          "label": "v1.31_方案2",
+          "files": {
+            "MODSET.TXT": "W09QRU5fREVCVUdfTUVOVV0NCg=="
+          }
+        }
+      ]
+    },
+    {
+      "model": "K-r",
+      "kind": "double",
+      "status": "公开内容重建文件",
+      "files": [
+        "00077420.504",
+        "DEVELOP.MOD"
+      ],
+      "note": "原始用户报告有成功进入记录。",
+      "folder": "A_已知进入方法\\K-r工程模式",
+      "sources": [
+        "https://www.pentaxforums.com/forums/10-pentax-slr-lens-discussion/321757-how-convert-sdm-screwdrive-video-21.html"
+      ],
+      "tutorial": "K-r 工程模式\n状态：公开内容重建文件\n\n适用性与核查说明\n原始用户报告有成功进入记录。\n\n文件：00077420.504、DEVELOP.MOD\n文件来源：依据下列公开说明重建，并非下载 ZIP 的逐字节副本。\n1. 关机，将本目录“工模文件”中的文件复制到存储卡根目录。\n2. 把卡插入卡槽1（如有双卡槽），卡门保持打开，打开电源。\n3. 显示 Development / Debug 菜单后，按需要把 DEBUG MODE 由 DIS 改为 EN，并确认。\n4. 退出时将 DEBUG MODE 改回 DIS/OFF，确认；关机取卡，删除触发文件后正常开机。\n完整的通用准备和退出说明见根目录“00_先读我.txt”。\n\n资料来源\nhttps://www.pentaxforums.com/forums/10-pentax-slr-lens-discussion/321757-how-convert-sdm-screwdrive-video-21.html\n检索日期：2026-10-02；未实机验证。\n",
+      "display": "K-r",
+      "variants": [
+        {
+          "label": "标准方案",
+          "files": {
+            "00077420.504": "W09QRU5fREVCVUdfTUVOVV0NCg==",
+            "DEVELOP.MOD": ""
+          }
+        }
+      ]
+    },
+    {
+      "model": "K-5",
+      "kind": "double",
+      "status": "公开内容重建文件",
+      "files": [
+        "00077430.505",
+        "DEVELOP.MOD"
+      ],
+      "note": "文件内容有公开核查记录。",
+      "folder": "A_已知进入方法\\K-5工程模式",
+      "sources": [
+        "https://www.pentaxforums.com/forums/6-pentax-dslr-discussion/409494-files-collection-enter-debug-mode.html",
+        "https://forum.digitalfotonetz.de/viewtopic.php?t=97668"
+      ],
+      "tutorial": "K-5 工程模式\n状态：公开内容重建文件\n\n适用性与核查说明\n文件内容有公开核查记录。\n\n文件：00077430.505、DEVELOP.MOD\n文件来源：依据下列公开说明重建，并非下载 ZIP 的逐字节副本。\n1. 关机，将本目录“工模文件”中的文件复制到存储卡根目录。\n2. 把卡插入卡槽1（如有双卡槽），卡门保持打开，打开电源。\n3. 显示 Development / Debug 菜单后，按需要把 DEBUG MODE 由 DIS 改为 EN，并确认。\n4. 退出时将 DEBUG MODE 改回 DIS/OFF，确认；关机取卡，删除触发文件后正常开机。\n完整的通用准备和退出说明见根目录“00_先读我.txt”。\n\n资料来源\nhttps://www.pentaxforums.com/forums/6-pentax-dslr-discussion/409494-files-collection-enter-debug-mode.html\nhttps://forum.digitalfotonetz.de/viewtopic.php?t=97668\n检索日期：2026-10-02；未实机验证。\n",
+      "display": "K-5",
+      "variants": [
+        {
+          "label": "标准方案",
+          "files": {
+            "00077430.505": "W09QRU5fREVCVUdfTUVOVV0NCg==",
+            "DEVELOP.MOD": ""
+          }
+        }
+      ]
+    },
+    {
+      "model": "K-5 II",
+      "kind": "double",
+      "status": "公开内容重建文件",
+      "files": [
+        "00077680.536",
+        "DEVELOP.MOD"
+      ],
+      "note": "有些转载把 IIs 的 00077681.541 混到 II；这里按独立型号表使用 .536。",
+      "folder": "A_已知进入方法\\K-5 II工程模式",
+      "sources": [
+        "https://forum.digitalfotonetz.de/viewtopic.php?t=97668"
+      ],
+      "tutorial": "K-5 II 工程模式\n状态：公开内容重建文件\n\n适用性与核查说明\n有些转载把 IIs 的 00077681.541 混到 II；这里按独立型号表使用 .536。\n\n文件：00077680.536、DEVELOP.MOD\n文件来源：依据下列公开说明重建，并非下载 ZIP 的逐字节副本。\n1. 关机，将本目录“工模文件”中的文件复制到存储卡根目录。\n2. 把卡插入卡槽1（如有双卡槽），卡门保持打开，打开电源。\n3. 显示 Development / Debug 菜单后，按需要把 DEBUG MODE 由 DIS 改为 EN，并确认。\n4. 退出时将 DEBUG MODE 改回 DIS/OFF，确认；关机取卡，删除触发文件后正常开机。\n完整的通用准备和退出说明见根目录“00_先读我.txt”。\n\n资料来源\nhttps://forum.digitalfotonetz.de/viewtopic.php?t=97668\n检索日期：2026-10-02；未实机验证。\n",
+      "display": "K-5 II",
+      "variants": [
+        {
+          "label": "标准方案",
+          "files": {
+            "00077680.536": "W09QRU5fREVCVUdfTUVOVV0NCg==",
+            "DEVELOP.MOD": ""
+          }
+        }
+      ]
+    },
+    {
+      "model": "K-5 IIs",
+      "kind": "double",
+      "status": "公开内容重建文件",
+      "files": [
+        "00077681.541",
+        "DEVELOP.MOD"
+      ],
+      "note": "与 K-5 II 文件名不同，注意 IIs 后缀。",
+      "folder": "A_已知进入方法\\K-5 IIs工程模式",
+      "sources": [
+        "https://forum.digitalfotonetz.de/viewtopic.php?t=97668"
+      ],
+      "tutorial": "K-5 IIs 工程模式\n状态：公开内容重建文件\n\n适用性与核查说明\n与 K-5 II 文件名不同，注意 IIs 后缀。\n\n文件：00077681.541、DEVELOP.MOD\n文件来源：依据下列公开说明重建，并非下载 ZIP 的逐字节副本。\n1. 关机，将本目录“工模文件”中的文件复制到存储卡根目录。\n2. 把卡插入卡槽1（如有双卡槽），卡门保持打开，打开电源。\n3. 显示 Development / Debug 菜单后，按需要把 DEBUG MODE 由 DIS 改为 EN，并确认。\n4. 退出时将 DEBUG MODE 改回 DIS/OFF，确认；关机取卡，删除触发文件后正常开机。\n完整的通用准备和退出说明见根目录“00_先读我.txt”。\n\n资料来源\nhttps://forum.digitalfotonetz.de/viewtopic.php?t=97668\n检索日期：2026-10-02；未实机验证。\n",
+      "display": "K-5 IIs",
+      "variants": [
+        {
+          "label": "标准方案",
+          "files": {
+            "00077681.541": "W09QRU5fREVCVUdfTUVOVV0NCg==",
+            "DEVELOP.MOD": ""
+          }
+        }
+      ]
+    },
+    {
+      "model": "K-30",
+      "kind": "double",
+      "status": "公开内容重建文件",
+      "files": [
+        "00077650.524",
+        "DEVELOP.MOD"
+      ],
+      "note": "合集作者报告实测 K-30。",
+      "folder": "A_已知进入方法\\K-30工程模式",
+      "sources": [
+        "https://forum.digitalfotonetz.de/viewtopic.php?t=97668",
+        "https://www.pentaxforums.com/forums/6-pentax-dslr-discussion/409494-files-collection-enter-debug-mode.html"
+      ],
+      "tutorial": "K-30 工程模式\n状态：公开内容重建文件\n\n适用性与核查说明\n合集作者报告实测 K-30。\n\n文件：00077650.524、DEVELOP.MOD\n文件来源：依据下列公开说明重建，并非下载 ZIP 的逐字节副本。\n1. 关机，将本目录“工模文件”中的文件复制到存储卡根目录。\n2. 把卡插入卡槽1（如有双卡槽），卡门保持打开，打开电源。\n3. 显示 Development / Debug 菜单后，按需要把 DEBUG MODE 由 DIS 改为 EN，并确认。\n4. 退出时将 DEBUG MODE 改回 DIS/OFF，确认；关机取卡，删除触发文件后正常开机。\n完整的通用准备和退出说明见根目录“00_先读我.txt”。\n\n资料来源\nhttps://forum.digitalfotonetz.de/viewtopic.php?t=97668\nhttps://www.pentaxforums.com/forums/6-pentax-dslr-discussion/409494-files-collection-enter-debug-mode.html\n检索日期：2026-10-02；未实机验证。\n",
+      "display": "K-30",
+      "variants": [
+        {
+          "label": "标准方案",
+          "files": {
+            "00077650.524": "W09QRU5fREVCVUdfTUVOVV0NCg==",
+            "DEVELOP.MOD": ""
+          }
+        }
+      ]
+    },
+    {
+      "model": "K-50",
+      "kind": "double",
+      "status": "公开内容重建文件",
+      "files": [
+        "00077750.545",
+        "DEVELOP.MOD"
+      ],
+      "note": "合集作者报告实测 K-50。",
+      "folder": "A_已知进入方法\\K-50工程模式",
+      "sources": [
+        "https://forum.digitalfotonetz.de/viewtopic.php?t=97668",
+        "https://www.pentaxforums.com/forums/6-pentax-dslr-discussion/409494-files-collection-enter-debug-mode.html"
+      ],
+      "tutorial": "K-50 工程模式\n状态：公开内容重建文件\n\n适用性与核查说明\n合集作者报告实测 K-50。\n\n文件：00077750.545、DEVELOP.MOD\n文件来源：依据下列公开说明重建，并非下载 ZIP 的逐字节副本。\n1. 关机，将本目录“工模文件”中的文件复制到存储卡根目录。\n2. 把卡插入卡槽1（如有双卡槽），卡门保持打开，打开电源。\n3. 显示 Development / Debug 菜单后，按需要把 DEBUG MODE 由 DIS 改为 EN，并确认。\n4. 退出时将 DEBUG MODE 改回 DIS/OFF，确认；关机取卡，删除触发文件后正常开机。\n完整的通用准备和退出说明见根目录“00_先读我.txt”。\n\n资料来源\nhttps://forum.digitalfotonetz.de/viewtopic.php?t=97668\nhttps://www.pentaxforums.com/forums/6-pentax-dslr-discussion/409494-files-collection-enter-debug-mode.html\n检索日期：2026-10-02；未实机验证。\n",
+      "display": "K-50",
+      "variants": [
+        {
+          "label": "标准方案",
+          "files": {
+            "00077750.545": "W09QRU5fREVCVUdfTUVOVV0NCg==",
+            "DEVELOP.MOD": ""
+          }
+        }
+      ]
+    },
+    {
+      "model": "K-3",
+      "kind": "double",
+      "status": "公开内容重建文件",
+      "files": [
+        "00077760.502",
+        "DEVELOP.MOD"
+      ],
+      "note": "原始教程指定卡槽1；较新固件存在无法进入的讨论，未保证全部版本。",
+      "folder": "A_已知进入方法\\K-3工程模式",
+      "sources": [
+        "https://www.pentaxforums.com/forums/172-pentax-k-3-k-3-ii/273233-pentax-k-3-debug-menu-fyi.html"
+      ],
+      "tutorial": "K-3 工程模式\n状态：公开内容重建文件\n\n适用性与核查说明\n原始教程指定卡槽1；较新固件存在无法进入的讨论，未保证全部版本。\n\n文件：00077760.502、DEVELOP.MOD\n文件来源：依据下列公开说明重建，并非下载 ZIP 的逐字节副本。\n1. 关机，将本目录“工模文件”中的文件复制到存储卡根目录。\n2. 把卡插入卡槽1（如有双卡槽），卡门保持打开，打开电源。\n3. 显示 Development / Debug 菜单后，按需要把 DEBUG MODE 由 DIS 改为 EN，并确认。\n4. 退出时将 DEBUG MODE 改回 DIS/OFF，确认；关机取卡，删除触发文件后正常开机。\n完整的通用准备和退出说明见根目录“00_先读我.txt”。\n\n资料来源\nhttps://www.pentaxforums.com/forums/172-pentax-k-3-k-3-ii/273233-pentax-k-3-debug-menu-fyi.html\n检索日期：2026-10-02；未实机验证。\n",
+      "display": "K-3",
+      "variants": [
+        {
+          "label": "标准方案",
+          "files": {
+            "00077760.502": "W09QRU5fREVCVUdfTUVOVV0NCg==",
+            "DEVELOP.MOD": ""
+          }
+        }
+      ]
+    },
+    {
+      "model": "K-3 II",
+      "kind": "double",
+      "status": "公开内容重建文件",
+      "files": [
+        "00077980.570",
+        "DEVELOP.MOD"
+      ],
+      "note": "合集作者报告实测 K-3 II；与 K-3 III 不通用。",
+      "folder": "A_已知进入方法\\K-3 II工程模式",
+      "sources": [
+        "https://www.pentaxforums.com/forums/6-pentax-dslr-discussion/409494-files-collection-enter-debug-mode.html"
+      ],
+      "tutorial": "K-3 II 工程模式\n状态：公开内容重建文件\n\n适用性与核查说明\n合集作者报告实测 K-3 II；与 K-3 III 不通用。\n\n文件：00077980.570、DEVELOP.MOD\n文件来源：依据下列公开说明重建，并非下载 ZIP 的逐字节副本。\n1. 关机，将本目录“工模文件”中的文件复制到存储卡根目录。\n2. 把卡插入卡槽1（如有双卡槽），卡门保持打开，打开电源。\n3. 显示 Development / Debug 菜单后，按需要把 DEBUG MODE 由 DIS 改为 EN，并确认。\n4. 退出时将 DEBUG MODE 改回 DIS/OFF，确认；关机取卡，删除触发文件后正常开机。\n完整的通用准备和退出说明见根目录“00_先读我.txt”。\n\n资料来源\nhttps://www.pentaxforums.com/forums/6-pentax-dslr-discussion/409494-files-collection-enter-debug-mode.html\n检索日期：2026-10-02；未实机验证。\n",
+      "display": "K-3 II",
+      "variants": [
+        {
+          "label": "标准方案",
+          "files": {
+            "00077980.570": "W09QRU5fREVCVUdfTUVOVV0NCg==",
+            "DEVELOP.MOD": ""
+          }
+        }
+      ]
+    },
+    {
+      "model": "K-70",
+      "kind": "double",
+      "status": "固件元数据核验；待实机",
+      "files": [
+        "00078370.586",
+        "DEVELOP.MOD"
+      ],
+      "note": "2026-10-21 固件核验：官方 k70_v116.zip（内部 fwdc234b.bin）解码后 ROM 元数据记录 cpu=586、public=78370，按固件规则生成 00078370.586；v1.11/v1.15/v1.16 三版本一致。原公开值 00077770.524 在 v1.11–v1.16 镜像中不存在，保留为备用。",
+      "folder": "A_已知进入方法\\K-70工程模式",
+      "sources": [
+        "https://www.ricoh-imaging.co.jp/english/support/digital/k-70.html",
+        "https://www.ricoh-imaging.co.jp/english/support/digital/firmware/k70_v116.zip"
+      ],
+      "tutorial": "K-70 工程模式\n状态：固件元数据核验；待实机\n\n适用性与核查说明\n2026-10-21 依据官方固件核验文件名。本方案对应 K-70 固件 v1.11–v1.16：\n官方 k70_v111.zip / k70_v115.zip / k70_v116.zip 三份镜像的 ROM 元数据记录一致（cpu=586、public=78370，版本字节 10 01 → v1.16）。\n固件内文件名规则为 C:\\%08ld.%03ld，因此得到 00078370.586。\n原公开教程使用 00077770.524；该编号在 v1.11–v1.16 任意镜像的全镜像搜索中都不存在，可能是更早固件版本的值。本包保留为“公开旧文件名（备用）”。\n\n文件：00078370.586、DEVELOP.MOD\n1. 关机，把本目录“工模文件”里的两个文件复制到存储卡根目录（不要放进 DCIM）。\n2. 插入存储卡（双卡槽用卡槽 1），关好卡仓，按住 MENU 不放再开机。\n3. 出现 Development / Debug 菜单后，按需把 DEBUG MODE 由 DIS 改为 EN 并确认。\n4. 退出时把 DEBUG MODE 改回 DIS/OFF 并确认；关机取卡，删除触发文件后正常开机。\n完整的通用准备与退出说明见“手动安装包与教程/先读我.txt”。\n\n证据与边界\n- 文件名取自官方固件 ROM 元数据记录（文件偏移 0x12FFF00，镜像副本 0x2FFF00；magic “HOKKTKIYHTNTMU”）。\n- 同一规则已在 K-1（562/77970）、K-1 II（597/78400）、K-3 III（582/78420）、KF（619/78520）四个机型与公开文件名对上。\n- 固件内存在 [OPEN_DEBUG_MENU]、[SCRIPT_EN_MODE EN/DIS]、[DEBUG_MODE EN/DIS] 与 10 字节 DEVELOP 校验值。\n- 固件内未发现 ForcedActivation / 四季滤镜命令字符串，K-70 不能通过本工具启用四季滤镜。\n- 尚未实机验证；若标准方案无菜单，再试“公开旧文件名（备用）”方案。\n",
+      "display": "K-70",
+      "variants": [
+        {
+          "label": "标准方案（固件 v1.11–v1.16 核验）",
+          "files": {
+            "00078370.586": "W09QRU5fREVCVUdfTUVOVV0NCg==",
+            "DEVELOP.MOD": "BwEsHxADHhYFLQ=="
+          }
+        },
+        {
+          "label": "开启脚本模式（备选）",
+          "files": {
+            "00078370.586": "W1NDUklQVF9FTl9NT0RFIEVOXQ0K",
+            "DEVELOP.MOD": "BwEsHxADHhYFLQ=="
+          }
+        },
+        {
+          "label": "关闭脚本模式（备选）",
+          "files": {
+            "00078370.586": "W1NDUklQVF9FTl9NT0RFIERJU10NCg==",
+            "DEVELOP.MOD": "BwEsHxADHhYFLQ=="
+          }
+        },
+        {
+          "label": "公开旧文件名（备用）",
+          "files": {
+            "00077770.524": "W09QRU5fREVCVUdfTUVOVV0NCg==",
+            "DEVELOP.MOD": "BwEsHxADHhYFLQ=="
+          }
+        }
+      ]
+    },
+    {
+      "model": "645Z",
+      "kind": "double",
+      "status": "公开内容重建文件",
+      "files": [
+        "00077840.547",
+        "DEVELOP.MOD"
+      ],
+      "note": "中画幅数码单反；双文件方法。",
+      "folder": "A_已知进入方法\\645Z工程模式",
+      "sources": [
+        "https://www.pentaxforums.com/forums/48-pentax-medium-format/424806-there-pentax-645d-z-debug-mode.html"
+      ],
+      "tutorial": "645Z 工程模式\n状态：公开内容重建文件\n\n适用性与核查说明\n中画幅数码单反；双文件方法。\n\n文件：00077840.547、DEVELOP.MOD\n文件来源：依据下列公开说明重建，并非下载 ZIP 的逐字节副本。\n1. 关机，将本目录“工模文件”中的文件复制到存储卡根目录。\n2. 把卡插入卡槽1（如有双卡槽），卡门保持打开，打开电源。\n3. 显示 Development / Debug 菜单后，按需要把 DEBUG MODE 由 DIS 改为 EN，并确认。\n4. 退出时将 DEBUG MODE 改回 DIS/OFF，确认；关机取卡，删除触发文件后正常开机。\n完整的通用准备和退出说明见根目录“00_先读我.txt”。\n\n资料来源\nhttps://www.pentaxforums.com/forums/48-pentax-medium-format/424806-there-pentax-645d-z-debug-mode.html\n检索日期：2026-10-02；未实机验证。\n",
+      "display": "645Z",
+      "variants": [
+        {
+          "label": "标准方案",
+          "files": {
+            "00077840.547": "W09QRU5fREVCVUdfTUVOVV0NCg==",
+            "DEVELOP.MOD": ""
+          }
+        }
+      ]
+    },
+    {
+      "model": "K-S1",
+      "kind": "binary",
+      "status": "公开内容重建文件",
+      "files": [
+        "00077850.558",
+        "DEVELOP.MOD"
+      ],
+      "note": "固件分析者的原始说明明确提到 v1.10。 本包使用公开的 Menu 1–6 字节方案；未提供启用固件更新菜单的第二套字节。",
+      "folder": "A_已知进入方法\\K-S1工程模式",
+      "sources": [
+        "https://www.pentaxforums.com/forums/6-pentax-dslr-discussion/250555-resurrecting-pentax-firmware-hacking-32.html"
+      ],
+      "tutorial": "K-S1 工程模式\n状态：公开内容重建文件\n\n适用性与核查说明\n固件分析者的原始说明明确提到 v1.10。 本包使用公开的 Menu 1–6 字节方案；未提供启用固件更新菜单的第二套字节。\n\n文件：00077850.558、DEVELOP.MOD\n文件来源：依据下列公开说明重建，并非下载 ZIP 的逐字节副本。\n1. 关机，将本目录“工模文件”中的文件复制到存储卡根目录。\n2. 插入存储卡（双卡槽用卡槽1），保持卡门打开，按住 MENU 开机。\n3. 显示 Development / Debug 菜单后，按需要把 DEBUG MODE 由 DIS 改为 EN，并确认。\n4. 退出时将 DEBUG MODE 改回 DIS/OFF，确认；关机取卡，删除触发文件后正常开机。\n完整的通用准备和退出说明见根目录“00_先读我.txt”。\nDEVELOP.MOD 已写入 10 个二进制字节：07 01 2C 1F 10 03 1E 16 05 2D。不要把十六进制文字写进文件。\n\n资料来源\nhttps://www.pentaxforums.com/forums/6-pentax-dslr-discussion/250555-resurrecting-pentax-firmware-hacking-32.html\n检索日期：2026-10-02；未实机验证。\n",
+      "display": "K-S1",
+      "variants": [
+        {
+          "label": "标准方案",
+          "files": {
+            "00077850.558": "W09QRU5fREVCVUdfTUVOVV0K",
+            "DEVELOP.MOD": "BwEsHxADHhYFLQ=="
+          }
+        }
+      ]
+    },
+    {
+      "model": "K-S2",
+      "kind": "binary",
+      "status": "公开内容重建文件",
+      "files": [
+        "00077860.551",
+        "DEVELOP.MOD"
+      ],
+      "note": "原始说明确认可使用与 K-S1 相同的二进制内容。 本包使用公开的 Menu 1–6 字节方案；未提供启用固件更新菜单的第二套字节。",
+      "folder": "A_已知进入方法\\K-S2工程模式",
+      "sources": [
+        "https://www.pentaxforums.com/forums/6-pentax-dslr-discussion/250555-resurrecting-pentax-firmware-hacking-35.html",
+        "https://www.pentaxforums.com/forums/6-pentax-dslr-discussion/415610-ks2-debug-mode-help-needed.html"
+      ],
+      "tutorial": "K-S2 工程模式\n状态：公开内容重建文件\n\n适用性与核查说明\n原始说明确认可使用与 K-S1 相同的二进制内容。 本包使用公开的 Menu 1–6 字节方案；未提供启用固件更新菜单的第二套字节。\n\n文件：00077860.551、DEVELOP.MOD\n文件来源：依据下列公开说明重建，并非下载 ZIP 的逐字节副本。\n1. 关机，将本目录“工模文件”中的文件复制到存储卡根目录。\n2. 插入存储卡（双卡槽用卡槽1），保持卡门打开，按住 MENU 开机。\n3. 显示 Development / Debug 菜单后，按需要把 DEBUG MODE 由 DIS 改为 EN，并确认。\n4. 退出时将 DEBUG MODE 改回 DIS/OFF，确认；关机取卡，删除触发文件后正常开机。\n完整的通用准备和退出说明见根目录“00_先读我.txt”。\nDEVELOP.MOD 已写入 10 个二进制字节：07 01 2C 1F 10 03 1E 16 05 2D。不要把十六进制文字写进文件。\n\n资料来源\nhttps://www.pentaxforums.com/forums/6-pentax-dslr-discussion/250555-resurrecting-pentax-firmware-hacking-35.html\nhttps://www.pentaxforums.com/forums/6-pentax-dslr-discussion/415610-ks2-debug-mode-help-needed.html\n检索日期：2026-10-02；未实机验证。\n",
+      "display": "K-S2",
+      "variants": [
+        {
+          "label": "标准方案",
+          "files": {
+            "00077860.551": "W09QRU5fREVCVUdfTUVOVV0K",
+            "DEVELOP.MOD": "BwEsHxADHhYFLQ=="
+          }
+        }
+      ]
+    },
+    {
+      "model": "K-1",
+      "kind": "binary",
+      "status": "公开内容重建文件",
+      "files": [
+        "00077970.562",
+        "DEVELOP.MOD"
+      ],
+      "note": "原始说明使用 .562；部分早期帖子写 .560，未作为本包方案。 本包使用公开的 Menu 1–6 字节方案；未提供启用固件更新菜单的第二套字节。",
+      "folder": "A_已知进入方法\\K-1工程模式",
+      "sources": [
+        "https://www.pentaxforums.com/forums/6-pentax-dslr-discussion/250555-resurrecting-pentax-firmware-hacking-50.html"
+      ],
+      "tutorial": "K-1 工程模式\n状态：公开内容重建文件\n\n适用性与核查说明\n原始说明使用 .562；部分早期帖子写 .560，未作为本包方案。 本包使用公开的 Menu 1–6 字节方案；未提供启用固件更新菜单的第二套字节。\n\n文件：00077970.562、DEVELOP.MOD\n文件来源：依据下列公开说明重建，并非下载 ZIP 的逐字节副本。\n1. 关机，将本目录“工模文件”中的文件复制到存储卡根目录。\n2. 插入存储卡（双卡槽用卡槽1），保持卡门打开，按住 MENU 开机。\n3. 显示 Development / Debug 菜单后，按需要把 DEBUG MODE 由 DIS 改为 EN，并确认。\n4. 退出时将 DEBUG MODE 改回 DIS/OFF，确认；关机取卡，删除触发文件后正常开机。\n完整的通用准备和退出说明见根目录“00_先读我.txt”。\nDEVELOP.MOD 已写入 10 个二进制字节：07 01 2C 1F 10 03 1E 16 05 2D。不要把十六进制文字写进文件。\n\n资料来源\nhttps://www.pentaxforums.com/forums/6-pentax-dslr-discussion/250555-resurrecting-pentax-firmware-hacking-50.html\n检索日期：2026-10-02；未实机验证。\n\n2026-10-19 更新：可在新增“四季滤镜”功能区写入探测/启用/撤销脚本。原始函数离线验证；待实机。K-1 与 K12 滤镜命令相同，工程入口文件名不同。\n\n2026-10-19 更新：可在新增“四季滤镜”功能区写入探测/启用/撤销脚本。原始函数离线验证；待实机。K-1 与 K12 滤镜命令相同，工程入口文件名不同。\n\n2026-10-19 更新：可在新增“四季滤镜”功能区写入探测/启用/撤销脚本。原始函数离线验证；待实机。K-1 与 K12 滤镜命令相同，工程入口文件名不同。\n",
+      "display": "K-1",
+      "variants": [
+        {
+          "label": "标准方案",
+          "files": {
+            "00077970.562": "W09QRU5fREVCVUdfTUVOVV0K",
+            "DEVELOP.MOD": "BwEsHxADHhYFLQ=="
+          }
+        }
+      ]
+    },
+    {
+      "model": "K-1 II",
+      "kind": "binary",
+      "status": "公开内容重建文件",
+      "files": [
+        "00078400.597",
+        "DEVELOP.MOD"
+      ],
+      "note": "与 K-1 不通用。 本包使用公开的 Menu 1–6 字节方案；未提供启用固件更新菜单的第二套字节。",
+      "folder": "A_已知进入方法\\K-1 II工程模式",
+      "sources": [
+        "https://www.pentaxforums.com/forums/6-pentax-dslr-discussion/250555-resurrecting-pentax-firmware-hacking-51.html"
+      ],
+      "tutorial": "K-1 II 工程模式\n状态：公开内容重建文件\n\n适用性与核查说明\n与 K-1 不通用。 本包使用公开的 Menu 1–6 字节方案；未提供启用固件更新菜单的第二套字节。\n\n文件：00078400.597、DEVELOP.MOD\n文件来源：依据下列公开说明重建，并非下载 ZIP 的逐字节副本。\n1. 关机，将本目录“工模文件”中的文件复制到存储卡根目录。\n2. 插入存储卡（双卡槽用卡槽1），保持卡门打开，按住 MENU 开机。\n3. 显示 Development / Debug 菜单后，按需要把 DEBUG MODE 由 DIS 改为 EN，并确认。\n4. 退出时将 DEBUG MODE 改回 DIS/OFF，确认；关机取卡，删除触发文件后正常开机。\n完整的通用准备和退出说明见根目录“00_先读我.txt”。\nDEVELOP.MOD 已写入 10 个二进制字节：07 01 2C 1F 10 03 1E 16 05 2D。不要把十六进制文字写进文件。\n\n资料来源\nhttps://www.pentaxforums.com/forums/6-pentax-dslr-discussion/250555-resurrecting-pentax-firmware-hacking-51.html\n检索日期：2026-10-02；未实机验证。\n\n2026-10-19 更新：可在新增“四季滤镜”功能区写入探测/启用/撤销脚本。用户实测四季启用成功。K-1 与 K12 滤镜命令相同，工程入口文件名不同。\n\n2026-10-19 更新：可在新增“四季滤镜”功能区写入探测/启用/撤销脚本。用户实测四季启用成功。K-1 与 K12 滤镜命令相同，工程入口文件名不同。\n\n2026-10-19 更新：可在新增“四季滤镜”功能区写入探测/启用/撤销脚本。用户实测四季启用成功。K-1 与 K12 滤镜命令相同，工程入口文件名不同。\n",
+      "display": "K-1 II",
+      "variants": [
+        {
+          "label": "标准方案",
+          "files": {
+            "00078400.597": "W09QRU5fREVCVUdfTUVOVV0K",
+            "DEVELOP.MOD": "BwEsHxADHhYFLQ=="
+          }
+        }
+      ]
+    },
+    {
+      "model": "K-500",
+      "kind": "binary",
+      "status": "公开内容重建文件",
+      "files": [
+        "00077770.550",
+        "DEVELOP.MOD"
+      ],
+      "note": "原始分析者另指示按 K-S1 方法准备；这里提供10字节版本，未验证空文件方案。 本包使用公开的 Menu 1–6 字节方案；未提供启用固件更新菜单的第二套字节。",
+      "folder": "A_已知进入方法\\K-500工程模式",
+      "sources": [
+        "https://www.pentaxforums.com/forums/6-pentax-dslr-discussion/250555-resurrecting-pentax-firmware-hacking-40.html",
+        "https://www.pentaxforums.com/forums/6-pentax-dslr-discussion/250555-resurrecting-pentax-firmware-hacking-47.html"
+      ],
+      "tutorial": "K-500 工程模式\n状态：公开内容重建文件\n\n适用性与核查说明\n原始分析者另指示按 K-S1 方法准备；这里提供10字节版本，未验证空文件方案。 本包使用公开的 Menu 1–6 字节方案；未提供启用固件更新菜单的第二套字节。\n\n文件：00077770.550、DEVELOP.MOD\n文件来源：依据下列公开说明重建，并非下载 ZIP 的逐字节副本。\n1. 关机，将本目录“工模文件”中的文件复制到存储卡根目录。\n2. 插入存储卡（双卡槽用卡槽1），保持卡门打开，按住 MENU 开机。\n3. 显示 Development / Debug 菜单后，按需要把 DEBUG MODE 由 DIS 改为 EN，并确认。\n4. 退出时将 DEBUG MODE 改回 DIS/OFF，确认；关机取卡，删除触发文件后正常开机。\n完整的通用准备和退出说明见根目录“00_先读我.txt”。\nDEVELOP.MOD 已写入 10 个二进制字节：07 01 2C 1F 10 03 1E 16 05 2D。不要把十六进制文字写进文件。\n\n资料来源\nhttps://www.pentaxforums.com/forums/6-pentax-dslr-discussion/250555-resurrecting-pentax-firmware-hacking-40.html\nhttps://www.pentaxforums.com/forums/6-pentax-dslr-discussion/250555-resurrecting-pentax-firmware-hacking-47.html\n检索日期：2026-10-02；未实机验证。\n",
+      "display": "K-500",
+      "variants": [
+        {
+          "label": "标准方案",
+          "files": {
+            "00077770.550": "W09QRU5fREVCVUdfTUVOVV0K",
+            "DEVELOP.MOD": "BwEsHxADHhYFLQ=="
+          }
+        }
+      ]
+    },
+    {
+      "model": "KP",
+      "kind": "double",
+      "status": "固件元数据核验；待实机",
+      "files": [
+        "00078380.581",
+        "DEVELOP.MOD"
+      ],
+      "note": "2026-10-21 新增。官方 kp_v131.zip 与 kp_v110.zip 解码后 ROM 元数据均为 cpu=581、public=78380，按固件规则生成 00078380.581；公开清单 00078389.581 的 8 位段在镜像中不存在，保留为备用。",
+      "folder": "A_已知进入方法\\KP工程模式",
+      "sources": [
+        "https://www.ricoh-imaging.co.jp/english/support/digital/kp.html",
+        "https://www.ricoh-imaging.co.jp/english/support/digital/firmware/kp_v131.zip"
+      ],
+      "tutorial": "KP 工程模式\n状态：固件元数据核验；待实机\n\n适用性与核查说明\n2026-10-21 依据官方固件核验文件名。本方案对应 KP 固件 v1.10 与 v1.31：\n官方 kp_v131.zip（内部 fwdc232b.bin，18,880,016 字节，解码 19,922,920 字节）与 kp_v110.zip 的 ROM 元数据记录一致（cpu=581、public=78380，版本字节 1F 01 → v1.31）。\n固件内文件名规则为 C:\\%08ld.%03ld，因此得到 00078380.581。\n公开清单曾写 00078389.581（3 位段 581 一致、8 位段不同），但该编号在 v1.10 / v1.31 镜像中都不存在；本包保留为“公开旧文件名（备用）”。\n\n文件：00078380.581、DEVELOP.MOD\n1. 关机，把本目录“工模文件”里的两个文件复制到存储卡根目录（不要放进 DCIM）。\n2. 插入存储卡，关好卡仓，按住 MENU 不放再开机（与 K-70/KF 同代机型的方式；KP 尚未单独实机确认，若未进入再试卡仓打开后开机）。\n3. 出现 Development / Debug 菜单后，按需把 DEBUG MODE 由 DIS 改为 EN 并确认。\n4. 退出时把 DEBUG MODE 改回 DIS/OFF 并确认；关机取卡，删除触发文件后正常开机。\n完整的通用准备与退出说明见“手动安装包与教程/先读我.txt”。\n\n证据与边界\n- 文件名取自官方固件 ROM 元数据记录（文件偏移 0x12FFF00，镜像副本 0x2FFF00；magic “HOKKTKIYHTNTMU”）。\n- 同一规则已在 K-1、K-1 II、K-3 III、KF 四个机型与公开文件名对上。\n- 固件内存在 [OPEN_DEBUG_MENU]、[SCRIPT_EN_MODE EN/DIS]、[DEBUG_MODE EN/DIS] 与 10 字节 DEVELOP 校验值。\n- 固件内未发现 ForcedActivation / 四季滤镜命令字符串，KP 不作为四季机型。\n- 尚未实机验证；若标准方案无菜单，再试“公开旧文件名（备用）”方案。\n",
+      "display": "KP",
+      "variants": [
+        {
+          "label": "标准方案（固件 v1.10 / v1.31 核验）",
+          "files": {
+            "00078380.581": "W09QRU5fREVCVUdfTUVOVV0NCg==",
+            "DEVELOP.MOD": "BwEsHxADHhYFLQ=="
+          }
+        },
+        {
+          "label": "开启脚本模式（备选）",
+          "files": {
+            "00078380.581": "W1NDUklQVF9FTl9NT0RFIEVOXQ0K",
+            "DEVELOP.MOD": "BwEsHxADHhYFLQ=="
+          }
+        },
+        {
+          "label": "关闭脚本模式（备选）",
+          "files": {
+            "00078380.581": "W1NDUklQVF9FTl9NT0RFIERJU10NCg==",
+            "DEVELOP.MOD": "BwEsHxADHhYFLQ=="
+          }
+        },
+        {
+          "label": "公开旧文件名（备用）",
+          "files": {
+            "00078389.581": "W09QRU5fREVCVUdfTUVOVV0NCg==",
+            "DEVELOP.MOD": "BwEsHxADHhYFLQ=="
+          }
+        }
+      ]
+    },
+    {
+      "model": "K-3 III",
+      "kind": "binary",
+      "status": "Service 入口用户实测；Factory 原始函数核验，待实机",
+      "files": [
+        "00078420.582",
+        "DEVELOP.MOD"
+      ],
+      "note": "更正：OPEN_DEBUG_MENU 是 Service，OPEN_FACTORY_DEBUG_MENU 是含 Script 的 Factory。",
+      "folder": "B_缺项与待核实\\K-3 III工程模式",
+      "sources": [
+        "https://www.pentaxforums.com/forums/32-digital-processing-software-printing/464577-pentax-k-3-markiii-reveal-hacking-2.html",
+        "https://www.pentaxforums.com/forums/6-pentax-dslr-discussion/409494-files-collection-enter-debug-mode-2.html"
+      ],
+      "tutorial": "K-3 III 彩色版 v2.20 · Service / Factory 菜单与脚本模式更正\n验证状态：Factory / Script / 四季原始函数核验；Factory 实机待确认。\nService 入口已有用户实测；Factory 入口、Script 菜单、四季命令已做固件原始函数离线验证，Factory 实机入口与脚本重启持久化待确认。\n\n为什么原来找不到 Script\n[OPEN_DEBUG_MENU] 打开的是 Service Menu。其页面没有 FW Setting 1/2。\n[OPEN_FACTORY_DEBUG_MENU] 才对应 Factory Menu，其中 FW Setting 1 → Script 是独立的脚本开关。不是把相机型号或 DEVELOP.MOD 改成 GR，也不是 Service Menu 中遗漏翻页。\n\n1. 打开 Factory Menu\n工程模式区选择 K-3 III，再选“Factory Menu · 脚本开关入口（待实机）”；四季滤镜区的 K-3 III“工程菜单入口”也已改为这一方案。\n工具写入卡根目录 00078420.582（内容仅 [OPEN_FACTORY_DEBUG_MENU]，ASCII/CRLF）及原有 10 字节 DEVELOP.MOD。\n写入口时会备份并移走已知 script/startup.ttl，避免它抢先执行；其他未知脚本需先核对并手动移走。\n安全弹出，装回你已成功进入 Service Menu 的同一张卡、同一卡槽；关好卡仓，按住 MENU 不放再开机（已实机确认）。不要再用卡仓打开的方式。\n预期标题应为 Factory Menu。进入 FW Setting 1，找到 Script 并切换为启用状态，正常确认退出、关机保存。Camera Mode 和 Script 为不同设置，不必为了找 Script 改动其他项目。\n若仍是 Service Menu，先在电脑确认卡上命令确实已换成 OPEN_FACTORY_DEBUG_MENU、没有 .txt 后缀，并核对是否放在正确卡槽；保留屏幕照片与固件版本。\n\n2. 探测脚本\n在工具选择 K-3 III → 只写标记探测。工具会备份并移走已知工程入口文件；安全弹出后普通开机，关好卡门，不按 MENU。\n关机取卡检查 script/K33_SCRIPT_PROBE_OK.txt。必须是本次新产生的文件；旧标记不能证明本次执行成功。\n先用探测验证 Script 开关在普通重启后生效，再运行滤镜脚本。\n\n3. 四季滤镜\n选择 K-3 III → 启用选中四季，可单选、多选或全选。未勾选的季节不会自动清除。\n命令后缀为 Harubeni / Katen / Kyushu / Fuyuno。该型不能混用 K12 的 Spring / Autumn / Winter 后缀。\n本轮没有修改四季脚本算法。请检查机内四季选项并拍 RAW+JPEG；RETURNED 标记只表示脚本走到调用之后，不等于已成功激活。\nK12 已实测离开脚本卡重启会失效；K33 的重启、换镜头、保存设置行为待实测。K-3 III Monochrome 不在本方案范围。\n\n4. 备选与退出\n若只需直接开脚本，可用“仅开启脚本模式”写 [SCRIPT_EN_MODE EN]，沿用工程触发条件。解析器和 Script 状态提交函数均已验证，但整机启动/保存未完整模拟。\n关闭时可在 Factory 的 Script 项切换关闭，或用备选 [SCRIPT_EN_MODE DIS]。先移走启动脚本，再测试关闭后的正常启动。\nService Menu 入口保留在工程模式区，可按原方案恢复；它与 Factory 入口共用同一文件名，卡上一次只放一种命令。\n\n5. 菜单用途\nFactory 有 FW Setting、显示/硬件测试、AF、数据导入导出、初始化、版本等页。Service 仅保留较少维护项目。\nSD → Camera 的 Adjust Data、Initialize 等会改变校准/用户数据，不属于开脚本或开滤镜步骤，勿作为探索入口随意执行。\n完整菜单表及证据见随包“K33工程菜单核查”。本工具只写卡文件，不执行数据导入、校准、初始化、刷固件或镜头 ROM 写入。\n",
+      "display": "K-3 III",
+      "variants": [
+        {
+          "label": "Service Menu · 原入口",
+          "files": {
+            "00078420.582": "W09QRU5fREVCVUdfTUVOVV0NCg==",
+            "DEVELOP.MOD": "BwEsHxADHhYFLQ=="
+          }
+        },
+        {
+          "label": "Factory Menu · 脚本开关入口（待实机）",
+          "files": {
+            "00078420.582": "W09QRU5fRkFDVE9SWV9ERUJVR19NRU5VXQ0K",
+            "DEVELOP.MOD": "BwEsHxADHhYFLQ=="
+          }
+        }
+      ]
+    },
+    {
+      "model": "K-3 III Monochrome",
+      "kind": "pending",
+      "status": "资料不完整，未提供可用文件包",
+      "files": [],
+      "note": "原始研究者公布 00078420.582 + DEVELOP.MOD；2024年合集称 Monochrome 同样适用。本次无法下载合集核对 DEVELOP.MOD 内容，不能保证空文件或旧款10字节方案适用，故没有伪造可用文件包。公开进入流程为卡根目录双文件、卡槽1、卡门打开开机；这是后续核对附件的参考，不代表本目录已备齐文件。",
+      "folder": "B_缺项与待核实\\K-3 III Monochrome工程模式",
+      "sources": [
+        "https://www.pentaxforums.com/forums/32-digital-processing-software-printing/464577-pentax-k-3-markiii-reveal-hacking-2.html",
+        "https://www.pentaxforums.com/forums/6-pentax-dslr-discussion/409494-files-collection-enter-debug-mode-2.html"
+      ],
+      "tutorial": "K-3 III Monochrome 工程模式\n状态：资料不完整，未提供可用文件包\n\n适用性与核查说明\n原始研究者公布 00078420.582 + DEVELOP.MOD；2024年合集称 Monochrome 同样适用。本次无法下载合集核对 DEVELOP.MOD 内容，不能保证空文件或旧款10字节方案适用，故没有伪造可用文件包。公开进入流程为卡根目录双文件、卡槽1、卡门打开开机；这是后续核对附件的参考，不代表本目录已备齐文件。\n\n尚未具备已核实完整内容的文件包。请阅读下述缺项和原始链接，不能把本目录当作可直接复制到卡的方案。\n\n资料来源\nhttps://www.pentaxforums.com/forums/32-digital-processing-software-printing/464577-pentax-k-3-markiii-reveal-hacking-2.html\nhttps://www.pentaxforums.com/forums/6-pentax-dslr-discussion/409494-files-collection-enter-debug-mode-2.html\n检索日期：2026-10-02；未实机验证。\n",
+      "display": "K-3 III Monochrome",
+      "variants": []
+    },
+    {
+      "model": "KF",
+      "kind": "binary",
+      "status": "固件原始函数离线验证；待实机",
+      "files": [
+        "00078520.619",
+        "DEVELOP.MOD"
+      ],
+      "note": "2026-10-19 已从官网下载固件核验文件名、10字节 DEVELOP 校验和工程指令解析，替代先前缺项结论。完整按键/舱门入口仍待实机。",
+      "folder": "B_缺项与待核实\\KF工程模式",
+      "sources": [
+        "https://www.ricoh-imaging.co.jp/english/support/download_manual.html"
+      ],
+      "tutorial": "KF · 四季滤镜脚本教程\n版本范围：1.33\n验证状态：原始函数离线验证；待实机\n\n建议顺序：工程入口 → 在机身打开 SCRIPT EN MODE → 探测脚本 → 启用选中四季。\n\n1. 工程入口\n选择“工程模式”功能区的对应机型，或本区“工程菜单入口”，写入根目录 00078520.619 和 DEVELOP.MOD。\n写入口方案时，程序会先备份并移走已知的 startup.ttl，避免脚本抢先运行挡住工程入口。未知脚本会拦截并提示手动核对。\n正常关机后装卡；双卡槽使用卡槽 1。K-3 III / K-70 / KF：关好卡仓，按住 MENU 不放再开机（已实机确认）。K-1/K12：按住 MENU、卡舱门打开时开机。\n进入后找到 SCRIPT EN MODE 设为 EN 并正常确认。首次可沿用 K12 成功时的 DEBUG=EN、SCRIPT=EN；日常只开 SCRIPT 的组合仍需本型号重启实测。\n\n2. 找不到脚本开关时\n可选择“开启脚本模式（备选）”，仅写入 [SCRIPT_EN_MODE EN] 模式文件及 DEVELOP.MOD，再按该机型工程入口条件启动。该指令解析已经验证，但完整启动应用/保存路径仍待实机。不要把它当成已验证的一键启用。\n\n3. 先探测\n选择“只写标记探测”写卡，安全弹出后普通开机，不按 MENU，卡舱门正常关闭。程序会备份并移走已知根目录工程触发文件，避免反复进入菜单。\n关机后在电脑查看 script/KF_SCRIPT_PROBE_OK.txt。只有本次新产生的标记才能证明执行；重测时核对时间或先备份旧标记。\n没有标记时先核对 SCRIPT 开关是否保存、卡槽及启动条件，不要继续盲试滤镜命令。\n\n4. 启用四季\n选择“启用选中四季”，勾选春、夏、秋、冬，或按“全选”；程序仅发送已勾选季节的命令。未勾选的季节保持当前状态，不会自动撤销。\n写卡成功只代表卡内文件正确，并不等于相机已激活。安全弹出卡，普通开机，在自定义影像菜单检查 HARUBENI / KATEN / KYUSHU / FUYUNO，并分别拍摄 RAW+JPEG。\n脚本会写 BEGIN / RETURNED 标记。RETURNED 仅代表调用走到末尾，不保证命令返回成功或实际拍摄成功。\n\n5. 保留、撤销与再次进入工程菜单\nK12 已实测：无脚本卡重启后强制启用消失，因此日常需保留启动脚本。其他三机型重启、换镜头表现仍待实测。\n“撤销选中四季”只撤销勾选季节；全选后撤销可清除全部四季强制标志。运行后再移走脚本。\n需要进入工程菜单时重新写“工程菜单入口”，会备份并移走已知启动脚本。已知其他机型触发文件也先备份移走，防止混用。\n要关闭脚本，可在机身设 SCRIPT EN MODE=DIS；或使用“关闭脚本模式（备选）”，完整流程仍待实机。\n\n6. 机型差异\nK-1 与 K12 的四季命令名称和脚本内容可共用，工程模式文件名不同；本程序按机型写入，不会混用。\nK-3 III 使用 Harubeni / Katen / Kyushu / Fuyuno 命令后缀；K-1、K12、KF 使用 Spring / Katen / Autumn / Winter。\nK-3 III Monochrome 不在四季滤镜适配范围。\n\n7. 文件与备份\n所有激活操作只写存储卡文件，不格式化、不修改照片、不刷固件、不写镜头 ROM。被替换/移走文件保存在卡内 Pentax_Debug_Backup_*，保留原有相对目录。\nscript/startup.ttl 是 ASCII、无 BOM、CRLF；DEVELOP.MOD 是原始 10 字节二进制，不能用记事本另存为文本。\n",
+      "display": "KF",
+      "variants": [
+        {
+          "label": "固件核验方案（待实机）",
+          "files": {
+            "00078520.619": "W09QRU5fREVCVUdfTUVOVV0NCg==",
+            "DEVELOP.MOD": "BwEsHxADHhYFLQ=="
+          }
+        }
+      ]
+    },
+    {
+      "model": "K-01",
+      "kind": "double",
+      "status": "公开内容重建文件",
+      "files": [
+        "00077560.523",
+        "DEVELOP.MOD"
+      ],
+      "note": "补充：K-01 为无反相机，单独收录，不计入单反范围。",
+      "folder": "C_补充_非单反\\K-01工程模式",
+      "sources": [
+        "https://forum.digitalfotonetz.de/viewtopic.php?t=97668"
+      ],
+      "tutorial": "K-01 工程模式\n状态：公开内容重建文件\n\n适用性与核查说明\n补充：K-01 为无反相机，单独收录，不计入单反范围。\n\n文件：00077560.523、DEVELOP.MOD\n文件来源：依据下列公开说明重建，并非下载 ZIP 的逐字节副本。\n1. 关机，将本目录“工模文件”中的文件复制到存储卡根目录。\n2. 插入存储卡，保持卡门打开，打开电源。\n3. 显示 Development / Debug 菜单后，按需要把 DEBUG MODE 由 DIS 改为 EN，并确认。\n4. 退出时将 DEBUG MODE 改回 DIS/OFF，确认；关机取卡，删除触发文件后正常开机。\n完整的通用准备和退出说明见根目录“00_先读我.txt”。\n\n资料来源\nhttps://forum.digitalfotonetz.de/viewtopic.php?t=97668\n检索日期：2026-10-02；未实机验证。\n",
+      "display": "K-01",
+      "variants": [
+        {
+          "label": "标准方案",
+          "files": {
+            "00077560.523": "W09QRU5fREVCVUdfTUVOVV0NCg==",
+            "DEVELOP.MOD": ""
+          }
+        }
+      ]
+    }
+  ],
+  "readme": "宾得工模写卡工具 1.3\n\n2026-10-21 依据官方固件核验并补齐 K-70、KP 的工程模式入口文件名，其余机型方案与四季滤镜脚本不变。\n\nK-70：文件名改为 00078370.586。依据官方 v1.11 / v1.15 / v1.16 三份固件的 ROM 元数据（cpu=586、public=78370，版本字节 10 01）；原公开教程的 00077770.524 在 v1.11–v1.16 镜像中不存在，保留为“公开旧文件名（备用）”。\nKP：新增 00078380.581。依据官方 v1.31 / v1.10 固件的 ROM 元数据（cpu=581、public=78380）；公开清单的 00078389.581 的 8 位段在镜像中不存在，保留为“公开旧文件名（备用）”。\n两机型的文件名规则与 K-1 / K-1 II / K-3 III / KF 相同，均为固件内 C:\\%08ld.%03ld 模板；后续机型的记录位置在文件偏移 0x12FFF00（镜像副本 0x2FFF00，magic “HOKKTKIYHTNTMU”）。\n两机型 DEVELOP.MOD 仍为 10 字节原厂校验值 07 01 2C 1F 10 03 1E 16 05 2D；固件内均存在 OPEN_DEBUG_MENU、SCRIPT_EN_MODE EN/DIS、DEBUG_MODE EN/DIS。\n两机型固件均未发现 ForcedActivation（四季滤镜）命令字符串，因此不列入四季机型；四季功能区仍为 K-1、K-1 II/K12、K-3 III、KF 四款、共 136 个方案，四季脚本代码保留在程序中。\n\n证据与复现：见“固件核验”目录（说明.md、提取工程模式文件名.py、核验记录.json）。全部结论来自电脑端离线解码官方固件，未访问相机或存储卡。\n\n宾得工模写卡工具 1.2\n\n本次更正 K-3 III：原 OPEN_DEBUG_MENU 是 Service 维护菜单；新增独立 Factory 方案，四季区的 K33 工程入口改为 Factory，脚本开关位于 FW Setting 1 → Script。原 Service 方案保留。\n\nFactory 指令解析、菜单事件分发、菜单分型、页面项目和 Script 状态提交已经固件原始函数离线验证；尚未获得 K33 Factory 的实机确认。其他机型的文件和滤镜脚本不变。\n\n宾得工程模式与四季滤镜写卡工具 1.1\n\n保留原 36 个机型条目；补齐 K-3 III 彩色版、KF 的固件核验工程文件。新增独立四季滤镜区：K-1、K-1 II/K12、K-3 III 彩色版、KF。\n\n四季可单选、多选、全选；提供入口、脚本开关备选、只写标记探测、启用、撤销。每个方案附有教程和证据状态。只有 K12 四季启用有用户实机确认，其他三机型待实机。\n\n写卡前核对盘符和机型；工具不识别连接相机的真实型号。已知冲突文件备份后移走；未知脚本/其他未知触发文件拦截，避免误删。写后逐字节校验，失败尝试恢复。\n\n安全弹出后，按教程在相机上启动；电脑写卡成功不代表机身激活成功。无需联网或安装 Python。\n",
+  "filters": [
+    {
+      "model": "K-1",
+      "display": "K-1",
+      "kind": "filter",
+      "status": "原始函数离线验证；待实机",
+      "tutorial": "K-1 · 四季滤镜脚本教程\n版本范围：2.51\n验证状态：原始函数离线验证；待实机\n\n建议顺序：工程入口 → 在机身打开 SCRIPT EN MODE → 探测脚本 → 启用选中四季。\n\n1. 工程入口\n选择“工程模式”功能区的对应机型，或本区“工程菜单入口”，写入根目录 00077970.562 和 DEVELOP.MOD。\n写入口方案时，程序会先备份并移走已知的 startup.ttl，避免脚本抢先运行挡住工程入口。未知脚本会拦截并提示手动核对。\n正常关机后装卡；双卡槽使用卡槽 1。K-3 III / K-70 / KF：关好卡仓，按住 MENU 不放再开机（已实机确认）。K-1/K12：按住 MENU、卡舱门打开时开机。\n进入后找到 SCRIPT EN MODE 设为 EN 并正常确认。首次可沿用 K12 成功时的 DEBUG=EN、SCRIPT=EN；日常只开 SCRIPT 的组合仍需本型号重启实测。\n\n2. 找不到脚本开关时\n可选择“开启脚本模式（备选）”，仅写入 [SCRIPT_EN_MODE EN] 模式文件及 DEVELOP.MOD，再按该机型工程入口条件启动。该指令解析已经验证，但完整启动应用/保存路径仍待实机。不要把它当成已验证的一键启用。\n\n3. 先探测\n选择“只写标记探测”写卡，安全弹出后普通开机，不按 MENU，卡舱门正常关闭。程序会备份并移走已知根目录工程触发文件，避免反复进入菜单。\n关机后在电脑查看 script/K1_SCRIPT_PROBE_OK.txt。只有本次新产生的标记才能证明执行；重测时核对时间或先备份旧标记。\n没有标记时先核对 SCRIPT 开关是否保存、卡槽及启动条件，不要继续盲试滤镜命令。\n\n4. 启用四季\n选择“启用选中四季”，勾选春、夏、秋、冬，或按“全选”；程序仅发送已勾选季节的命令。未勾选的季节保持当前状态，不会自动撤销。\n写卡成功只代表卡内文件正确，并不等于相机已激活。安全弹出卡，普通开机，在自定义影像菜单检查 HARUBENI / KATEN / KYUSHU / FUYUNO，并分别拍摄 RAW+JPEG。\n脚本会写 BEGIN / RETURNED 标记。RETURNED 仅代表调用走到末尾，不保证命令返回成功或实际拍摄成功。\n\n5. 保留、撤销与再次进入工程菜单\nK12 已实测：无脚本卡重启后强制启用消失，因此日常需保留启动脚本。其他三机型重启、换镜头表现仍待实测。\n“撤销选中四季”只撤销勾选季节；全选后撤销可清除全部四季强制标志。运行后再移走脚本。\n需要进入工程菜单时重新写“工程菜单入口”，会备份并移走已知启动脚本。已知其他机型触发文件也先备份移走，防止混用。\n要关闭脚本，可在机身设 SCRIPT EN MODE=DIS；或使用“关闭脚本模式（备选）”，完整流程仍待实机。\n\n6. 机型差异\nK-1 与 K12 的四季命令名称和脚本内容可共用，工程模式文件名不同；本程序按机型写入，不会混用。\nK-3 III 使用 Harubeni / Katen / Kyushu / Fuyuno 命令后缀；K-1、K12、KF 使用 Spring / Katen / Autumn / Winter。\nK-3 III Monochrome 不在四季滤镜适配范围。\n\n7. 文件与备份\n所有激活操作只写存储卡文件，不格式化、不修改照片、不刷固件、不写镜头 ROM。被替换/移走文件保存在卡内 Pentax_Debug_Backup_*，保留原有相对目录。\nscript/startup.ttl 是 ASCII、无 BOM、CRLF；DEVELOP.MOD 是原始 10 字节二进制，不能用记事本另存为文本。\n",
+      "variants": [
+        {
+          "label": "工程菜单入口",
+          "action": "entry",
+          "mask": 0,
+          "files": {
+            "00077970.562": "W09QRU5fREVCVUdfTUVOVV0NCg==",
+            "DEVELOP.MOD": "BwEsHxADHhYFLQ=="
+          }
+        },
+        {
+          "label": "开启脚本模式（备选）",
+          "action": "script_enable",
+          "mask": 0,
+          "files": {
+            "00077970.562": "W1NDUklQVF9FTl9NT0RFIEVOXQ0K",
+            "DEVELOP.MOD": "BwEsHxADHhYFLQ=="
+          }
+        },
+        {
+          "label": "只写标记探测",
+          "action": "probe",
+          "mask": 0,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxX1NDUklQVF9QUk9CRV9PSy50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0sxX1NDUklQVF9QUk9CRV9PSycNCmZpbGVjbG9zZSBoDQplbmQNCg=="
+          }
+        },
+        {
+          "label": "启用选中四季 · 1",
+          "action": "activate",
+          "mask": 1,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxX0VOQUJMRV8wMV9CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0sxX0VOQUJMRV8wMV9CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uU3ByaW5nJw0KZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxX0VOQUJMRV8wMV9SRVRVUk5FRC50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0sxX0VOQUJMRV8wMV9DT01NQU5EU19SRVRVUk5FRF9DSEVDS19DQU1FUkEnDQpmaWxlY2xvc2UgaA0KZW5kDQo="
+          }
+        },
+        {
+          "label": "启用选中四季 · 2",
+          "action": "activate",
+          "mask": 2,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxX0VOQUJMRV8wMl9CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0sxX0VOQUJMRV8wMl9CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uS2F0ZW4nDQpmaWxlb3BlbiBoICdDOlxzY3JpcHRcSzFfRU5BQkxFXzAyX1JFVFVSTkVELnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnSzFfRU5BQkxFXzAyX0NPTU1BTkRTX1JFVFVSTkVEX0NIRUNLX0NBTUVSQScNCmZpbGVjbG9zZSBoDQplbmQNCg=="
+          }
+        },
+        {
+          "label": "启用选中四季 · 3",
+          "action": "activate",
+          "mask": 3,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxX0VOQUJMRV8wM19CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0sxX0VOQUJMRV8wM19CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uU3ByaW5nJw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgRm9yY2VkQWN0aXZhdGlvbkthdGVuJw0KZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxX0VOQUJMRV8wM19SRVRVUk5FRC50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0sxX0VOQUJMRV8wM19DT01NQU5EU19SRVRVUk5FRF9DSEVDS19DQU1FUkEnDQpmaWxlY2xvc2UgaA0KZW5kDQo="
+          }
+        },
+        {
+          "label": "启用选中四季 · 4",
+          "action": "activate",
+          "mask": 4,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxX0VOQUJMRV8wNF9CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0sxX0VOQUJMRV8wNF9CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uQXV0dW1uJw0KZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxX0VOQUJMRV8wNF9SRVRVUk5FRC50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0sxX0VOQUJMRV8wNF9DT01NQU5EU19SRVRVUk5FRF9DSEVDS19DQU1FUkEnDQpmaWxlY2xvc2UgaA0KZW5kDQo="
+          }
+        },
+        {
+          "label": "启用选中四季 · 5",
+          "action": "activate",
+          "mask": 5,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxX0VOQUJMRV8wNV9CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0sxX0VOQUJMRV8wNV9CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uU3ByaW5nJw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgRm9yY2VkQWN0aXZhdGlvbkF1dHVtbicNCmZpbGVvcGVuIGggJ0M6XHNjcmlwdFxLMV9FTkFCTEVfMDVfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMV9FTkFCTEVfMDVfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "启用选中四季 · 6",
+          "action": "activate",
+          "mask": 6,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxX0VOQUJMRV8wNl9CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0sxX0VOQUJMRV8wNl9CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uS2F0ZW4nDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uQXV0dW1uJw0KZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxX0VOQUJMRV8wNl9SRVRVUk5FRC50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0sxX0VOQUJMRV8wNl9DT01NQU5EU19SRVRVUk5FRF9DSEVDS19DQU1FUkEnDQpmaWxlY2xvc2UgaA0KZW5kDQo="
+          }
+        },
+        {
+          "label": "启用选中四季 · 7",
+          "action": "activate",
+          "mask": 7,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxX0VOQUJMRV8wN19CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0sxX0VOQUJMRV8wN19CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uU3ByaW5nJw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgRm9yY2VkQWN0aXZhdGlvbkthdGVuJw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgRm9yY2VkQWN0aXZhdGlvbkF1dHVtbicNCmZpbGVvcGVuIGggJ0M6XHNjcmlwdFxLMV9FTkFCTEVfMDdfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMV9FTkFCTEVfMDdfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "启用选中四季 · 8",
+          "action": "activate",
+          "mask": 8,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxX0VOQUJMRV8wOF9CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0sxX0VOQUJMRV8wOF9CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uV2ludGVyJw0KZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxX0VOQUJMRV8wOF9SRVRVUk5FRC50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0sxX0VOQUJMRV8wOF9DT01NQU5EU19SRVRVUk5FRF9DSEVDS19DQU1FUkEnDQpmaWxlY2xvc2UgaA0KZW5kDQo="
+          }
+        },
+        {
+          "label": "启用选中四季 · 9",
+          "action": "activate",
+          "mask": 9,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxX0VOQUJMRV8wOV9CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0sxX0VOQUJMRV8wOV9CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uU3ByaW5nJw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgRm9yY2VkQWN0aXZhdGlvbldpbnRlcicNCmZpbGVvcGVuIGggJ0M6XHNjcmlwdFxLMV9FTkFCTEVfMDlfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMV9FTkFCTEVfMDlfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "启用选中四季 · 10",
+          "action": "activate",
+          "mask": 10,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxX0VOQUJMRV8xMF9CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0sxX0VOQUJMRV8xMF9CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uS2F0ZW4nDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uV2ludGVyJw0KZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxX0VOQUJMRV8xMF9SRVRVUk5FRC50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0sxX0VOQUJMRV8xMF9DT01NQU5EU19SRVRVUk5FRF9DSEVDS19DQU1FUkEnDQpmaWxlY2xvc2UgaA0KZW5kDQo="
+          }
+        },
+        {
+          "label": "启用选中四季 · 11",
+          "action": "activate",
+          "mask": 11,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxX0VOQUJMRV8xMV9CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0sxX0VOQUJMRV8xMV9CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uU3ByaW5nJw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgRm9yY2VkQWN0aXZhdGlvbkthdGVuJw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgRm9yY2VkQWN0aXZhdGlvbldpbnRlcicNCmZpbGVvcGVuIGggJ0M6XHNjcmlwdFxLMV9FTkFCTEVfMTFfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMV9FTkFCTEVfMTFfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "启用选中四季 · 12",
+          "action": "activate",
+          "mask": 12,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxX0VOQUJMRV8xMl9CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0sxX0VOQUJMRV8xMl9CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uQXV0dW1uJw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgRm9yY2VkQWN0aXZhdGlvbldpbnRlcicNCmZpbGVvcGVuIGggJ0M6XHNjcmlwdFxLMV9FTkFCTEVfMTJfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMV9FTkFCTEVfMTJfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "启用选中四季 · 13",
+          "action": "activate",
+          "mask": 13,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxX0VOQUJMRV8xM19CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0sxX0VOQUJMRV8xM19CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uU3ByaW5nJw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgRm9yY2VkQWN0aXZhdGlvbkF1dHVtbicNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25XaW50ZXInDQpmaWxlb3BlbiBoICdDOlxzY3JpcHRcSzFfRU5BQkxFXzEzX1JFVFVSTkVELnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnSzFfRU5BQkxFXzEzX0NPTU1BTkRTX1JFVFVSTkVEX0NIRUNLX0NBTUVSQScNCmZpbGVjbG9zZSBoDQplbmQNCg=="
+          }
+        },
+        {
+          "label": "启用选中四季 · 14",
+          "action": "activate",
+          "mask": 14,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxX0VOQUJMRV8xNF9CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0sxX0VOQUJMRV8xNF9CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uS2F0ZW4nDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uQXV0dW1uJw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgRm9yY2VkQWN0aXZhdGlvbldpbnRlcicNCmZpbGVvcGVuIGggJ0M6XHNjcmlwdFxLMV9FTkFCTEVfMTRfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMV9FTkFCTEVfMTRfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "启用选中四季 · 15",
+          "action": "activate",
+          "mask": 15,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxX0VOQUJMRV8xNV9CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0sxX0VOQUJMRV8xNV9CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uU3ByaW5nJw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgRm9yY2VkQWN0aXZhdGlvbkthdGVuJw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgRm9yY2VkQWN0aXZhdGlvbkF1dHVtbicNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25XaW50ZXInDQpmaWxlb3BlbiBoICdDOlxzY3JpcHRcSzFfRU5BQkxFXzE1X1JFVFVSTkVELnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnSzFfRU5BQkxFXzE1X0NPTU1BTkRTX1JFVFVSTkVEX0NIRUNLX0NBTUVSQScNCmZpbGVjbG9zZSBoDQplbmQNCg=="
+          }
+        },
+        {
+          "label": "撤销选中四季 · 1",
+          "action": "clear",
+          "mask": 1,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxX0NMRUFSXzAxX0JFR0lOLnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnSzFfQ0xFQVJfMDFfQkVHSU4nDQpmaWxlY2xvc2UgaA0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uU3ByaW5nJw0KZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxX0NMRUFSXzAxX1JFVFVSTkVELnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnSzFfQ0xFQVJfMDFfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "撤销选中四季 · 2",
+          "action": "clear",
+          "mask": 2,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxX0NMRUFSXzAyX0JFR0lOLnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnSzFfQ0xFQVJfMDJfQkVHSU4nDQpmaWxlY2xvc2UgaA0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uS2F0ZW4nDQpmaWxlb3BlbiBoICdDOlxzY3JpcHRcSzFfQ0xFQVJfMDJfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMV9DTEVBUl8wMl9DT01NQU5EU19SRVRVUk5FRF9DSEVDS19DQU1FUkEnDQpmaWxlY2xvc2UgaA0KZW5kDQo="
+          }
+        },
+        {
+          "label": "撤销选中四季 · 3",
+          "action": "clear",
+          "mask": 3,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxX0NMRUFSXzAzX0JFR0lOLnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnSzFfQ0xFQVJfMDNfQkVHSU4nDQpmaWxlY2xvc2UgaA0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uU3ByaW5nJw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uS2F0ZW4nDQpmaWxlb3BlbiBoICdDOlxzY3JpcHRcSzFfQ0xFQVJfMDNfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMV9DTEVBUl8wM19DT01NQU5EU19SRVRVUk5FRF9DSEVDS19DQU1FUkEnDQpmaWxlY2xvc2UgaA0KZW5kDQo="
+          }
+        },
+        {
+          "label": "撤销选中四季 · 4",
+          "action": "clear",
+          "mask": 4,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxX0NMRUFSXzA0X0JFR0lOLnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnSzFfQ0xFQVJfMDRfQkVHSU4nDQpmaWxlY2xvc2UgaA0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uQXV0dW1uJw0KZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxX0NMRUFSXzA0X1JFVFVSTkVELnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnSzFfQ0xFQVJfMDRfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "撤销选中四季 · 5",
+          "action": "clear",
+          "mask": 5,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxX0NMRUFSXzA1X0JFR0lOLnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnSzFfQ0xFQVJfMDVfQkVHSU4nDQpmaWxlY2xvc2UgaA0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uU3ByaW5nJw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uQXV0dW1uJw0KZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxX0NMRUFSXzA1X1JFVFVSTkVELnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnSzFfQ0xFQVJfMDVfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "撤销选中四季 · 6",
+          "action": "clear",
+          "mask": 6,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxX0NMRUFSXzA2X0JFR0lOLnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnSzFfQ0xFQVJfMDZfQkVHSU4nDQpmaWxlY2xvc2UgaA0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uS2F0ZW4nDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25BdXR1bW4nDQpmaWxlb3BlbiBoICdDOlxzY3JpcHRcSzFfQ0xFQVJfMDZfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMV9DTEVBUl8wNl9DT01NQU5EU19SRVRVUk5FRF9DSEVDS19DQU1FUkEnDQpmaWxlY2xvc2UgaA0KZW5kDQo="
+          }
+        },
+        {
+          "label": "撤销选中四季 · 7",
+          "action": "clear",
+          "mask": 7,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxX0NMRUFSXzA3X0JFR0lOLnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnSzFfQ0xFQVJfMDdfQkVHSU4nDQpmaWxlY2xvc2UgaA0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uU3ByaW5nJw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uS2F0ZW4nDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25BdXR1bW4nDQpmaWxlb3BlbiBoICdDOlxzY3JpcHRcSzFfQ0xFQVJfMDdfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMV9DTEVBUl8wN19DT01NQU5EU19SRVRVUk5FRF9DSEVDS19DQU1FUkEnDQpmaWxlY2xvc2UgaA0KZW5kDQo="
+          }
+        },
+        {
+          "label": "撤销选中四季 · 8",
+          "action": "clear",
+          "mask": 8,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxX0NMRUFSXzA4X0JFR0lOLnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnSzFfQ0xFQVJfMDhfQkVHSU4nDQpmaWxlY2xvc2UgaA0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uV2ludGVyJw0KZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxX0NMRUFSXzA4X1JFVFVSTkVELnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnSzFfQ0xFQVJfMDhfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "撤销选中四季 · 9",
+          "action": "clear",
+          "mask": 9,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxX0NMRUFSXzA5X0JFR0lOLnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnSzFfQ0xFQVJfMDlfQkVHSU4nDQpmaWxlY2xvc2UgaA0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uU3ByaW5nJw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uV2ludGVyJw0KZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxX0NMRUFSXzA5X1JFVFVSTkVELnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnSzFfQ0xFQVJfMDlfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "撤销选中四季 · 10",
+          "action": "clear",
+          "mask": 10,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxX0NMRUFSXzEwX0JFR0lOLnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnSzFfQ0xFQVJfMTBfQkVHSU4nDQpmaWxlY2xvc2UgaA0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uS2F0ZW4nDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25XaW50ZXInDQpmaWxlb3BlbiBoICdDOlxzY3JpcHRcSzFfQ0xFQVJfMTBfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMV9DTEVBUl8xMF9DT01NQU5EU19SRVRVUk5FRF9DSEVDS19DQU1FUkEnDQpmaWxlY2xvc2UgaA0KZW5kDQo="
+          }
+        },
+        {
+          "label": "撤销选中四季 · 11",
+          "action": "clear",
+          "mask": 11,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxX0NMRUFSXzExX0JFR0lOLnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnSzFfQ0xFQVJfMTFfQkVHSU4nDQpmaWxlY2xvc2UgaA0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uU3ByaW5nJw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uS2F0ZW4nDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25XaW50ZXInDQpmaWxlb3BlbiBoICdDOlxzY3JpcHRcSzFfQ0xFQVJfMTFfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMV9DTEVBUl8xMV9DT01NQU5EU19SRVRVUk5FRF9DSEVDS19DQU1FUkEnDQpmaWxlY2xvc2UgaA0KZW5kDQo="
+          }
+        },
+        {
+          "label": "撤销选中四季 · 12",
+          "action": "clear",
+          "mask": 12,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxX0NMRUFSXzEyX0JFR0lOLnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnSzFfQ0xFQVJfMTJfQkVHSU4nDQpmaWxlY2xvc2UgaA0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uQXV0dW1uJw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uV2ludGVyJw0KZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxX0NMRUFSXzEyX1JFVFVSTkVELnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnSzFfQ0xFQVJfMTJfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "撤销选中四季 · 13",
+          "action": "clear",
+          "mask": 13,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxX0NMRUFSXzEzX0JFR0lOLnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnSzFfQ0xFQVJfMTNfQkVHSU4nDQpmaWxlY2xvc2UgaA0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uU3ByaW5nJw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uQXV0dW1uJw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uV2ludGVyJw0KZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxX0NMRUFSXzEzX1JFVFVSTkVELnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnSzFfQ0xFQVJfMTNfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "撤销选中四季 · 14",
+          "action": "clear",
+          "mask": 14,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxX0NMRUFSXzE0X0JFR0lOLnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnSzFfQ0xFQVJfMTRfQkVHSU4nDQpmaWxlY2xvc2UgaA0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uS2F0ZW4nDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25BdXR1bW4nDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25XaW50ZXInDQpmaWxlb3BlbiBoICdDOlxzY3JpcHRcSzFfQ0xFQVJfMTRfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMV9DTEVBUl8xNF9DT01NQU5EU19SRVRVUk5FRF9DSEVDS19DQU1FUkEnDQpmaWxlY2xvc2UgaA0KZW5kDQo="
+          }
+        },
+        {
+          "label": "撤销选中四季 · 15",
+          "action": "clear",
+          "mask": 15,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxX0NMRUFSXzE1X0JFR0lOLnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnSzFfQ0xFQVJfMTVfQkVHSU4nDQpmaWxlY2xvc2UgaA0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uU3ByaW5nJw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uS2F0ZW4nDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25BdXR1bW4nDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25XaW50ZXInDQpmaWxlb3BlbiBoICdDOlxzY3JpcHRcSzFfQ0xFQVJfMTVfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMV9DTEVBUl8xNV9DT01NQU5EU19SRVRVUk5FRF9DSEVDS19DQU1FUkEnDQpmaWxlY2xvc2UgaA0KZW5kDQo="
+          }
+        },
+        {
+          "label": "关闭脚本模式（备选）",
+          "action": "script_disable",
+          "mask": 0,
+          "files": {
+            "00077970.562": "W1NDUklQVF9FTl9NT0RFIERJU10NCg==",
+            "DEVELOP.MOD": "BwEsHxADHhYFLQ=="
+          }
+        }
+      ]
+    },
+    {
+      "model": "K-1 II",
+      "display": "K-1 II / K12",
+      "kind": "filter",
+      "status": "用户实测四季启用成功",
+      "tutorial": "K-1 II / K12 · 四季滤镜脚本教程\n版本范围：实机 2.50 / 分析 2.51\n验证状态：用户实测四季启用成功\n\n建议顺序：工程入口 → 在机身打开 SCRIPT EN MODE → 探测脚本 → 启用选中四季。\n\n1. 工程入口\n选择“工程模式”功能区的对应机型，或本区“工程菜单入口”，写入根目录 00078400.597 和 DEVELOP.MOD。\n写入口方案时，程序会先备份并移走已知的 startup.ttl，避免脚本抢先运行挡住工程入口。未知脚本会拦截并提示手动核对。\n正常关机后装卡；双卡槽使用卡槽 1。K-3 III / K-70 / KF：关好卡仓，按住 MENU 不放再开机（已实机确认）。K-1/K12：按住 MENU、卡舱门打开时开机。\n进入后找到 SCRIPT EN MODE 设为 EN 并正常确认。首次可沿用 K12 成功时的 DEBUG=EN、SCRIPT=EN；日常只开 SCRIPT 的组合仍需本型号重启实测。\n\n2. 找不到脚本开关时\n可选择“开启脚本模式（备选）”，仅写入 [SCRIPT_EN_MODE EN] 模式文件及 DEVELOP.MOD，再按该机型工程入口条件启动。该指令解析已经验证，但完整启动应用/保存路径仍待实机。不要把它当成已验证的一键启用。\n\n3. 先探测\n选择“只写标记探测”写卡，安全弹出后普通开机，不按 MENU，卡舱门正常关闭。程序会备份并移走已知根目录工程触发文件，避免反复进入菜单。\n关机后在电脑查看 script/K12_SCRIPT_PROBE_OK.txt。只有本次新产生的标记才能证明执行；重测时核对时间或先备份旧标记。\n没有标记时先核对 SCRIPT 开关是否保存、卡槽及启动条件，不要继续盲试滤镜命令。\n\n4. 启用四季\n选择“启用选中四季”，勾选春、夏、秋、冬，或按“全选”；程序仅发送已勾选季节的命令。未勾选的季节保持当前状态，不会自动撤销。\n写卡成功只代表卡内文件正确，并不等于相机已激活。安全弹出卡，普通开机，在自定义影像菜单检查 HARUBENI / KATEN / KYUSHU / FUYUNO，并分别拍摄 RAW+JPEG。\n脚本会写 BEGIN / RETURNED 标记。RETURNED 仅代表调用走到末尾，不保证命令返回成功或实际拍摄成功。\n\n5. 保留、撤销与再次进入工程菜单\nK12 已实测：无脚本卡重启后强制启用消失，因此日常需保留启动脚本。其他三机型重启、换镜头表现仍待实测。\n“撤销选中四季”只撤销勾选季节；全选后撤销可清除全部四季强制标志。运行后再移走脚本。\n需要进入工程菜单时重新写“工程菜单入口”，会备份并移走已知启动脚本。已知其他机型触发文件也先备份移走，防止混用。\n要关闭脚本，可在机身设 SCRIPT EN MODE=DIS；或使用“关闭脚本模式（备选）”，完整流程仍待实机。\n\n6. 机型差异\nK-1 与 K12 的四季命令名称和脚本内容可共用，工程模式文件名不同；本程序按机型写入，不会混用。\nK-3 III 使用 Harubeni / Katen / Kyushu / Fuyuno 命令后缀；K-1、K12、KF 使用 Spring / Katen / Autumn / Winter。\nK-3 III Monochrome 不在四季滤镜适配范围。\n\n7. 文件与备份\n所有激活操作只写存储卡文件，不格式化、不修改照片、不刷固件、不写镜头 ROM。被替换/移走文件保存在卡内 Pentax_Debug_Backup_*，保留原有相对目录。\nscript/startup.ttl 是 ASCII、无 BOM、CRLF；DEVELOP.MOD 是原始 10 字节二进制，不能用记事本另存为文本。\n",
+      "variants": [
+        {
+          "label": "工程菜单入口",
+          "action": "entry",
+          "mask": 0,
+          "files": {
+            "00078400.597": "W09QRU5fREVCVUdfTUVOVV0NCg==",
+            "DEVELOP.MOD": "BwEsHxADHhYFLQ=="
+          }
+        },
+        {
+          "label": "开启脚本模式（备选）",
+          "action": "script_enable",
+          "mask": 0,
+          "files": {
+            "00078400.597": "W1NDUklQVF9FTl9NT0RFIEVOXQ0K",
+            "DEVELOP.MOD": "BwEsHxADHhYFLQ=="
+          }
+        },
+        {
+          "label": "只写标记探测",
+          "action": "probe",
+          "mask": 0,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxMl9TQ1JJUFRfUFJPQkVfT0sudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMTJfU0NSSVBUX1BST0JFX09LJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "启用选中四季 · 1",
+          "action": "activate",
+          "mask": 1,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxMl9FTkFCTEVfMDFfQkVHSU4udHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMTJfRU5BQkxFXzAxX0JFR0lOJw0KZmlsZWNsb3NlIGgNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25TcHJpbmcnDQpmaWxlb3BlbiBoICdDOlxzY3JpcHRcSzEyX0VOQUJMRV8wMV9SRVRVUk5FRC50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0sxMl9FTkFCTEVfMDFfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "启用选中四季 · 2",
+          "action": "activate",
+          "mask": 2,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxMl9FTkFCTEVfMDJfQkVHSU4udHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMTJfRU5BQkxFXzAyX0JFR0lOJw0KZmlsZWNsb3NlIGgNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25LYXRlbicNCmZpbGVvcGVuIGggJ0M6XHNjcmlwdFxLMTJfRU5BQkxFXzAyX1JFVFVSTkVELnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnSzEyX0VOQUJMRV8wMl9DT01NQU5EU19SRVRVUk5FRF9DSEVDS19DQU1FUkEnDQpmaWxlY2xvc2UgaA0KZW5kDQo="
+          }
+        },
+        {
+          "label": "启用选中四季 · 3",
+          "action": "activate",
+          "mask": 3,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxMl9FTkFCTEVfMDNfQkVHSU4udHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMTJfRU5BQkxFXzAzX0JFR0lOJw0KZmlsZWNsb3NlIGgNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25TcHJpbmcnDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uS2F0ZW4nDQpmaWxlb3BlbiBoICdDOlxzY3JpcHRcSzEyX0VOQUJMRV8wM19SRVRVUk5FRC50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0sxMl9FTkFCTEVfMDNfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "启用选中四季 · 4",
+          "action": "activate",
+          "mask": 4,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxMl9FTkFCTEVfMDRfQkVHSU4udHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMTJfRU5BQkxFXzA0X0JFR0lOJw0KZmlsZWNsb3NlIGgNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25BdXR1bW4nDQpmaWxlb3BlbiBoICdDOlxzY3JpcHRcSzEyX0VOQUJMRV8wNF9SRVRVUk5FRC50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0sxMl9FTkFCTEVfMDRfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "启用选中四季 · 5",
+          "action": "activate",
+          "mask": 5,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxMl9FTkFCTEVfMDVfQkVHSU4udHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMTJfRU5BQkxFXzA1X0JFR0lOJw0KZmlsZWNsb3NlIGgNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25TcHJpbmcnDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uQXV0dW1uJw0KZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxMl9FTkFCTEVfMDVfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMTJfRU5BQkxFXzA1X0NPTU1BTkRTX1JFVFVSTkVEX0NIRUNLX0NBTUVSQScNCmZpbGVjbG9zZSBoDQplbmQNCg=="
+          }
+        },
+        {
+          "label": "启用选中四季 · 6",
+          "action": "activate",
+          "mask": 6,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxMl9FTkFCTEVfMDZfQkVHSU4udHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMTJfRU5BQkxFXzA2X0JFR0lOJw0KZmlsZWNsb3NlIGgNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25LYXRlbicNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25BdXR1bW4nDQpmaWxlb3BlbiBoICdDOlxzY3JpcHRcSzEyX0VOQUJMRV8wNl9SRVRVUk5FRC50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0sxMl9FTkFCTEVfMDZfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "启用选中四季 · 7",
+          "action": "activate",
+          "mask": 7,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxMl9FTkFCTEVfMDdfQkVHSU4udHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMTJfRU5BQkxFXzA3X0JFR0lOJw0KZmlsZWNsb3NlIGgNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25TcHJpbmcnDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uS2F0ZW4nDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uQXV0dW1uJw0KZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxMl9FTkFCTEVfMDdfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMTJfRU5BQkxFXzA3X0NPTU1BTkRTX1JFVFVSTkVEX0NIRUNLX0NBTUVSQScNCmZpbGVjbG9zZSBoDQplbmQNCg=="
+          }
+        },
+        {
+          "label": "启用选中四季 · 8",
+          "action": "activate",
+          "mask": 8,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxMl9FTkFCTEVfMDhfQkVHSU4udHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMTJfRU5BQkxFXzA4X0JFR0lOJw0KZmlsZWNsb3NlIGgNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25XaW50ZXInDQpmaWxlb3BlbiBoICdDOlxzY3JpcHRcSzEyX0VOQUJMRV8wOF9SRVRVUk5FRC50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0sxMl9FTkFCTEVfMDhfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "启用选中四季 · 9",
+          "action": "activate",
+          "mask": 9,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxMl9FTkFCTEVfMDlfQkVHSU4udHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMTJfRU5BQkxFXzA5X0JFR0lOJw0KZmlsZWNsb3NlIGgNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25TcHJpbmcnDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uV2ludGVyJw0KZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxMl9FTkFCTEVfMDlfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMTJfRU5BQkxFXzA5X0NPTU1BTkRTX1JFVFVSTkVEX0NIRUNLX0NBTUVSQScNCmZpbGVjbG9zZSBoDQplbmQNCg=="
+          }
+        },
+        {
+          "label": "启用选中四季 · 10",
+          "action": "activate",
+          "mask": 10,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxMl9FTkFCTEVfMTBfQkVHSU4udHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMTJfRU5BQkxFXzEwX0JFR0lOJw0KZmlsZWNsb3NlIGgNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25LYXRlbicNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25XaW50ZXInDQpmaWxlb3BlbiBoICdDOlxzY3JpcHRcSzEyX0VOQUJMRV8xMF9SRVRVUk5FRC50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0sxMl9FTkFCTEVfMTBfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "启用选中四季 · 11",
+          "action": "activate",
+          "mask": 11,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxMl9FTkFCTEVfMTFfQkVHSU4udHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMTJfRU5BQkxFXzExX0JFR0lOJw0KZmlsZWNsb3NlIGgNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25TcHJpbmcnDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uS2F0ZW4nDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uV2ludGVyJw0KZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxMl9FTkFCTEVfMTFfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMTJfRU5BQkxFXzExX0NPTU1BTkRTX1JFVFVSTkVEX0NIRUNLX0NBTUVSQScNCmZpbGVjbG9zZSBoDQplbmQNCg=="
+          }
+        },
+        {
+          "label": "启用选中四季 · 12",
+          "action": "activate",
+          "mask": 12,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxMl9FTkFCTEVfMTJfQkVHSU4udHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMTJfRU5BQkxFXzEyX0JFR0lOJw0KZmlsZWNsb3NlIGgNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25BdXR1bW4nDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uV2ludGVyJw0KZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxMl9FTkFCTEVfMTJfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMTJfRU5BQkxFXzEyX0NPTU1BTkRTX1JFVFVSTkVEX0NIRUNLX0NBTUVSQScNCmZpbGVjbG9zZSBoDQplbmQNCg=="
+          }
+        },
+        {
+          "label": "启用选中四季 · 13",
+          "action": "activate",
+          "mask": 13,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxMl9FTkFCTEVfMTNfQkVHSU4udHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMTJfRU5BQkxFXzEzX0JFR0lOJw0KZmlsZWNsb3NlIGgNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25TcHJpbmcnDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uQXV0dW1uJw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgRm9yY2VkQWN0aXZhdGlvbldpbnRlcicNCmZpbGVvcGVuIGggJ0M6XHNjcmlwdFxLMTJfRU5BQkxFXzEzX1JFVFVSTkVELnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnSzEyX0VOQUJMRV8xM19DT01NQU5EU19SRVRVUk5FRF9DSEVDS19DQU1FUkEnDQpmaWxlY2xvc2UgaA0KZW5kDQo="
+          }
+        },
+        {
+          "label": "启用选中四季 · 14",
+          "action": "activate",
+          "mask": 14,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxMl9FTkFCTEVfMTRfQkVHSU4udHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMTJfRU5BQkxFXzE0X0JFR0lOJw0KZmlsZWNsb3NlIGgNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25LYXRlbicNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25BdXR1bW4nDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uV2ludGVyJw0KZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxMl9FTkFCTEVfMTRfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMTJfRU5BQkxFXzE0X0NPTU1BTkRTX1JFVFVSTkVEX0NIRUNLX0NBTUVSQScNCmZpbGVjbG9zZSBoDQplbmQNCg=="
+          }
+        },
+        {
+          "label": "启用选中四季 · 15",
+          "action": "activate",
+          "mask": 15,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxMl9FTkFCTEVfMTVfQkVHSU4udHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMTJfRU5BQkxFXzE1X0JFR0lOJw0KZmlsZWNsb3NlIGgNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25TcHJpbmcnDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uS2F0ZW4nDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uQXV0dW1uJw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgRm9yY2VkQWN0aXZhdGlvbldpbnRlcicNCmZpbGVvcGVuIGggJ0M6XHNjcmlwdFxLMTJfRU5BQkxFXzE1X1JFVFVSTkVELnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnSzEyX0VOQUJMRV8xNV9DT01NQU5EU19SRVRVUk5FRF9DSEVDS19DQU1FUkEnDQpmaWxlY2xvc2UgaA0KZW5kDQo="
+          }
+        },
+        {
+          "label": "撤销选中四季 · 1",
+          "action": "clear",
+          "mask": 1,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxMl9DTEVBUl8wMV9CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0sxMl9DTEVBUl8wMV9CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25TcHJpbmcnDQpmaWxlb3BlbiBoICdDOlxzY3JpcHRcSzEyX0NMRUFSXzAxX1JFVFVSTkVELnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnSzEyX0NMRUFSXzAxX0NPTU1BTkRTX1JFVFVSTkVEX0NIRUNLX0NBTUVSQScNCmZpbGVjbG9zZSBoDQplbmQNCg=="
+          }
+        },
+        {
+          "label": "撤销选中四季 · 2",
+          "action": "clear",
+          "mask": 2,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxMl9DTEVBUl8wMl9CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0sxMl9DTEVBUl8wMl9CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25LYXRlbicNCmZpbGVvcGVuIGggJ0M6XHNjcmlwdFxLMTJfQ0xFQVJfMDJfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMTJfQ0xFQVJfMDJfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "撤销选中四季 · 3",
+          "action": "clear",
+          "mask": 3,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxMl9DTEVBUl8wM19CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0sxMl9DTEVBUl8wM19CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25TcHJpbmcnDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25LYXRlbicNCmZpbGVvcGVuIGggJ0M6XHNjcmlwdFxLMTJfQ0xFQVJfMDNfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMTJfQ0xFQVJfMDNfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "撤销选中四季 · 4",
+          "action": "clear",
+          "mask": 4,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxMl9DTEVBUl8wNF9CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0sxMl9DTEVBUl8wNF9CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25BdXR1bW4nDQpmaWxlb3BlbiBoICdDOlxzY3JpcHRcSzEyX0NMRUFSXzA0X1JFVFVSTkVELnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnSzEyX0NMRUFSXzA0X0NPTU1BTkRTX1JFVFVSTkVEX0NIRUNLX0NBTUVSQScNCmZpbGVjbG9zZSBoDQplbmQNCg=="
+          }
+        },
+        {
+          "label": "撤销选中四季 · 5",
+          "action": "clear",
+          "mask": 5,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxMl9DTEVBUl8wNV9CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0sxMl9DTEVBUl8wNV9CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25TcHJpbmcnDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25BdXR1bW4nDQpmaWxlb3BlbiBoICdDOlxzY3JpcHRcSzEyX0NMRUFSXzA1X1JFVFVSTkVELnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnSzEyX0NMRUFSXzA1X0NPTU1BTkRTX1JFVFVSTkVEX0NIRUNLX0NBTUVSQScNCmZpbGVjbG9zZSBoDQplbmQNCg=="
+          }
+        },
+        {
+          "label": "撤销选中四季 · 6",
+          "action": "clear",
+          "mask": 6,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxMl9DTEVBUl8wNl9CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0sxMl9DTEVBUl8wNl9CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25LYXRlbicNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIENsZWFyRm9yY2VkQWN0aXZhdGlvbkF1dHVtbicNCmZpbGVvcGVuIGggJ0M6XHNjcmlwdFxLMTJfQ0xFQVJfMDZfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMTJfQ0xFQVJfMDZfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "撤销选中四季 · 7",
+          "action": "clear",
+          "mask": 7,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxMl9DTEVBUl8wN19CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0sxMl9DTEVBUl8wN19CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25TcHJpbmcnDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25LYXRlbicNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIENsZWFyRm9yY2VkQWN0aXZhdGlvbkF1dHVtbicNCmZpbGVvcGVuIGggJ0M6XHNjcmlwdFxLMTJfQ0xFQVJfMDdfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMTJfQ0xFQVJfMDdfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "撤销选中四季 · 8",
+          "action": "clear",
+          "mask": 8,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxMl9DTEVBUl8wOF9CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0sxMl9DTEVBUl8wOF9CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25XaW50ZXInDQpmaWxlb3BlbiBoICdDOlxzY3JpcHRcSzEyX0NMRUFSXzA4X1JFVFVSTkVELnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnSzEyX0NMRUFSXzA4X0NPTU1BTkRTX1JFVFVSTkVEX0NIRUNLX0NBTUVSQScNCmZpbGVjbG9zZSBoDQplbmQNCg=="
+          }
+        },
+        {
+          "label": "撤销选中四季 · 9",
+          "action": "clear",
+          "mask": 9,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxMl9DTEVBUl8wOV9CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0sxMl9DTEVBUl8wOV9CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25TcHJpbmcnDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25XaW50ZXInDQpmaWxlb3BlbiBoICdDOlxzY3JpcHRcSzEyX0NMRUFSXzA5X1JFVFVSTkVELnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnSzEyX0NMRUFSXzA5X0NPTU1BTkRTX1JFVFVSTkVEX0NIRUNLX0NBTUVSQScNCmZpbGVjbG9zZSBoDQplbmQNCg=="
+          }
+        },
+        {
+          "label": "撤销选中四季 · 10",
+          "action": "clear",
+          "mask": 10,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxMl9DTEVBUl8xMF9CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0sxMl9DTEVBUl8xMF9CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25LYXRlbicNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIENsZWFyRm9yY2VkQWN0aXZhdGlvbldpbnRlcicNCmZpbGVvcGVuIGggJ0M6XHNjcmlwdFxLMTJfQ0xFQVJfMTBfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMTJfQ0xFQVJfMTBfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "撤销选中四季 · 11",
+          "action": "clear",
+          "mask": 11,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxMl9DTEVBUl8xMV9CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0sxMl9DTEVBUl8xMV9CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25TcHJpbmcnDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25LYXRlbicNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIENsZWFyRm9yY2VkQWN0aXZhdGlvbldpbnRlcicNCmZpbGVvcGVuIGggJ0M6XHNjcmlwdFxLMTJfQ0xFQVJfMTFfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMTJfQ0xFQVJfMTFfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "撤销选中四季 · 12",
+          "action": "clear",
+          "mask": 12,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxMl9DTEVBUl8xMl9CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0sxMl9DTEVBUl8xMl9CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25BdXR1bW4nDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25XaW50ZXInDQpmaWxlb3BlbiBoICdDOlxzY3JpcHRcSzEyX0NMRUFSXzEyX1JFVFVSTkVELnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnSzEyX0NMRUFSXzEyX0NPTU1BTkRTX1JFVFVSTkVEX0NIRUNLX0NBTUVSQScNCmZpbGVjbG9zZSBoDQplbmQNCg=="
+          }
+        },
+        {
+          "label": "撤销选中四季 · 13",
+          "action": "clear",
+          "mask": 13,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxMl9DTEVBUl8xM19CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0sxMl9DTEVBUl8xM19CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25TcHJpbmcnDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25BdXR1bW4nDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25XaW50ZXInDQpmaWxlb3BlbiBoICdDOlxzY3JpcHRcSzEyX0NMRUFSXzEzX1JFVFVSTkVELnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnSzEyX0NMRUFSXzEzX0NPTU1BTkRTX1JFVFVSTkVEX0NIRUNLX0NBTUVSQScNCmZpbGVjbG9zZSBoDQplbmQNCg=="
+          }
+        },
+        {
+          "label": "撤销选中四季 · 14",
+          "action": "clear",
+          "mask": 14,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxMl9DTEVBUl8xNF9CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0sxMl9DTEVBUl8xNF9CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25LYXRlbicNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIENsZWFyRm9yY2VkQWN0aXZhdGlvbkF1dHVtbicNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIENsZWFyRm9yY2VkQWN0aXZhdGlvbldpbnRlcicNCmZpbGVvcGVuIGggJ0M6XHNjcmlwdFxLMTJfQ0xFQVJfMTRfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMTJfQ0xFQVJfMTRfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "撤销选中四季 · 15",
+          "action": "clear",
+          "mask": 15,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxMl9DTEVBUl8xNV9CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0sxMl9DTEVBUl8xNV9CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25TcHJpbmcnDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25LYXRlbicNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIENsZWFyRm9yY2VkQWN0aXZhdGlvbkF1dHVtbicNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIENsZWFyRm9yY2VkQWN0aXZhdGlvbldpbnRlcicNCmZpbGVvcGVuIGggJ0M6XHNjcmlwdFxLMTJfQ0xFQVJfMTVfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMTJfQ0xFQVJfMTVfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "关闭脚本模式（备选）",
+          "action": "script_disable",
+          "mask": 0,
+          "files": {
+            "00078400.597": "W1NDUklQVF9FTl9NT0RFIERJU10NCg==",
+            "DEVELOP.MOD": "BwEsHxADHhYFLQ=="
+          }
+        }
+      ]
+    },
+    {
+      "model": "K-3 III",
+      "display": "K-3 III（彩色版）",
+      "kind": "filter",
+      "status": "Factory / Script / 四季原始函数核验；Factory 实机待确认",
+      "tutorial": "K-3 III 彩色版 v2.20 · Service / Factory 菜单与脚本模式更正\n验证状态：Factory / Script / 四季原始函数核验；Factory 实机待确认。\nService 入口已有用户实测；Factory 入口、Script 菜单、四季命令已做固件原始函数离线验证，Factory 实机入口与脚本重启持久化待确认。\n\n为什么原来找不到 Script\n[OPEN_DEBUG_MENU] 打开的是 Service Menu。其页面没有 FW Setting 1/2。\n[OPEN_FACTORY_DEBUG_MENU] 才对应 Factory Menu，其中 FW Setting 1 → Script 是独立的脚本开关。不是把相机型号或 DEVELOP.MOD 改成 GR，也不是 Service Menu 中遗漏翻页。\n\n1. 打开 Factory Menu\n工程模式区选择 K-3 III，再选“Factory Menu · 脚本开关入口（待实机）”；四季滤镜区的 K-3 III“工程菜单入口”也已改为这一方案。\n工具写入卡根目录 00078420.582（内容仅 [OPEN_FACTORY_DEBUG_MENU]，ASCII/CRLF）及原有 10 字节 DEVELOP.MOD。\n写入口时会备份并移走已知 script/startup.ttl，避免它抢先执行；其他未知脚本需先核对并手动移走。\n安全弹出，装回你已成功进入 Service Menu 的同一张卡、同一卡槽；关好卡仓，按住 MENU 不放再开机（已实机确认）。不要再用卡仓打开的方式。\n预期标题应为 Factory Menu。进入 FW Setting 1，找到 Script 并切换为启用状态，正常确认退出、关机保存。Camera Mode 和 Script 为不同设置，不必为了找 Script 改动其他项目。\n若仍是 Service Menu，先在电脑确认卡上命令确实已换成 OPEN_FACTORY_DEBUG_MENU、没有 .txt 后缀，并核对是否放在正确卡槽；保留屏幕照片与固件版本。\n\n2. 探测脚本\n在工具选择 K-3 III → 只写标记探测。工具会备份并移走已知工程入口文件；安全弹出后普通开机，关好卡门，不按 MENU。\n关机取卡检查 script/K33_SCRIPT_PROBE_OK.txt。必须是本次新产生的文件；旧标记不能证明本次执行成功。\n先用探测验证 Script 开关在普通重启后生效，再运行滤镜脚本。\n\n3. 四季滤镜\n选择 K-3 III → 启用选中四季，可单选、多选或全选。未勾选的季节不会自动清除。\n命令后缀为 Harubeni / Katen / Kyushu / Fuyuno。该型不能混用 K12 的 Spring / Autumn / Winter 后缀。\n本轮没有修改四季脚本算法。请检查机内四季选项并拍 RAW+JPEG；RETURNED 标记只表示脚本走到调用之后，不等于已成功激活。\nK12 已实测离开脚本卡重启会失效；K33 的重启、换镜头、保存设置行为待实测。K-3 III Monochrome 不在本方案范围。\n\n4. 备选与退出\n若只需直接开脚本，可用“仅开启脚本模式”写 [SCRIPT_EN_MODE EN]，沿用工程触发条件。解析器和 Script 状态提交函数均已验证，但整机启动/保存未完整模拟。\n关闭时可在 Factory 的 Script 项切换关闭，或用备选 [SCRIPT_EN_MODE DIS]。先移走启动脚本，再测试关闭后的正常启动。\nService Menu 入口保留在工程模式区，可按原方案恢复；它与 Factory 入口共用同一文件名，卡上一次只放一种命令。\n\n5. 菜单用途\nFactory 有 FW Setting、显示/硬件测试、AF、数据导入导出、初始化、版本等页。Service 仅保留较少维护项目。\nSD → Camera 的 Adjust Data、Initialize 等会改变校准/用户数据，不属于开脚本或开滤镜步骤，勿作为探索入口随意执行。\n完整菜单表及证据见随包“K33工程菜单核查”。本工具只写卡文件，不执行数据导入、校准、初始化、刷固件或镜头 ROM 写入。\n",
+      "variants": [
+        {
+          "label": "Factory Menu · 脚本开关入口（待实机）",
+          "action": "entry",
+          "mask": 0,
+          "files": {
+            "00078420.582": "W09QRU5fRkFDVE9SWV9ERUJVR19NRU5VXQ0K",
+            "DEVELOP.MOD": "BwEsHxADHhYFLQ=="
+          }
+        },
+        {
+          "label": "开启脚本模式（备选）",
+          "action": "script_enable",
+          "mask": 0,
+          "files": {
+            "00078420.582": "W1NDUklQVF9FTl9NT0RFIEVOXQ0K",
+            "DEVELOP.MOD": "BwEsHxADHhYFLQ=="
+          }
+        },
+        {
+          "label": "只写标记探测",
+          "action": "probe",
+          "mask": 0,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEszM19TQ1JJUFRfUFJPQkVfT0sudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMzNfU0NSSVBUX1BST0JFX09LJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "启用选中四季 · 1",
+          "action": "activate",
+          "mask": 1,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEszM19FTkFCTEVfMDFfQkVHSU4udHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMzNfRU5BQkxFXzAxX0JFR0lOJw0KZmlsZWNsb3NlIGgNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25IYXJ1YmVuaScNCmZpbGVvcGVuIGggJ0M6XHNjcmlwdFxLMzNfRU5BQkxFXzAxX1JFVFVSTkVELnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnSzMzX0VOQUJMRV8wMV9DT01NQU5EU19SRVRVUk5FRF9DSEVDS19DQU1FUkEnDQpmaWxlY2xvc2UgaA0KZW5kDQo="
+          }
+        },
+        {
+          "label": "启用选中四季 · 2",
+          "action": "activate",
+          "mask": 2,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEszM19FTkFCTEVfMDJfQkVHSU4udHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMzNfRU5BQkxFXzAyX0JFR0lOJw0KZmlsZWNsb3NlIGgNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25LYXRlbicNCmZpbGVvcGVuIGggJ0M6XHNjcmlwdFxLMzNfRU5BQkxFXzAyX1JFVFVSTkVELnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnSzMzX0VOQUJMRV8wMl9DT01NQU5EU19SRVRVUk5FRF9DSEVDS19DQU1FUkEnDQpmaWxlY2xvc2UgaA0KZW5kDQo="
+          }
+        },
+        {
+          "label": "启用选中四季 · 3",
+          "action": "activate",
+          "mask": 3,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEszM19FTkFCTEVfMDNfQkVHSU4udHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMzNfRU5BQkxFXzAzX0JFR0lOJw0KZmlsZWNsb3NlIGgNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25IYXJ1YmVuaScNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25LYXRlbicNCmZpbGVvcGVuIGggJ0M6XHNjcmlwdFxLMzNfRU5BQkxFXzAzX1JFVFVSTkVELnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnSzMzX0VOQUJMRV8wM19DT01NQU5EU19SRVRVUk5FRF9DSEVDS19DQU1FUkEnDQpmaWxlY2xvc2UgaA0KZW5kDQo="
+          }
+        },
+        {
+          "label": "启用选中四季 · 4",
+          "action": "activate",
+          "mask": 4,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEszM19FTkFCTEVfMDRfQkVHSU4udHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMzNfRU5BQkxFXzA0X0JFR0lOJw0KZmlsZWNsb3NlIGgNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25LeXVzaHUnDQpmaWxlb3BlbiBoICdDOlxzY3JpcHRcSzMzX0VOQUJMRV8wNF9SRVRVUk5FRC50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0szM19FTkFCTEVfMDRfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "启用选中四季 · 5",
+          "action": "activate",
+          "mask": 5,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEszM19FTkFCTEVfMDVfQkVHSU4udHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMzNfRU5BQkxFXzA1X0JFR0lOJw0KZmlsZWNsb3NlIGgNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25IYXJ1YmVuaScNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25LeXVzaHUnDQpmaWxlb3BlbiBoICdDOlxzY3JpcHRcSzMzX0VOQUJMRV8wNV9SRVRVUk5FRC50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0szM19FTkFCTEVfMDVfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "启用选中四季 · 6",
+          "action": "activate",
+          "mask": 6,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEszM19FTkFCTEVfMDZfQkVHSU4udHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMzNfRU5BQkxFXzA2X0JFR0lOJw0KZmlsZWNsb3NlIGgNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25LYXRlbicNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25LeXVzaHUnDQpmaWxlb3BlbiBoICdDOlxzY3JpcHRcSzMzX0VOQUJMRV8wNl9SRVRVUk5FRC50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0szM19FTkFCTEVfMDZfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "启用选中四季 · 7",
+          "action": "activate",
+          "mask": 7,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEszM19FTkFCTEVfMDdfQkVHSU4udHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMzNfRU5BQkxFXzA3X0JFR0lOJw0KZmlsZWNsb3NlIGgNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25IYXJ1YmVuaScNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25LYXRlbicNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25LeXVzaHUnDQpmaWxlb3BlbiBoICdDOlxzY3JpcHRcSzMzX0VOQUJMRV8wN19SRVRVUk5FRC50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0szM19FTkFCTEVfMDdfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "启用选中四季 · 8",
+          "action": "activate",
+          "mask": 8,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEszM19FTkFCTEVfMDhfQkVHSU4udHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMzNfRU5BQkxFXzA4X0JFR0lOJw0KZmlsZWNsb3NlIGgNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25GdXl1bm8nDQpmaWxlb3BlbiBoICdDOlxzY3JpcHRcSzMzX0VOQUJMRV8wOF9SRVRVUk5FRC50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0szM19FTkFCTEVfMDhfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "启用选中四季 · 9",
+          "action": "activate",
+          "mask": 9,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEszM19FTkFCTEVfMDlfQkVHSU4udHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMzNfRU5BQkxFXzA5X0JFR0lOJw0KZmlsZWNsb3NlIGgNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25IYXJ1YmVuaScNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25GdXl1bm8nDQpmaWxlb3BlbiBoICdDOlxzY3JpcHRcSzMzX0VOQUJMRV8wOV9SRVRVUk5FRC50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0szM19FTkFCTEVfMDlfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "启用选中四季 · 10",
+          "action": "activate",
+          "mask": 10,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEszM19FTkFCTEVfMTBfQkVHSU4udHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMzNfRU5BQkxFXzEwX0JFR0lOJw0KZmlsZWNsb3NlIGgNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25LYXRlbicNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25GdXl1bm8nDQpmaWxlb3BlbiBoICdDOlxzY3JpcHRcSzMzX0VOQUJMRV8xMF9SRVRVUk5FRC50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0szM19FTkFCTEVfMTBfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "启用选中四季 · 11",
+          "action": "activate",
+          "mask": 11,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEszM19FTkFCTEVfMTFfQkVHSU4udHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMzNfRU5BQkxFXzExX0JFR0lOJw0KZmlsZWNsb3NlIGgNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25IYXJ1YmVuaScNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25LYXRlbicNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25GdXl1bm8nDQpmaWxlb3BlbiBoICdDOlxzY3JpcHRcSzMzX0VOQUJMRV8xMV9SRVRVUk5FRC50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0szM19FTkFCTEVfMTFfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "启用选中四季 · 12",
+          "action": "activate",
+          "mask": 12,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEszM19FTkFCTEVfMTJfQkVHSU4udHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMzNfRU5BQkxFXzEyX0JFR0lOJw0KZmlsZWNsb3NlIGgNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25LeXVzaHUnDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uRnV5dW5vJw0KZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEszM19FTkFCTEVfMTJfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMzNfRU5BQkxFXzEyX0NPTU1BTkRTX1JFVFVSTkVEX0NIRUNLX0NBTUVSQScNCmZpbGVjbG9zZSBoDQplbmQNCg=="
+          }
+        },
+        {
+          "label": "启用选中四季 · 13",
+          "action": "activate",
+          "mask": 13,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEszM19FTkFCTEVfMTNfQkVHSU4udHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMzNfRU5BQkxFXzEzX0JFR0lOJw0KZmlsZWNsb3NlIGgNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25IYXJ1YmVuaScNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25LeXVzaHUnDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uRnV5dW5vJw0KZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEszM19FTkFCTEVfMTNfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMzNfRU5BQkxFXzEzX0NPTU1BTkRTX1JFVFVSTkVEX0NIRUNLX0NBTUVSQScNCmZpbGVjbG9zZSBoDQplbmQNCg=="
+          }
+        },
+        {
+          "label": "启用选中四季 · 14",
+          "action": "activate",
+          "mask": 14,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEszM19FTkFCTEVfMTRfQkVHSU4udHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMzNfRU5BQkxFXzE0X0JFR0lOJw0KZmlsZWNsb3NlIGgNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25LYXRlbicNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25LeXVzaHUnDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uRnV5dW5vJw0KZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEszM19FTkFCTEVfMTRfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMzNfRU5BQkxFXzE0X0NPTU1BTkRTX1JFVFVSTkVEX0NIRUNLX0NBTUVSQScNCmZpbGVjbG9zZSBoDQplbmQNCg=="
+          }
+        },
+        {
+          "label": "启用选中四季 · 15",
+          "action": "activate",
+          "mask": 15,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEszM19FTkFCTEVfMTVfQkVHSU4udHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMzNfRU5BQkxFXzE1X0JFR0lOJw0KZmlsZWNsb3NlIGgNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25IYXJ1YmVuaScNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25LYXRlbicNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25LeXVzaHUnDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uRnV5dW5vJw0KZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEszM19FTkFCTEVfMTVfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMzNfRU5BQkxFXzE1X0NPTU1BTkRTX1JFVFVSTkVEX0NIRUNLX0NBTUVSQScNCmZpbGVjbG9zZSBoDQplbmQNCg=="
+          }
+        },
+        {
+          "label": "撤销选中四季 · 1",
+          "action": "clear",
+          "mask": 1,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEszM19DTEVBUl8wMV9CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0szM19DTEVBUl8wMV9CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25IYXJ1YmVuaScNCmZpbGVvcGVuIGggJ0M6XHNjcmlwdFxLMzNfQ0xFQVJfMDFfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMzNfQ0xFQVJfMDFfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "撤销选中四季 · 2",
+          "action": "clear",
+          "mask": 2,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEszM19DTEVBUl8wMl9CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0szM19DTEVBUl8wMl9CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25LYXRlbicNCmZpbGVvcGVuIGggJ0M6XHNjcmlwdFxLMzNfQ0xFQVJfMDJfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMzNfQ0xFQVJfMDJfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "撤销选中四季 · 3",
+          "action": "clear",
+          "mask": 3,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEszM19DTEVBUl8wM19CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0szM19DTEVBUl8wM19CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25IYXJ1YmVuaScNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIENsZWFyRm9yY2VkQWN0aXZhdGlvbkthdGVuJw0KZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEszM19DTEVBUl8wM19SRVRVUk5FRC50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0szM19DTEVBUl8wM19DT01NQU5EU19SRVRVUk5FRF9DSEVDS19DQU1FUkEnDQpmaWxlY2xvc2UgaA0KZW5kDQo="
+          }
+        },
+        {
+          "label": "撤销选中四季 · 4",
+          "action": "clear",
+          "mask": 4,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEszM19DTEVBUl8wNF9CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0szM19DTEVBUl8wNF9CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25LeXVzaHUnDQpmaWxlb3BlbiBoICdDOlxzY3JpcHRcSzMzX0NMRUFSXzA0X1JFVFVSTkVELnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnSzMzX0NMRUFSXzA0X0NPTU1BTkRTX1JFVFVSTkVEX0NIRUNLX0NBTUVSQScNCmZpbGVjbG9zZSBoDQplbmQNCg=="
+          }
+        },
+        {
+          "label": "撤销选中四季 · 5",
+          "action": "clear",
+          "mask": 5,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEszM19DTEVBUl8wNV9CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0szM19DTEVBUl8wNV9CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25IYXJ1YmVuaScNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIENsZWFyRm9yY2VkQWN0aXZhdGlvbkt5dXNodScNCmZpbGVvcGVuIGggJ0M6XHNjcmlwdFxLMzNfQ0xFQVJfMDVfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMzNfQ0xFQVJfMDVfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "撤销选中四季 · 6",
+          "action": "clear",
+          "mask": 6,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEszM19DTEVBUl8wNl9CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0szM19DTEVBUl8wNl9CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25LYXRlbicNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIENsZWFyRm9yY2VkQWN0aXZhdGlvbkt5dXNodScNCmZpbGVvcGVuIGggJ0M6XHNjcmlwdFxLMzNfQ0xFQVJfMDZfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMzNfQ0xFQVJfMDZfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "撤销选中四季 · 7",
+          "action": "clear",
+          "mask": 7,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEszM19DTEVBUl8wN19CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0szM19DTEVBUl8wN19CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25IYXJ1YmVuaScNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIENsZWFyRm9yY2VkQWN0aXZhdGlvbkthdGVuJw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uS3l1c2h1Jw0KZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEszM19DTEVBUl8wN19SRVRVUk5FRC50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0szM19DTEVBUl8wN19DT01NQU5EU19SRVRVUk5FRF9DSEVDS19DQU1FUkEnDQpmaWxlY2xvc2UgaA0KZW5kDQo="
+          }
+        },
+        {
+          "label": "撤销选中四季 · 8",
+          "action": "clear",
+          "mask": 8,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEszM19DTEVBUl8wOF9CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0szM19DTEVBUl8wOF9CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25GdXl1bm8nDQpmaWxlb3BlbiBoICdDOlxzY3JpcHRcSzMzX0NMRUFSXzA4X1JFVFVSTkVELnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnSzMzX0NMRUFSXzA4X0NPTU1BTkRTX1JFVFVSTkVEX0NIRUNLX0NBTUVSQScNCmZpbGVjbG9zZSBoDQplbmQNCg=="
+          }
+        },
+        {
+          "label": "撤销选中四季 · 9",
+          "action": "clear",
+          "mask": 9,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEszM19DTEVBUl8wOV9CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0szM19DTEVBUl8wOV9CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25IYXJ1YmVuaScNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIENsZWFyRm9yY2VkQWN0aXZhdGlvbkZ1eXVubycNCmZpbGVvcGVuIGggJ0M6XHNjcmlwdFxLMzNfQ0xFQVJfMDlfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMzNfQ0xFQVJfMDlfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "撤销选中四季 · 10",
+          "action": "clear",
+          "mask": 10,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEszM19DTEVBUl8xMF9CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0szM19DTEVBUl8xMF9CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25LYXRlbicNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIENsZWFyRm9yY2VkQWN0aXZhdGlvbkZ1eXVubycNCmZpbGVvcGVuIGggJ0M6XHNjcmlwdFxLMzNfQ0xFQVJfMTBfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMzNfQ0xFQVJfMTBfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "撤销选中四季 · 11",
+          "action": "clear",
+          "mask": 11,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEszM19DTEVBUl8xMV9CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0szM19DTEVBUl8xMV9CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25IYXJ1YmVuaScNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIENsZWFyRm9yY2VkQWN0aXZhdGlvbkthdGVuJw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uRnV5dW5vJw0KZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEszM19DTEVBUl8xMV9SRVRVUk5FRC50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0szM19DTEVBUl8xMV9DT01NQU5EU19SRVRVUk5FRF9DSEVDS19DQU1FUkEnDQpmaWxlY2xvc2UgaA0KZW5kDQo="
+          }
+        },
+        {
+          "label": "撤销选中四季 · 12",
+          "action": "clear",
+          "mask": 12,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEszM19DTEVBUl8xMl9CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0szM19DTEVBUl8xMl9CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25LeXVzaHUnDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25GdXl1bm8nDQpmaWxlb3BlbiBoICdDOlxzY3JpcHRcSzMzX0NMRUFSXzEyX1JFVFVSTkVELnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnSzMzX0NMRUFSXzEyX0NPTU1BTkRTX1JFVFVSTkVEX0NIRUNLX0NBTUVSQScNCmZpbGVjbG9zZSBoDQplbmQNCg=="
+          }
+        },
+        {
+          "label": "撤销选中四季 · 13",
+          "action": "clear",
+          "mask": 13,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEszM19DTEVBUl8xM19CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0szM19DTEVBUl8xM19CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25IYXJ1YmVuaScNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIENsZWFyRm9yY2VkQWN0aXZhdGlvbkt5dXNodScNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIENsZWFyRm9yY2VkQWN0aXZhdGlvbkZ1eXVubycNCmZpbGVvcGVuIGggJ0M6XHNjcmlwdFxLMzNfQ0xFQVJfMTNfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMzNfQ0xFQVJfMTNfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "撤销选中四季 · 14",
+          "action": "clear",
+          "mask": 14,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEszM19DTEVBUl8xNF9CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0szM19DTEVBUl8xNF9CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25LYXRlbicNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIENsZWFyRm9yY2VkQWN0aXZhdGlvbkt5dXNodScNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIENsZWFyRm9yY2VkQWN0aXZhdGlvbkZ1eXVubycNCmZpbGVvcGVuIGggJ0M6XHNjcmlwdFxLMzNfQ0xFQVJfMTRfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMzNfQ0xFQVJfMTRfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "撤销选中四季 · 15",
+          "action": "clear",
+          "mask": 15,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEszM19DTEVBUl8xNV9CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0szM19DTEVBUl8xNV9CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25IYXJ1YmVuaScNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIENsZWFyRm9yY2VkQWN0aXZhdGlvbkthdGVuJw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uS3l1c2h1Jw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uRnV5dW5vJw0KZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEszM19DTEVBUl8xNV9SRVRVUk5FRC50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0szM19DTEVBUl8xNV9DT01NQU5EU19SRVRVUk5FRF9DSEVDS19DQU1FUkEnDQpmaWxlY2xvc2UgaA0KZW5kDQo="
+          }
+        },
+        {
+          "label": "关闭脚本模式（备选）",
+          "action": "script_disable",
+          "mask": 0,
+          "files": {
+            "00078420.582": "W1NDUklQVF9FTl9NT0RFIERJU10NCg==",
+            "DEVELOP.MOD": "BwEsHxADHhYFLQ=="
+          }
+        }
+      ]
+    },
+    {
+      "model": "KF",
+      "display": "KF",
+      "kind": "filter",
+      "status": "原始函数离线验证；待实机",
+      "tutorial": "KF · 四季滤镜脚本教程\n版本范围：1.33\n验证状态：原始函数离线验证；待实机\n\n建议顺序：工程入口 → 在机身打开 SCRIPT EN MODE → 探测脚本 → 启用选中四季。\n\n1. 工程入口\n选择“工程模式”功能区的对应机型，或本区“工程菜单入口”，写入根目录 00078520.619 和 DEVELOP.MOD。\n写入口方案时，程序会先备份并移走已知的 startup.ttl，避免脚本抢先运行挡住工程入口。未知脚本会拦截并提示手动核对。\n正常关机后装卡；双卡槽使用卡槽 1。K-3 III / K-70 / KF：关好卡仓，按住 MENU 不放再开机（已实机确认）。K-1/K12：按住 MENU、卡舱门打开时开机。\n进入后找到 SCRIPT EN MODE 设为 EN 并正常确认。首次可沿用 K12 成功时的 DEBUG=EN、SCRIPT=EN；日常只开 SCRIPT 的组合仍需本型号重启实测。\n\n2. 找不到脚本开关时\n可选择“开启脚本模式（备选）”，仅写入 [SCRIPT_EN_MODE EN] 模式文件及 DEVELOP.MOD，再按该机型工程入口条件启动。该指令解析已经验证，但完整启动应用/保存路径仍待实机。不要把它当成已验证的一键启用。\n\n3. 先探测\n选择“只写标记探测”写卡，安全弹出后普通开机，不按 MENU，卡舱门正常关闭。程序会备份并移走已知根目录工程触发文件，避免反复进入菜单。\n关机后在电脑查看 script/KF_SCRIPT_PROBE_OK.txt。只有本次新产生的标记才能证明执行；重测时核对时间或先备份旧标记。\n没有标记时先核对 SCRIPT 开关是否保存、卡槽及启动条件，不要继续盲试滤镜命令。\n\n4. 启用四季\n选择“启用选中四季”，勾选春、夏、秋、冬，或按“全选”；程序仅发送已勾选季节的命令。未勾选的季节保持当前状态，不会自动撤销。\n写卡成功只代表卡内文件正确，并不等于相机已激活。安全弹出卡，普通开机，在自定义影像菜单检查 HARUBENI / KATEN / KYUSHU / FUYUNO，并分别拍摄 RAW+JPEG。\n脚本会写 BEGIN / RETURNED 标记。RETURNED 仅代表调用走到末尾，不保证命令返回成功或实际拍摄成功。\n\n5. 保留、撤销与再次进入工程菜单\nK12 已实测：无脚本卡重启后强制启用消失，因此日常需保留启动脚本。其他三机型重启、换镜头表现仍待实测。\n“撤销选中四季”只撤销勾选季节；全选后撤销可清除全部四季强制标志。运行后再移走脚本。\n需要进入工程菜单时重新写“工程菜单入口”，会备份并移走已知启动脚本。已知其他机型触发文件也先备份移走，防止混用。\n要关闭脚本，可在机身设 SCRIPT EN MODE=DIS；或使用“关闭脚本模式（备选）”，完整流程仍待实机。\n\n6. 机型差异\nK-1 与 K12 的四季命令名称和脚本内容可共用，工程模式文件名不同；本程序按机型写入，不会混用。\nK-3 III 使用 Harubeni / Katen / Kyushu / Fuyuno 命令后缀；K-1、K12、KF 使用 Spring / Katen / Autumn / Winter。\nK-3 III Monochrome 不在四季滤镜适配范围。\n\n7. 文件与备份\n所有激活操作只写存储卡文件，不格式化、不修改照片、不刷固件、不写镜头 ROM。被替换/移走文件保存在卡内 Pentax_Debug_Backup_*，保留原有相对目录。\nscript/startup.ttl 是 ASCII、无 BOM、CRLF；DEVELOP.MOD 是原始 10 字节二进制，不能用记事本另存为文本。\n",
+      "variants": [
+        {
+          "label": "工程菜单入口",
+          "action": "entry",
+          "mask": 0,
+          "files": {
+            "00078520.619": "W09QRU5fREVCVUdfTUVOVV0NCg==",
+            "DEVELOP.MOD": "BwEsHxADHhYFLQ=="
+          }
+        },
+        {
+          "label": "开启脚本模式（备选）",
+          "action": "script_enable",
+          "mask": 0,
+          "files": {
+            "00078520.619": "W1NDUklQVF9FTl9NT0RFIEVOXQ0K",
+            "DEVELOP.MOD": "BwEsHxADHhYFLQ=="
+          }
+        },
+        {
+          "label": "只写标记探测",
+          "action": "probe",
+          "mask": 0,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEtGX1NDUklQVF9QUk9CRV9PSy50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0tGX1NDUklQVF9QUk9CRV9PSycNCmZpbGVjbG9zZSBoDQplbmQNCg=="
+          }
+        },
+        {
+          "label": "启用选中四季 · 1",
+          "action": "activate",
+          "mask": 1,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEtGX0VOQUJMRV8wMV9CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0tGX0VOQUJMRV8wMV9CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uU3ByaW5nJw0KZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEtGX0VOQUJMRV8wMV9SRVRVUk5FRC50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0tGX0VOQUJMRV8wMV9DT01NQU5EU19SRVRVUk5FRF9DSEVDS19DQU1FUkEnDQpmaWxlY2xvc2UgaA0KZW5kDQo="
+          }
+        },
+        {
+          "label": "启用选中四季 · 2",
+          "action": "activate",
+          "mask": 2,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEtGX0VOQUJMRV8wMl9CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0tGX0VOQUJMRV8wMl9CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uS2F0ZW4nDQpmaWxlb3BlbiBoICdDOlxzY3JpcHRcS0ZfRU5BQkxFXzAyX1JFVFVSTkVELnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnS0ZfRU5BQkxFXzAyX0NPTU1BTkRTX1JFVFVSTkVEX0NIRUNLX0NBTUVSQScNCmZpbGVjbG9zZSBoDQplbmQNCg=="
+          }
+        },
+        {
+          "label": "启用选中四季 · 3",
+          "action": "activate",
+          "mask": 3,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEtGX0VOQUJMRV8wM19CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0tGX0VOQUJMRV8wM19CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uU3ByaW5nJw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgRm9yY2VkQWN0aXZhdGlvbkthdGVuJw0KZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEtGX0VOQUJMRV8wM19SRVRVUk5FRC50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0tGX0VOQUJMRV8wM19DT01NQU5EU19SRVRVUk5FRF9DSEVDS19DQU1FUkEnDQpmaWxlY2xvc2UgaA0KZW5kDQo="
+          }
+        },
+        {
+          "label": "启用选中四季 · 4",
+          "action": "activate",
+          "mask": 4,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEtGX0VOQUJMRV8wNF9CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0tGX0VOQUJMRV8wNF9CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uQXV0dW1uJw0KZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEtGX0VOQUJMRV8wNF9SRVRVUk5FRC50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0tGX0VOQUJMRV8wNF9DT01NQU5EU19SRVRVUk5FRF9DSEVDS19DQU1FUkEnDQpmaWxlY2xvc2UgaA0KZW5kDQo="
+          }
+        },
+        {
+          "label": "启用选中四季 · 5",
+          "action": "activate",
+          "mask": 5,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEtGX0VOQUJMRV8wNV9CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0tGX0VOQUJMRV8wNV9CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uU3ByaW5nJw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgRm9yY2VkQWN0aXZhdGlvbkF1dHVtbicNCmZpbGVvcGVuIGggJ0M6XHNjcmlwdFxLRl9FTkFCTEVfMDVfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLRl9FTkFCTEVfMDVfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "启用选中四季 · 6",
+          "action": "activate",
+          "mask": 6,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEtGX0VOQUJMRV8wNl9CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0tGX0VOQUJMRV8wNl9CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uS2F0ZW4nDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uQXV0dW1uJw0KZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEtGX0VOQUJMRV8wNl9SRVRVUk5FRC50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0tGX0VOQUJMRV8wNl9DT01NQU5EU19SRVRVUk5FRF9DSEVDS19DQU1FUkEnDQpmaWxlY2xvc2UgaA0KZW5kDQo="
+          }
+        },
+        {
+          "label": "启用选中四季 · 7",
+          "action": "activate",
+          "mask": 7,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEtGX0VOQUJMRV8wN19CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0tGX0VOQUJMRV8wN19CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uU3ByaW5nJw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgRm9yY2VkQWN0aXZhdGlvbkthdGVuJw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgRm9yY2VkQWN0aXZhdGlvbkF1dHVtbicNCmZpbGVvcGVuIGggJ0M6XHNjcmlwdFxLRl9FTkFCTEVfMDdfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLRl9FTkFCTEVfMDdfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "启用选中四季 · 8",
+          "action": "activate",
+          "mask": 8,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEtGX0VOQUJMRV8wOF9CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0tGX0VOQUJMRV8wOF9CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uV2ludGVyJw0KZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEtGX0VOQUJMRV8wOF9SRVRVUk5FRC50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0tGX0VOQUJMRV8wOF9DT01NQU5EU19SRVRVUk5FRF9DSEVDS19DQU1FUkEnDQpmaWxlY2xvc2UgaA0KZW5kDQo="
+          }
+        },
+        {
+          "label": "启用选中四季 · 9",
+          "action": "activate",
+          "mask": 9,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEtGX0VOQUJMRV8wOV9CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0tGX0VOQUJMRV8wOV9CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uU3ByaW5nJw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgRm9yY2VkQWN0aXZhdGlvbldpbnRlcicNCmZpbGVvcGVuIGggJ0M6XHNjcmlwdFxLRl9FTkFCTEVfMDlfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLRl9FTkFCTEVfMDlfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "启用选中四季 · 10",
+          "action": "activate",
+          "mask": 10,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEtGX0VOQUJMRV8xMF9CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0tGX0VOQUJMRV8xMF9CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uS2F0ZW4nDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uV2ludGVyJw0KZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEtGX0VOQUJMRV8xMF9SRVRVUk5FRC50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0tGX0VOQUJMRV8xMF9DT01NQU5EU19SRVRVUk5FRF9DSEVDS19DQU1FUkEnDQpmaWxlY2xvc2UgaA0KZW5kDQo="
+          }
+        },
+        {
+          "label": "启用选中四季 · 11",
+          "action": "activate",
+          "mask": 11,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEtGX0VOQUJMRV8xMV9CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0tGX0VOQUJMRV8xMV9CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uU3ByaW5nJw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgRm9yY2VkQWN0aXZhdGlvbkthdGVuJw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgRm9yY2VkQWN0aXZhdGlvbldpbnRlcicNCmZpbGVvcGVuIGggJ0M6XHNjcmlwdFxLRl9FTkFCTEVfMTFfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLRl9FTkFCTEVfMTFfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "启用选中四季 · 12",
+          "action": "activate",
+          "mask": 12,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEtGX0VOQUJMRV8xMl9CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0tGX0VOQUJMRV8xMl9CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uQXV0dW1uJw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgRm9yY2VkQWN0aXZhdGlvbldpbnRlcicNCmZpbGVvcGVuIGggJ0M6XHNjcmlwdFxLRl9FTkFCTEVfMTJfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLRl9FTkFCTEVfMTJfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "启用选中四季 · 13",
+          "action": "activate",
+          "mask": 13,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEtGX0VOQUJMRV8xM19CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0tGX0VOQUJMRV8xM19CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uU3ByaW5nJw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgRm9yY2VkQWN0aXZhdGlvbkF1dHVtbicNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25XaW50ZXInDQpmaWxlb3BlbiBoICdDOlxzY3JpcHRcS0ZfRU5BQkxFXzEzX1JFVFVSTkVELnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnS0ZfRU5BQkxFXzEzX0NPTU1BTkRTX1JFVFVSTkVEX0NIRUNLX0NBTUVSQScNCmZpbGVjbG9zZSBoDQplbmQNCg=="
+          }
+        },
+        {
+          "label": "启用选中四季 · 14",
+          "action": "activate",
+          "mask": 14,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEtGX0VOQUJMRV8xNF9CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0tGX0VOQUJMRV8xNF9CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uS2F0ZW4nDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uQXV0dW1uJw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgRm9yY2VkQWN0aXZhdGlvbldpbnRlcicNCmZpbGVvcGVuIGggJ0M6XHNjcmlwdFxLRl9FTkFCTEVfMTRfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLRl9FTkFCTEVfMTRfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "启用选中四季 · 15",
+          "action": "activate",
+          "mask": 15,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEtGX0VOQUJMRV8xNV9CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0tGX0VOQUJMRV8xNV9CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uU3ByaW5nJw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgRm9yY2VkQWN0aXZhdGlvbkthdGVuJw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgRm9yY2VkQWN0aXZhdGlvbkF1dHVtbicNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25XaW50ZXInDQpmaWxlb3BlbiBoICdDOlxzY3JpcHRcS0ZfRU5BQkxFXzE1X1JFVFVSTkVELnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnS0ZfRU5BQkxFXzE1X0NPTU1BTkRTX1JFVFVSTkVEX0NIRUNLX0NBTUVSQScNCmZpbGVjbG9zZSBoDQplbmQNCg=="
+          }
+        },
+        {
+          "label": "撤销选中四季 · 1",
+          "action": "clear",
+          "mask": 1,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEtGX0NMRUFSXzAxX0JFR0lOLnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnS0ZfQ0xFQVJfMDFfQkVHSU4nDQpmaWxlY2xvc2UgaA0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uU3ByaW5nJw0KZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEtGX0NMRUFSXzAxX1JFVFVSTkVELnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnS0ZfQ0xFQVJfMDFfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "撤销选中四季 · 2",
+          "action": "clear",
+          "mask": 2,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEtGX0NMRUFSXzAyX0JFR0lOLnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnS0ZfQ0xFQVJfMDJfQkVHSU4nDQpmaWxlY2xvc2UgaA0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uS2F0ZW4nDQpmaWxlb3BlbiBoICdDOlxzY3JpcHRcS0ZfQ0xFQVJfMDJfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLRl9DTEVBUl8wMl9DT01NQU5EU19SRVRVUk5FRF9DSEVDS19DQU1FUkEnDQpmaWxlY2xvc2UgaA0KZW5kDQo="
+          }
+        },
+        {
+          "label": "撤销选中四季 · 3",
+          "action": "clear",
+          "mask": 3,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEtGX0NMRUFSXzAzX0JFR0lOLnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnS0ZfQ0xFQVJfMDNfQkVHSU4nDQpmaWxlY2xvc2UgaA0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uU3ByaW5nJw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uS2F0ZW4nDQpmaWxlb3BlbiBoICdDOlxzY3JpcHRcS0ZfQ0xFQVJfMDNfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLRl9DTEVBUl8wM19DT01NQU5EU19SRVRVUk5FRF9DSEVDS19DQU1FUkEnDQpmaWxlY2xvc2UgaA0KZW5kDQo="
+          }
+        },
+        {
+          "label": "撤销选中四季 · 4",
+          "action": "clear",
+          "mask": 4,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEtGX0NMRUFSXzA0X0JFR0lOLnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnS0ZfQ0xFQVJfMDRfQkVHSU4nDQpmaWxlY2xvc2UgaA0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uQXV0dW1uJw0KZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEtGX0NMRUFSXzA0X1JFVFVSTkVELnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnS0ZfQ0xFQVJfMDRfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "撤销选中四季 · 5",
+          "action": "clear",
+          "mask": 5,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEtGX0NMRUFSXzA1X0JFR0lOLnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnS0ZfQ0xFQVJfMDVfQkVHSU4nDQpmaWxlY2xvc2UgaA0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uU3ByaW5nJw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uQXV0dW1uJw0KZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEtGX0NMRUFSXzA1X1JFVFVSTkVELnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnS0ZfQ0xFQVJfMDVfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "撤销选中四季 · 6",
+          "action": "clear",
+          "mask": 6,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEtGX0NMRUFSXzA2X0JFR0lOLnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnS0ZfQ0xFQVJfMDZfQkVHSU4nDQpmaWxlY2xvc2UgaA0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uS2F0ZW4nDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25BdXR1bW4nDQpmaWxlb3BlbiBoICdDOlxzY3JpcHRcS0ZfQ0xFQVJfMDZfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLRl9DTEVBUl8wNl9DT01NQU5EU19SRVRVUk5FRF9DSEVDS19DQU1FUkEnDQpmaWxlY2xvc2UgaA0KZW5kDQo="
+          }
+        },
+        {
+          "label": "撤销选中四季 · 7",
+          "action": "clear",
+          "mask": 7,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEtGX0NMRUFSXzA3X0JFR0lOLnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnS0ZfQ0xFQVJfMDdfQkVHSU4nDQpmaWxlY2xvc2UgaA0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uU3ByaW5nJw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uS2F0ZW4nDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25BdXR1bW4nDQpmaWxlb3BlbiBoICdDOlxzY3JpcHRcS0ZfQ0xFQVJfMDdfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLRl9DTEVBUl8wN19DT01NQU5EU19SRVRVUk5FRF9DSEVDS19DQU1FUkEnDQpmaWxlY2xvc2UgaA0KZW5kDQo="
+          }
+        },
+        {
+          "label": "撤销选中四季 · 8",
+          "action": "clear",
+          "mask": 8,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEtGX0NMRUFSXzA4X0JFR0lOLnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnS0ZfQ0xFQVJfMDhfQkVHSU4nDQpmaWxlY2xvc2UgaA0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uV2ludGVyJw0KZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEtGX0NMRUFSXzA4X1JFVFVSTkVELnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnS0ZfQ0xFQVJfMDhfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "撤销选中四季 · 9",
+          "action": "clear",
+          "mask": 9,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEtGX0NMRUFSXzA5X0JFR0lOLnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnS0ZfQ0xFQVJfMDlfQkVHSU4nDQpmaWxlY2xvc2UgaA0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uU3ByaW5nJw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uV2ludGVyJw0KZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEtGX0NMRUFSXzA5X1JFVFVSTkVELnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnS0ZfQ0xFQVJfMDlfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "撤销选中四季 · 10",
+          "action": "clear",
+          "mask": 10,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEtGX0NMRUFSXzEwX0JFR0lOLnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnS0ZfQ0xFQVJfMTBfQkVHSU4nDQpmaWxlY2xvc2UgaA0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uS2F0ZW4nDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25XaW50ZXInDQpmaWxlb3BlbiBoICdDOlxzY3JpcHRcS0ZfQ0xFQVJfMTBfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLRl9DTEVBUl8xMF9DT01NQU5EU19SRVRVUk5FRF9DSEVDS19DQU1FUkEnDQpmaWxlY2xvc2UgaA0KZW5kDQo="
+          }
+        },
+        {
+          "label": "撤销选中四季 · 11",
+          "action": "clear",
+          "mask": 11,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEtGX0NMRUFSXzExX0JFR0lOLnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnS0ZfQ0xFQVJfMTFfQkVHSU4nDQpmaWxlY2xvc2UgaA0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uU3ByaW5nJw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uS2F0ZW4nDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25XaW50ZXInDQpmaWxlb3BlbiBoICdDOlxzY3JpcHRcS0ZfQ0xFQVJfMTFfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLRl9DTEVBUl8xMV9DT01NQU5EU19SRVRVUk5FRF9DSEVDS19DQU1FUkEnDQpmaWxlY2xvc2UgaA0KZW5kDQo="
+          }
+        },
+        {
+          "label": "撤销选中四季 · 12",
+          "action": "clear",
+          "mask": 12,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEtGX0NMRUFSXzEyX0JFR0lOLnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnS0ZfQ0xFQVJfMTJfQkVHSU4nDQpmaWxlY2xvc2UgaA0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uQXV0dW1uJw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uV2ludGVyJw0KZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEtGX0NMRUFSXzEyX1JFVFVSTkVELnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnS0ZfQ0xFQVJfMTJfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "撤销选中四季 · 13",
+          "action": "clear",
+          "mask": 13,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEtGX0NMRUFSXzEzX0JFR0lOLnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnS0ZfQ0xFQVJfMTNfQkVHSU4nDQpmaWxlY2xvc2UgaA0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uU3ByaW5nJw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uQXV0dW1uJw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uV2ludGVyJw0KZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEtGX0NMRUFSXzEzX1JFVFVSTkVELnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnS0ZfQ0xFQVJfMTNfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K"
+          }
+        },
+        {
+          "label": "撤销选中四季 · 14",
+          "action": "clear",
+          "mask": 14,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEtGX0NMRUFSXzE0X0JFR0lOLnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnS0ZfQ0xFQVJfMTRfQkVHSU4nDQpmaWxlY2xvc2UgaA0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uS2F0ZW4nDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25BdXR1bW4nDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25XaW50ZXInDQpmaWxlb3BlbiBoICdDOlxzY3JpcHRcS0ZfQ0xFQVJfMTRfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLRl9DTEVBUl8xNF9DT01NQU5EU19SRVRVUk5FRF9DSEVDS19DQU1FUkEnDQpmaWxlY2xvc2UgaA0KZW5kDQo="
+          }
+        },
+        {
+          "label": "撤销选中四季 · 15",
+          "action": "clear",
+          "mask": 15,
+          "files": {
+            "script/startup.ttl": "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEtGX0NMRUFSXzE1X0JFR0lOLnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnS0ZfQ0xFQVJfMTVfQkVHSU4nDQpmaWxlY2xvc2UgaA0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uU3ByaW5nJw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uS2F0ZW4nDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25BdXR1bW4nDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25XaW50ZXInDQpmaWxlb3BlbiBoICdDOlxzY3JpcHRcS0ZfQ0xFQVJfMTVfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLRl9DTEVBUl8xNV9DT01NQU5EU19SRVRVUk5FRF9DSEVDS19DQU1FUkEnDQpmaWxlY2xvc2UgaA0KZW5kDQo="
+          }
+        },
+        {
+          "label": "关闭脚本模式（备选）",
+          "action": "script_disable",
+          "mask": 0,
+          "files": {
+            "00078520.619": "W1NDUklQVF9FTl9NT0RFIERJU10NCg==",
+            "DEVELOP.MOD": "BwEsHxADHhYFLQ=="
+          }
+        }
+      ]
+    }
+  ],
+  "legacyScripts": [
+    "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxMl9TQ1JJUFRfUFJPQkVfT0sudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMTJfU0NSSVBUX1BST0JFX09LJw0KZmlsZWNsb3NlIGgNCmVuZA0K",
+    "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxMl9TVU1NRVJfQkVHSU4udHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMTJfU1VNTUVSX0JFR0lOJw0KZmlsZWNsb3NlIGgNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25LYXRlbicNCmZpbGVvcGVuIGggJ0M6XHNjcmlwdFxLMTJfU1VNTUVSX1JFVFVSTkVELnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnSzEyX1NVTU1FUl9DT01NQU5EU19SRVRVUk5FRF9DSEVDS19DQU1FUkEnDQpmaWxlY2xvc2UgaA0KZW5kDQo=",
+    "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxMl9DTEVBUl9TVU1NRVJfQkVHSU4udHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMTJfQ0xFQVJfU1VNTUVSX0JFR0lOJw0KZmlsZWNsb3NlIGgNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIENsZWFyRm9yY2VkQWN0aXZhdGlvbkthdGVuJw0KZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxMl9DTEVBUl9TVU1NRVJfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMTJfQ0xFQVJfU1VNTUVSX0NPTU1BTkRTX1JFVFVSTkVEX0NIRUNLX0NBTUVSQScNCmZpbGVjbG9zZSBoDQplbmQNCg==",
+    "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxMl9BTExfU0VBU09OU19CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0sxMl9BTExfU0VBU09OU19CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uU3ByaW5nJw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgRm9yY2VkQWN0aXZhdGlvbkthdGVuJw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgRm9yY2VkQWN0aXZhdGlvbkF1dHVtbicNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25XaW50ZXInDQpmaWxlb3BlbiBoICdDOlxzY3JpcHRcSzEyX0FMTF9TRUFTT05TX1JFVFVSTkVELnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnSzEyX0FMTF9TRUFTT05TX0NPTU1BTkRTX1JFVFVSTkVEX0NIRUNLX0NBTUVSQScNCmZpbGVjbG9zZSBoDQplbmQNCg==",
+    "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEsxMl9DTEVBUl9BTExfU0VBU09OU19CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0sxMl9DTEVBUl9BTExfU0VBU09OU19CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25TcHJpbmcnDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25LYXRlbicNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIENsZWFyRm9yY2VkQWN0aXZhdGlvbkF1dHVtbicNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIENsZWFyRm9yY2VkQWN0aXZhdGlvbldpbnRlcicNCmZpbGVvcGVuIGggJ0M6XHNjcmlwdFxLMTJfQ0xFQVJfQUxMX1NFQVNPTlNfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMTJfQ0xFQVJfQUxMX1NFQVNPTlNfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K",
+    "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEszM19TQ1JJUFRfUFJPQkVfT0sudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMzNfU0NSSVBUX1BST0JFX09LJw0KZmlsZWNsb3NlIGgNCmVuZA0K",
+    "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEszM19BTExfU0VBU09OU19CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0szM19BTExfU0VBU09OU19CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uSGFydWJlbmknDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uS2F0ZW4nDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uS3l1c2h1Jw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgRm9yY2VkQWN0aXZhdGlvbkZ1eXVubycNCmZpbGVvcGVuIGggJ0M6XHNjcmlwdFxLMzNfQUxMX1NFQVNPTlNfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLMzNfQUxMX1NFQVNPTlNfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K",
+    "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEszM19DTEVBUl9BTExfU0VBU09OU19CRUdJTi50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0szM19DTEVBUl9BTExfU0VBU09OU19CRUdJTicNCmZpbGVjbG9zZSBoDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25IYXJ1YmVuaScNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIENsZWFyRm9yY2VkQWN0aXZhdGlvbkthdGVuJw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uS3l1c2h1Jw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uRnV5dW5vJw0KZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEszM19DTEVBUl9BTExfU0VBU09OU19SRVRVUk5FRC50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0szM19DTEVBUl9BTExfU0VBU09OU19DT01NQU5EU19SRVRVUk5FRF9DSEVDS19DQU1FUkEnDQpmaWxlY2xvc2UgaA0KZW5kDQo=",
+    "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEtGX1NDUklQVF9QUk9CRV9PSy50eHQnIDANCmZpbGV3cml0ZWxuIGggJ0tGX1NDUklQVF9QUk9CRV9PSycNCmZpbGVjbG9zZSBoDQplbmQNCg==",
+    "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEtGX0FMTF9TRUFTT05TX0JFR0lOLnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnS0ZfQUxMX1NFQVNPTlNfQkVHSU4nDQpmaWxlY2xvc2UgaA0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgRm9yY2VkQWN0aXZhdGlvblNwcmluZycNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25LYXRlbicNCnNlbmRsbiAnYXBwX2RlYnVnIEN1c3RvbUltYWdlIEZvcmNlZEFjdGl2YXRpb25BdXR1bW4nDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBGb3JjZWRBY3RpdmF0aW9uV2ludGVyJw0KZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEtGX0FMTF9TRUFTT05TX1JFVFVSTkVELnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnS0ZfQUxMX1NFQVNPTlNfQ09NTUFORFNfUkVUVVJORURfQ0hFQ0tfQ0FNRVJBJw0KZmlsZWNsb3NlIGgNCmVuZA0K",
+    "ZmlsZW9wZW4gaCAnQzpcc2NyaXB0XEtGX0NMRUFSX0FMTF9TRUFTT05TX0JFR0lOLnR4dCcgMA0KZmlsZXdyaXRlbG4gaCAnS0ZfQ0xFQVJfQUxMX1NFQVNPTlNfQkVHSU4nDQpmaWxlY2xvc2UgaA0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uU3ByaW5nJw0Kc2VuZGxuICdhcHBfZGVidWcgQ3VzdG9tSW1hZ2UgQ2xlYXJGb3JjZWRBY3RpdmF0aW9uS2F0ZW4nDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25BdXR1bW4nDQpzZW5kbG4gJ2FwcF9kZWJ1ZyBDdXN0b21JbWFnZSBDbGVhckZvcmNlZEFjdGl2YXRpb25XaW50ZXInDQpmaWxlb3BlbiBoICdDOlxzY3JpcHRcS0ZfQ0xFQVJfQUxMX1NFQVNPTlNfUkVUVVJORUQudHh0JyAwDQpmaWxld3JpdGVsbiBoICdLRl9DTEVBUl9BTExfU0VBU09OU19DT01NQU5EU19SRVRVUk5FRF9DSEVDS19DQU1FUkEnDQpmaWxlY2xvc2UgaA0KZW5kDQo="
+  ]
+}

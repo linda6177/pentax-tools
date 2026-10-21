@@ -1,0 +1,125 @@
+    /** Pull-to-refresh that drags the grid itself down, then springs back. */
+    private void buildPullToRefresh() {
+        refreshPull = new LinearLayout(activity());
+        LinearLayout row = (LinearLayout) refreshPull;
+        row.setOrientation(LinearLayout.HORIZONTAL);
+        row.setGravity(Gravity.CENTER);
+        refreshSpinner = new ProgressBar(activity(), null,
+                android.R.attr.progressBarStyleSmall);
+        ((ProgressBar) refreshSpinner).setIndeterminateTintList(
+                android.content.res.ColorStateList.valueOf(t.accent));
+        row.addView(refreshSpinner, new LinearLayout.LayoutParams(dp(16), dp(16)));
+        refreshPullText = UiKit.label(activity(), t, "下拉刷新", 11.5f, t.muted, 1);
+        refreshPullText.setPadding(dp(7), 0, 0, 0);
+        row.addView(refreshPullText);
+        refreshPull.setAlpha(0f);
+        FrameLayout.LayoutParams params = new FrameLayout.LayoutParams(-2, dp(40));
+        params.gravity = Gravity.TOP | Gravity.CENTER_HORIZONTAL;
+        params.topMargin = dp(6);
+        contentFrame.addView(refreshPull, params);
+        refreshPull.setTranslationY(dp(-30));
+
+        grid.setOnTouchListener((v, event) -> {
+            if (isSelecting() || pullRefreshing) return false;
+            switch (event.getActionMasked()) {
+                case MotionEvent.ACTION_DOWN:
+                    pullTracking = !grid.canScrollVertically(-1);
+                    pullStartY = event.getY();
+                    break;
+                case MotionEvent.ACTION_MOVE:
+                    if (!pullTracking) break;
+                    float dy = event.getY() - pullStartY;
+                    if (dy > 0 && !grid.canScrollVertically(-1)) {
+                        float offset = Math.min(dp(104), dy * 0.55f);
+                        applyPullOffset(offset);
+                        refreshPullText.setText(offset > dp(64) ? "松开刷新" : "下拉刷新");
+                    }
+                    break;
+                case MotionEvent.ACTION_UP:
+                case MotionEvent.ACTION_CANCEL:
+                    if (pullTracking) {
+                        float delta = event.getY() - pullStartY;
+                        pullTracking = false;
+                        if (delta > 0 && pullOffset > dp(64) && !pullRefreshing) {
+                            startPullRefresh();
+                        } else if (pullOffset > 0) {
+                            springBack();
+                        }
+                    }
+                    break;
+                default:
+                    break;
+            }
+            return false;
+        });
+    }
+
+    private void applyPullOffset(float offset) {
+        pullOffset = offset;
+        if (grid != null) grid.setTranslationY(offset);
+        if (refreshPull != null) {
+            refreshPull.setTranslationY(-dp(26) + offset);
+            refreshPull.setAlpha(Math.min(1f, offset / dp(30)));
+        }
+    }
+
+    private void springBack() {
+        if (grid == null) return;
+        grid.animate().translationY(0f).setDuration(340)
+                .setInterpolator(UiKit.OVERSHOOT).start();
+        if (refreshPull != null) {
+            refreshPull.animate().alpha(0f).translationY(-dp(26))
+                    .setDuration(200).start();
+        }
+        pullOffset = 0f;
+    }
+
+    private void startPullRefresh() {
+        pullRefreshing = true;
+        refreshPullText.setText("正在刷新…");
+        if (grid != null) {
+            grid.animate().translationY(dp(64)).setDuration(180)
+                    .setInterpolator(UiKit.DECELERATE_SOFT).start();
+        }
+        if (refreshPull != null) {
+            refreshPull.animate().alpha(1f).translationY(dp(64) - dp(26))
+                    .setDuration(180).start();
+        }
+        if (tab == TAB_CAMERA) {
+            refreshCamera(true);
+        } else {
+            loadLocal(true);
+        }
+        grid.postDelayed(this::finishPullRefresh, 4000L);
+    }
+
+    private void finishPullRefresh() {
+        if (!pullRefreshing) return;
+        pullRefreshing = false;
+        if (grid != null) {
+            grid.animate().translationY(0f).setDuration(420)
+                    .setInterpolator(UiKit.OVERSHOOT).start();
+        }
+        if (refreshPull != null) {
+            refreshPull.animate().alpha(0f).translationY(-dp(26))
+                    .setDuration(220).start();
+        }
+        pullOffset = 0f;
+    }
+
+    /** Resets any in-flight pull state (tab switch, state change, destroy). */
+    private void resetPullUi() {
+        pullTracking = false;
+        pullRefreshing = false;
+        pullOffset = 0f;
+        if (grid != null) {
+            grid.animate().cancel();
+            grid.setTranslationY(0f);
+        }
+        if (refreshPull != null) {
+            refreshPull.animate().cancel();
+            refreshPull.setAlpha(0f);
+            refreshPull.setTranslationY(-dp(26));
+        }
+    }
+

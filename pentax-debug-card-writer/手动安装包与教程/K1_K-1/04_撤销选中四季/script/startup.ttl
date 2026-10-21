@@ -1,0 +1,11 @@
+fileopen h 'C:\script\K1_CLEAR_15_BEGIN.txt' 0
+filewriteln h 'K1_CLEAR_15_BEGIN'
+fileclose h
+sendln 'app_debug CustomImage ClearForcedActivationSpring'
+sendln 'app_debug CustomImage ClearForcedActivationKaten'
+sendln 'app_debug CustomImage ClearForcedActivationAutumn'
+sendln 'app_debug CustomImage ClearForcedActivationWinter'
+fileopen h 'C:\script\K1_CLEAR_15_RETURNED.txt' 0
+filewriteln h 'K1_CLEAR_15_COMMANDS_RETURNED_CHECK_CAMERA'
+fileclose h
+end

@@ -1,0 +1,4 @@
+fileopen h 'C:\script\KF_SCRIPT_PROBE_OK.txt' 0
+filewriteln h 'KF_SCRIPT_PROBE_OK'
+fileclose h
+end

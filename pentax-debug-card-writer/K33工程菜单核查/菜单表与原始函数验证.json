@@ -1,0 +1,1001 @@
+{
+  "firmware_sha256": "7ff301d585ef7adcd620a15575faa39b4227cc5a27eaa8d754efe50f667a30f9",
+  "camera_accessed": false,
+  "full_boot_emulated": false,
+  "native_item_checks": 79,
+  "menus": [
+    {
+      "mode": 0,
+      "title": "Factory Menu",
+      "categories": [
+        {
+          "id": 0,
+          "name": "FW Setting 1",
+          "visible": true,
+          "table": "0x5368cc7c",
+          "items": [
+            {
+              "id": 1,
+              "name": "Camera Mode",
+              "operation_kind": 1,
+              "command_id": 1
+            },
+            {
+              "id": 3,
+              "name": "Script",
+              "operation_kind": 1,
+              "command_id": 4
+            },
+            {
+              "id": 4,
+              "name": "Key Emulate",
+              "operation_kind": 1,
+              "command_id": 41
+            },
+            {
+              "id": 5,
+              "name": "Serial Input",
+              "operation_kind": 1,
+              "command_id": 21
+            },
+            {
+              "id": 6,
+              "name": "Store Debug Log",
+              "operation_kind": 1,
+              "command_id": 42
+            },
+            {
+              "id": 28,
+              "name": "Card Door Open",
+              "operation_kind": 1,
+              "command_id": 47
+            },
+            {
+              "id": 7,
+              "name": "Thermal ShutDown",
+              "operation_kind": 0,
+              "command_id": 22
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "name": "FW Setting 2",
+          "visible": true,
+          "table": "0x5368ccd0",
+          "items": [
+            {
+              "id": 16,
+              "name": "Valid WLAN",
+              "operation_kind": 1,
+              "command_id": 23
+            },
+            {
+              "id": 8,
+              "name": "HDMI Format Priority",
+              "operation_kind": 2,
+              "command_id": 0
+            },
+            {
+              "id": 9,
+              "name": "HDMI Force Output Resolution",
+              "operation_kind": 3,
+              "command_id": 0
+            },
+            {
+              "id": 33,
+              "name": "Debug Switch Trigger",
+              "operation_kind": 3,
+              "command_id": 0
+            },
+            {
+              "id": 34,
+              "name": "ScreenShot Trigger",
+              "operation_kind": 3,
+              "command_id": 0
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Setting & Display",
+          "visible": false,
+          "table": "0x5368ccb8",
+          "items": []
+        },
+        {
+          "id": 3,
+          "name": "Test Display 1",
+          "visible": true,
+          "table": "0x5368cbfc",
+          "items": [
+            {
+              "id": 10,
+              "name": "Switch Test",
+              "operation_kind": 1,
+              "command_id": 31
+            },
+            {
+              "id": 11,
+              "name": "Electronic Level Check",
+              "operation_kind": 1,
+              "command_id": 35
+            },
+            {
+              "id": 12,
+              "name": "Dust Removal Test",
+              "operation_kind": 1,
+              "command_id": 36
+            },
+            {
+              "id": 14,
+              "name": "Display Camera Log",
+              "operation_kind": 1,
+              "command_id": 32
+            },
+            {
+              "id": 15,
+              "name": "Audio Test",
+              "operation_kind": 1,
+              "command_id": 33
+            },
+            {
+              "id": 13,
+              "name": "SR Data Check",
+              "operation_kind": 1,
+              "command_id": 37
+            },
+            {
+              "id": 31,
+              "name": "VLens Control Test",
+              "operation_kind": 1,
+              "command_id": 52
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Test Display 2",
+          "visible": true,
+          "table": "0x5368cc5c",
+          "items": [
+            {
+              "id": 32,
+              "name": "DeepLearning Object Detect Check",
+              "operation_kind": 1,
+              "command_id": 53
+            },
+            {
+              "id": 35,
+              "name": "Jpeg Check",
+              "operation_kind": 1,
+              "command_id": 54
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": "AF",
+          "visible": true,
+          "table": "0x5368c9b0",
+          "items": [
+            {
+              "id": 29,
+              "name": "PAF Sensor Setting",
+              "operation_kind": 1,
+              "command_id": 48
+            },
+            {
+              "id": 30,
+              "name": "PAF Adjust Value Display",
+              "operation_kind": 1,
+              "command_id": 49
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "name": "Camera -> SD",
+          "visible": true,
+          "table": "0x5368cc44",
+          "items": [
+            {
+              "id": 17,
+              "name": "Adjust Data",
+              "operation_kind": 1,
+              "command_id": 8
+            },
+            {
+              "id": 18,
+              "name": "Camera Log",
+              "operation_kind": 1,
+              "command_id": 12
+            },
+            {
+              "id": 19,
+              "name": "Debug Log",
+              "operation_kind": 1,
+              "command_id": 19
+            },
+            {
+              "id": 20,
+              "name": "Exception Log",
+              "operation_kind": 1,
+              "command_id": 20
+            },
+            {
+              "id": 21,
+              "name": "User Data",
+              "operation_kind": 1,
+              "command_id": 10
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "name": "SD -> Camera",
+          "visible": true,
+          "table": "0x5368cd30",
+          "items": [
+            {
+              "id": 22,
+              "name": "Adjust Data",
+              "operation_kind": 1,
+              "command_id": 9
+            },
+            {
+              "id": 23,
+              "name": "User Data",
+              "operation_kind": 1,
+              "command_id": 11
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "name": "Initialize",
+          "visible": true,
+          "table": "0x5368cc14",
+          "items": [
+            {
+              "id": 24,
+              "name": "Initialize User Data",
+              "operation_kind": 1,
+              "command_id": 6
+            },
+            {
+              "id": 25,
+              "name": "Erase Debug Log",
+              "operation_kind": 1,
+              "command_id": 38
+            },
+            {
+              "id": 26,
+              "name": "Erase Exception Log",
+              "operation_kind": 1,
+              "command_id": 39
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "name": "Version",
+          "visible": true,
+          "table": "0x5368cc2c",
+          "items": [
+            {
+              "id": 27,
+              "name": "Firmware",
+              "operation_kind": 1,
+              "command_id": 40
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "name": "Screen Shot",
+          "visible": false,
+          "table": "0x5368c9c8",
+          "items": []
+        }
+      ]
+    },
+    {
+      "mode": 1,
+      "title": "Service Menu",
+      "categories": [
+        {
+          "id": 0,
+          "name": "FW Setting 1",
+          "visible": false,
+          "table": "0x5368cc7c",
+          "items": []
+        },
+        {
+          "id": 1,
+          "name": "FW Setting 2",
+          "visible": false,
+          "table": "0x5368ccd0",
+          "items": []
+        },
+        {
+          "id": 2,
+          "name": "Setting & Display",
+          "visible": true,
+          "table": "0x5368ccb8",
+          "items": [
+            {
+              "id": 2,
+              "name": "Camera Mode",
+              "operation_kind": 1,
+              "command_id": 2
+            },
+            {
+              "id": 10,
+              "name": "Switch Test",
+              "operation_kind": 1,
+              "command_id": 31
+            },
+            {
+              "id": 16,
+              "name": "Valid WLAN",
+              "operation_kind": 1,
+              "command_id": 23
+            },
+            {
+              "id": 34,
+              "name": "ScreenShot Trigger",
+              "operation_kind": 3,
+              "command_id": 0
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Test Display 1",
+          "visible": false,
+          "table": "0x5368cbfc",
+          "items": []
+        },
+        {
+          "id": 4,
+          "name": "Test Display 2",
+          "visible": false,
+          "table": "0x5368cc5c",
+          "items": []
+        },
+        {
+          "id": 5,
+          "name": "AF",
+          "visible": false,
+          "table": "0x5368c9b0",
+          "items": []
+        },
+        {
+          "id": 6,
+          "name": "Camera -> SD",
+          "visible": true,
+          "table": "0x5368cc44",
+          "items": [
+            {
+              "id": 17,
+              "name": "Adjust Data",
+              "operation_kind": 1,
+              "command_id": 8
+            },
+            {
+              "id": 18,
+              "name": "Camera Log",
+              "operation_kind": 1,
+              "command_id": 12
+            },
+            {
+              "id": 21,
+              "name": "User Data",
+              "operation_kind": 1,
+              "command_id": 10
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "name": "SD -> Camera",
+          "visible": true,
+          "table": "0x5368cd30",
+          "items": [
+            {
+              "id": 22,
+              "name": "Adjust Data",
+              "operation_kind": 1,
+              "command_id": 9
+            },
+            {
+              "id": 23,
+              "name": "User Data",
+              "operation_kind": 1,
+              "command_id": 11
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "name": "Initialize",
+          "visible": true,
+          "table": "0x5368cc14",
+          "items": [
+            {
+              "id": 24,
+              "name": "Initialize User Data",
+              "operation_kind": 1,
+              "command_id": 6
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "name": "Version",
+          "visible": true,
+          "table": "0x5368cc2c",
+          "items": [
+            {
+              "id": 27,
+              "name": "Firmware",
+              "operation_kind": 1,
+              "command_id": 40
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "name": "Screen Shot",
+          "visible": false,
+          "table": "0x5368c9c8",
+          "items": []
+        }
+      ]
+    },
+    {
+      "mode": 2,
+      "title": "Setting Menu",
+      "categories": [
+        {
+          "id": 0,
+          "name": "FW Setting 1",
+          "visible": false,
+          "table": "0x5368cc7c",
+          "items": []
+        },
+        {
+          "id": 1,
+          "name": "FW Setting 2",
+          "visible": false,
+          "table": "0x5368ccd0",
+          "items": []
+        },
+        {
+          "id": 2,
+          "name": "Setting & Display",
+          "visible": false,
+          "table": "0x5368ccb8",
+          "items": []
+        },
+        {
+          "id": 3,
+          "name": "Test Display 1",
+          "visible": false,
+          "table": "0x5368cbfc",
+          "items": []
+        },
+        {
+          "id": 4,
+          "name": "Test Display 2",
+          "visible": false,
+          "table": "0x5368cc5c",
+          "items": []
+        },
+        {
+          "id": 5,
+          "name": "AF",
+          "visible": false,
+          "table": "0x5368c9b0",
+          "items": []
+        },
+        {
+          "id": 6,
+          "name": "Camera -> SD",
+          "visible": false,
+          "table": "0x5368cc44",
+          "items": []
+        },
+        {
+          "id": 7,
+          "name": "SD -> Camera",
+          "visible": false,
+          "table": "0x5368cd30",
+          "items": []
+        },
+        {
+          "id": 8,
+          "name": "Initialize",
+          "visible": false,
+          "table": "0x5368cc14",
+          "items": []
+        },
+        {
+          "id": 9,
+          "name": "Version",
+          "visible": false,
+          "table": "0x5368cc2c",
+          "items": []
+        },
+        {
+          "id": 10,
+          "name": "Screen Shot",
+          "visible": true,
+          "table": "0x5368c9c8",
+          "items": [
+            {
+              "id": 34,
+              "name": "ScreenShot Trigger",
+              "operation_kind": 3,
+              "command_id": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "commands": [
+    {
+      "index": 0,
+      "text": "DEBUG_MODE EN",
+      "restricted": 0
+    },
+    {
+      "index": 1,
+      "text": "DEBUG_MODE DIS",
+      "restricted": 0
+    },
+    {
+      "index": 2,
+      "text": "WRITE_CF_VNDR EN",
+      "restricted": 1
+    },
+    {
+      "index": 3,
+      "text": "WRITE_CF_VNDR DIS",
+      "restricted": 1
+    },
+    {
+      "index": 4,
+      "text": "SCRIPT_EN_MODE EN",
+      "restricted": 0
+    },
+    {
+      "index": 5,
+      "text": "SCRIPT_EN_MODE DIS",
+      "restricted": 0
+    },
+    {
+      "index": 6,
+      "text": "SW_DEBUG_MENU EN",
+      "restricted": 1
+    },
+    {
+      "index": 7,
+      "text": "SW_DEBUG_MENU DIS",
+      "restricted": 1
+    },
+    {
+      "index": 8,
+      "text": "USR_DAT_CLEAR",
+      "restricted": 0
+    },
+    {
+      "index": 9,
+      "text": "OPEN_DEBUG_MENU",
+      "restricted": 0
+    },
+    {
+      "index": 10,
+      "text": "OPEN_FACTORY_DEBUG_MENU",
+      "restricted": 0
+    },
+    {
+      "index": 11,
+      "text": "SWITCH_TEST",
+      "restricted": 0
+    },
+    {
+      "index": 12,
+      "text": "RELEASE_AGING",
+      "restricted": 0
+    },
+    {
+      "index": 13,
+      "text": "DSP_ROM_STORE",
+      "restricted": 1
+    },
+    {
+      "index": 14,
+      "text": "ADJ_DAT_READ",
+      "restricted": 0
+    },
+    {
+      "index": 15,
+      "text": "ADJ_DAT_WRITE",
+      "restricted": 0
+    },
+    {
+      "index": 16,
+      "text": "USR_DAT_READ",
+      "restricted": 0
+    },
+    {
+      "index": 17,
+      "text": "USR_DAT_WRITE",
+      "restricted": 0
+    },
+    {
+      "index": 18,
+      "text": "CAM_LOG_DAT_READ",
+      "restricted": 0
+    },
+    {
+      "index": 19,
+      "text": "CAM_LOG_DISP",
+      "restricted": 0
+    },
+    {
+      "index": 20,
+      "text": "USR_CLEAR_CAM_DISP",
+      "restricted": 0
+    },
+    {
+      "index": 21,
+      "text": "RELEASE_COUNT 0",
+      "restricted": 1
+    },
+    {
+      "index": 22,
+      "text": "RELEASE_COUNT 10",
+      "restricted": 1
+    },
+    {
+      "index": 23,
+      "text": "RELEASE_COUNT 25",
+      "restricted": 1
+    },
+    {
+      "index": 24,
+      "text": "RELEASE_COUNT 50",
+      "restricted": 1
+    },
+    {
+      "index": 25,
+      "text": "RELEASE_COUNT 100",
+      "restricted": 1
+    },
+    {
+      "index": 26,
+      "text": "INFORMATION",
+      "restricted": 0
+    },
+    {
+      "index": 27,
+      "text": "DEBUG_LOG_READ",
+      "restricted": 0
+    },
+    {
+      "index": 28,
+      "text": "EXCEPTION_LOG_READ",
+      "restricted": 1
+    },
+    {
+      "index": 29,
+      "text": "SERIAL_INPUT_EN_MODE EN",
+      "restricted": 1
+    },
+    {
+      "index": 30,
+      "text": "SERIAL_INPUT_EN_MODE DIS",
+      "restricted": 1
+    },
+    {
+      "index": 31,
+      "text": "DBG_LOG_STORE_EN_MODE EN",
+      "restricted": 0
+    },
+    {
+      "index": 32,
+      "text": "DBG_LOG_STORE_EN_MODE DIS",
+      "restricted": 1
+    },
+    {
+      "index": 33,
+      "text": "ELECTRICLEVEL_CHECK",
+      "restricted": 0
+    },
+    {
+      "index": 34,
+      "text": "THERMAL_SHUTDOWN EN",
+      "restricted": 1
+    },
+    {
+      "index": 35,
+      "text": "THERMAL_SHUTDOWN DIS",
+      "restricted": 0
+    },
+    {
+      "index": 36,
+      "text": "WIFI_ADJ ON",
+      "restricted": 0
+    },
+    {
+      "index": 37,
+      "text": "WIFI_ADJ OFF",
+      "restricted": 0
+    },
+    {
+      "index": 38,
+      "text": "WAIT_S1",
+      "restricted": 1
+    },
+    {
+      "index": 39,
+      "text": "SAVE_FLASH_FS",
+      "restricted": 1
+    },
+    {
+      "index": 40,
+      "text": "SR_PWM_OFF",
+      "restricted": 0
+    },
+    {
+      "index": 41,
+      "text": "SR_TRIPODCHECK_OFF",
+      "restricted": 0
+    },
+    {
+      "index": 42,
+      "text": "SR_HALL_TEST",
+      "restricted": 0
+    },
+    {
+      "index": 43,
+      "text": "WLAN_RF_TEST",
+      "restricted": 1
+    },
+    {
+      "index": 44,
+      "text": "BLE_RF_TEST",
+      "restricted": 1
+    },
+    {
+      "index": 45,
+      "text": "DEBUG_LOG_ERASE",
+      "restricted": 1
+    },
+    {
+      "index": 46,
+      "text": "EXCEPTION_LOG_ERASE",
+      "restricted": 1
+    },
+    {
+      "index": 47,
+      "text": "SPECIAL_MODEL JETBLACK",
+      "restricted": 1
+    },
+    {
+      "index": 48,
+      "text": "SPECIAL_MODEL DIS",
+      "restricted": 1
+    },
+    {
+      "index": 49,
+      "text": "DBG_LOG_PURGE_EN_MODE EN",
+      "restricted": 1
+    },
+    {
+      "index": 50,
+      "text": "DBG_LOG_PURGE_EN_MODE DIS",
+      "restricted": 1
+    },
+    {
+      "index": 51,
+      "text": "SCREEN_SHOT_MENU",
+      "restricted": 0
+    },
+    {
+      "index": 52,
+      "text": "CARD_DOOR_OPEN EN",
+      "restricted": 0
+    },
+    {
+      "index": 53,
+      "text": "CARD_DOOR_OPEN DIS",
+      "restricted": 0
+    },
+    {
+      "index": 54,
+      "text": "DCU_WRITE",
+      "restricted": 0
+    },
+    {
+      "index": 55,
+      "text": "UPDATE_PLD",
+      "restricted": 1
+    },
+    {
+      "index": 56,
+      "text": "KBSEL_VERIFICATION EN",
+      "restricted": 0
+    }
+  ],
+  "parser_tests": [
+    {
+      "permission": 0,
+      "command": "OPEN_DEBUG_MENU",
+      "return_value": 1,
+      "changed_offsets": [
+        [
+          3,
+          1
+        ]
+      ],
+      "operation": 9
+    },
+    {
+      "permission": 0,
+      "command": "OPEN_FACTORY_DEBUG_MENU",
+      "return_value": 1,
+      "changed_offsets": [
+        [
+          4,
+          1
+        ]
+      ],
+      "operation": 10
+    },
+    {
+      "permission": 0,
+      "command": "SCREEN_SHOT_MENU",
+      "return_value": 1,
+      "changed_offsets": [
+        [
+          27,
+          1
+        ]
+      ],
+      "operation": 48
+    },
+    {
+      "permission": 0,
+      "command": "SCRIPT_EN_MODE EN",
+      "return_value": 1,
+      "changed_offsets": [
+        [
+          1,
+          1
+        ]
+      ],
+      "operation": 4
+    },
+    {
+      "permission": 0,
+      "command": "SCRIPT_EN_MODE DIS",
+      "return_value": 1,
+      "changed_offsets": [
+        [
+          1,
+          2
+        ]
+      ],
+      "operation": 5
+    },
+    {
+      "permission": 1,
+      "command": "OPEN_DEBUG_MENU",
+      "return_value": 1,
+      "changed_offsets": [
+        [
+          3,
+          1
+        ]
+      ],
+      "operation": 9
+    },
+    {
+      "permission": 1,
+      "command": "OPEN_FACTORY_DEBUG_MENU",
+      "return_value": 1,
+      "changed_offsets": [
+        [
+          4,
+          1
+        ]
+      ],
+      "operation": 10
+    },
+    {
+      "permission": 1,
+      "command": "SCREEN_SHOT_MENU",
+      "return_value": 1,
+      "changed_offsets": [
+        [
+          27,
+          1
+        ]
+      ],
+      "operation": 48
+    },
+    {
+      "permission": 1,
+      "command": "SCRIPT_EN_MODE EN",
+      "return_value": 1,
+      "changed_offsets": [
+        [
+          1,
+          1
+        ]
+      ],
+      "operation": 4
+    },
+    {
+      "permission": 1,
+      "command": "SCRIPT_EN_MODE DIS",
+      "return_value": 1,
+      "changed_offsets": [
+        [
+          1,
+          2
+        ]
+      ],
+      "operation": 5
+    }
+  ],
+  "entry_dispatch_tests": [
+    {
+      "operation": 9,
+      "event": "0x100000a",
+      "menu_type": 1,
+      "title": "Service Menu",
+      "passed": true,
+      "scope": "original command-event handler and menu-type selection; message delivery and UI construction are boundary stubs"
+    },
+    {
+      "operation": 10,
+      "event": "0x1000009",
+      "menu_type": 0,
+      "title": "Factory Menu",
+      "passed": true,
+      "scope": "original command-event handler and menu-type selection; message delivery and UI construction are boundary stubs"
+    }
+  ],
+  "script_toggle_tests": [
+    {
+      "initial_enabled": false,
+      "request": {
+        "request_type": 2,
+        "command": 4,
+        "value_option": 1,
+        "stack_flag": 0
+      },
+      "final_magic": "0x5aa5a55a",
+      "passed": true,
+      "scope": "original menu toggle and separate script-setting commit; settings service mocked, no persistence claim"
+    },
+    {
+      "initial_enabled": true,
+      "request": {
+        "request_type": 2,
+        "command": 4,
+        "value_option": 2,
+        "stack_flag": 0
+      },
+      "final_magic": "0xffffffff",
+      "passed": true,
+      "scope": "original menu toggle and separate script-setting commit; settings service mocked, no persistence claim"
+    }
+  ]
+}
