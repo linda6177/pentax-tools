@@ -9,11 +9,13 @@
 
 | 首页 | 相册 |
 |---|---|
-| ![首页](docs/screenshots/01-首页.jpg) | ![相册](docs/screenshots/02-相册.jpg) |
+| ![首页](https://cdn.jsdelivr.net/gh/linda6177/pentax-tools@main/imagesync-modern/docs/screenshots/01-home.jpg) | ![相册](https://cdn.jsdelivr.net/gh/linda6177/pentax-tools@main/imagesync-modern/docs/screenshots/02-gallery.jpg) |
 
 | 遥控 · Wi-Fi | 遥控 · 红外 |
 |---|---|
-| ![WiFi 遥控](docs/screenshots/03-遥控-WiFi.jpg) | ![红外遥控](docs/screenshots/04-遥控-红外.jpg) |
+| ![WiFi 遥控](https://cdn.jsdelivr.net/gh/linda6177/pentax-tools@main/imagesync-modern/docs/screenshots/03-remote-wifi.jpg) | ![红外遥控](https://cdn.jsdelivr.net/gh/linda6177/pentax-tools@main/imagesync-modern/docs/screenshots/04-remote-ir.jpg) |
+
+> 图片走 jsDelivr CDN（因为 raw.githubusercontent.com 在部分网络下不可达）；原图在 [`docs/screenshots/`](docs/screenshots/)。
 
 ## 做了什么
 
